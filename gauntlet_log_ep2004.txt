@@ -1,0 +1,1510 @@
+=== GAUNTLET LOG Episode 2004 ===
+
+Game 1 vs Random | Turn 1
+  Active: Chi-Yu, Energy: 0, Hand: 8
+  Legal: 0 attacks, 2 attaches, 0 evolves
+  Chose: Action('ATTACH_ACTIVE', a=Darkness Energy)
+
+Game 1 vs Random | Turn 1
+  Active: Chi-Yu, Energy: 1, Hand: 7
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PLAY_BASIC_TO_BENCH', a=Charmander, b=1)
+
+Game 1 vs Random | Turn 1
+  Active: Chi-Yu, Energy: 1, Hand: 6
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PASS')
+
+Game 1 vs Random | Turn 3
+  Active: Chi-Yu, Energy: 1, Hand: 7
+  Legal: 0 attacks, 2 attaches, 0 evolves
+  Chose: Action('PASS')
+
+Game 1 vs Random | Turn 5
+  Active: Charmander, Energy: 0, Hand: 8
+  Legal: 0 attacks, 2 attaches, 1 evolves
+  Chose: Action('ATTACH_ACTIVE', a=Jet Energy)
+
+Game 1 vs Random | Turn 5
+  Active: Charmander, Energy: 1, Hand: 7
+  Legal: 0 attacks, 0 attaches, 1 evolves
+  Chose: Action('EVOLVE_ACTIVE', a=Charmeleon)
+
+Game 1 vs Random | Turn 5
+  Active: Charmeleon, Energy: 1, Hand: 6
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PASS')
+
+Game 1 vs Random | Turn 7
+  Active: Charmeleon, Energy: 1, Hand: 7
+  Legal: 0 attacks, 0 attaches, 1 evolves
+  Chose: Action('PASS')
+
+Game 1 vs Random | Turn 9
+  Active: Charmeleon, Energy: 1, Hand: 8
+  Legal: 0 attacks, 0 attaches, 1 evolves
+  Chose: Action('PLAY_TRAINER', a=Ultra Ball, b=1, c=1, d=3)
+
+Game 1 vs Random | Turn 9
+  Active: Charmeleon, Energy: 1, Hand: 6
+  Legal: 0 attacks, 0 attaches, 1 evolves
+  Chose: Action('PASS')
+
+Game 1 vs Random | Turn 11
+  Active: Charmeleon, Energy: 1, Hand: 7
+  Legal: 0 attacks, 0 attaches, 1 evolves
+  Chose: Action('EVOLVE_ACTIVE', a=Charizard ex)
+
+Game 1 vs Random | Turn 11
+  Active: Charizard ex, Energy: 3, Hand: 6
+  Legal: 7 attacks, 0 attaches, 0 evolves
+  Chose: Action('ATTACK', b=0)
+
+Game 1 vs Random | Turn 13
+  Active: Charizard ex, Energy: 3, Hand: 7
+  Legal: 7 attacks, 0 attaches, 0 evolves
+  Chose: Action('PASS')
+
+Game 1 vs Random | Turn 15
+  Active: Charizard ex, Energy: 3, Hand: 8
+  Legal: 7 attacks, 2 attaches, 0 evolves
+  Chose: Action('PASS')
+
+Game 1 vs Random | Turn 17
+  Active: Charizard ex, Energy: 3, Hand: 9
+  Legal: 7 attacks, 2 attaches, 0 evolves
+  Chose: Action('PASS')
+
+Game 1 vs Random | Turn 19
+  Active: Charizard ex, Energy: 3, Hand: 10
+  Legal: 7 attacks, 2 attaches, 0 evolves
+  Chose: Action('PASS')
+
+Game 1 vs Random | Turn 21
+  Active: Charizard ex, Energy: 3, Hand: 11
+  Legal: 7 attacks, 2 attaches, 0 evolves
+  Chose: Action('ATTACK', b=0, c=1)
+
+Game 1 vs Random | Turn 23
+  Active: Chi-Yu, Energy: 2, Hand: 3
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PASS')
+
+Game 1 vs Random | Turn 25
+  Active: Chi-Yu, Energy: 2, Hand: 5
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PASS')
+
+Game 1 vs Random | Turn 27
+  Active: Charizard ex, Energy: 3, Hand: 6
+  Legal: 7 attacks, 0 attaches, 0 evolves
+  Chose: Action('PASS')
+
+Game 1 vs Random | Turn 29
+  Active: Charizard ex, Energy: 3, Hand: 7
+  Legal: 7 attacks, 0 attaches, 0 evolves
+  Chose: Action('PASS')
+
+Game 1 vs Random | Turn 31
+  Active: Charizard ex, Energy: 3, Hand: 8
+  Legal: 7 attacks, 0 attaches, 0 evolves
+  Chose: Action('PASS')
+
+Game 1 vs Random | Turn 33
+  Active: Charizard ex, Energy: 3, Hand: 9
+  Legal: 7 attacks, 0 attaches, 0 evolves
+  Chose: Action('PASS')
+
+Game 1 vs Random | Turn 35
+  Active: Charizard ex, Energy: 3, Hand: 10
+  Legal: 7 attacks, 0 attaches, 0 evolves
+  Chose: Action('PASS')
+
+Game 1 vs Random | Turn 37
+  Active: Charizard ex, Energy: 3, Hand: 11
+  Legal: 7 attacks, 0 attaches, 0 evolves
+  Chose: Action('PASS')
+
+Game 1 vs Random | Turn 39
+  Active: Charizard ex, Energy: 3, Hand: 12
+  Legal: 7 attacks, 2 attaches, 0 evolves
+  Chose: Action('PASS')
+
+Game 1 vs Random | Turn 41
+  Active: Chi-Yu, Energy: 2, Hand: 13
+  Legal: 0 attacks, 2 attaches, 0 evolves
+  Chose: Action('ATTACH_ACTIVE', a=Fire Energy)
+
+Game 1 vs Random | Turn 41
+  Active: Chi-Yu, Energy: 3, Hand: 12
+  Legal: 7 attacks, 0 attaches, 0 evolves
+  Chose: Action('PASS')
+
+Game 1 vs Random | Turn 43
+  Active: Chi-Yu, Energy: 3, Hand: 13
+  Legal: 7 attacks, 0 attaches, 0 evolves
+  Chose: Action('PASS')
+
+Game 2 vs Random | Turn 2
+  Active: Pidgey, Energy: 0, Hand: 8
+  Legal: 0 attacks, 1 attaches, 0 evolves
+  Chose: Action('PLAY_TRAINER', a=Lillie's Determination, b=6)
+
+Game 2 vs Random | Turn 2
+  Active: Pidgey, Energy: 0, Hand: 8
+  Legal: 0 attacks, 1 attaches, 0 evolves
+  Chose: Action('ATTACH_ACTIVE', a=Mist Energy)
+
+Game 2 vs Random | Turn 2
+  Active: Pidgey, Energy: 1, Hand: 7
+  Legal: 7 attacks, 0 attaches, 0 evolves
+  Chose: Action('ATTACK', b=0)
+
+Game 2 vs Random | Turn 4
+  Active: Munkidori, Energy: 0, Hand: 8
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PLAY_BASIC_TO_BENCH', a=Charmander, b=3)
+
+Game 2 vs Random | Turn 4
+  Active: Munkidori, Energy: 0, Hand: 7
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PLAY_TRAINER', a=Ultra Ball, b=5, c=0, d=1)
+
+Game 2 vs Random | Turn 4
+  Active: Munkidori, Energy: 0, Hand: 5
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PLAY_BASIC_TO_BENCH', a=Psyduck, b=2)
+
+Game 2 vs Random | Turn 4
+  Active: Munkidori, Energy: 0, Hand: 4
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PASS')
+
+Game 2 vs Random | Turn 6
+  Active: Munkidori, Energy: 0, Hand: 7
+  Legal: 0 attacks, 5 attaches, 0 evolves
+  Chose: Action('ATTACH_ACTIVE', a=Fire Energy)
+
+Game 2 vs Random | Turn 6
+  Active: Munkidori, Energy: 1, Hand: 6
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PASS')
+
+Game 2 vs Random | Turn 8
+  Active: Fezandipiti ex, Energy: 0, Hand: 7
+  Legal: 0 attacks, 5 attaches, 0 evolves
+  Chose: Action('PLAY_TRAINER', a=Lillie's Determination, b=6)
+
+Game 2 vs Random | Turn 8
+  Active: Fezandipiti ex, Energy: 0, Hand: 8
+  Legal: 0 attacks, 5 attaches, 0 evolves
+  Chose: Action('PASS')
+
+Game 2 vs Random | Turn 10
+  Active: Fezandipiti ex, Energy: 0, Hand: 9
+  Legal: 0 attacks, 5 attaches, 0 evolves
+  Chose: Action('ATTACH_ACTIVE', a=Darkness Energy)
+
+Game 2 vs Random | Turn 10
+  Active: Fezandipiti ex, Energy: 1, Hand: 8
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PLAY_TRAINER', a=Arven, b=6)
+
+Game 2 vs Random | Turn 10
+  Active: Fezandipiti ex, Energy: 1, Hand: 9
+  Legal: 0 attacks, 5 attaches, 0 evolves
+  Chose: Action('PLAY_TRAINER', a=Technical Machine: Evolution, b=4)
+
+Game 2 vs Random | Turn 10
+  Active: Fezandipiti ex, Energy: 1, Hand: 8
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PASS')
+
+Game 2 vs Random | Turn 12
+  Active: Fezandipiti ex, Energy: 1, Hand: 9
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('RETREAT_TO', b=2)
+
+Game 2 vs Random | Turn 12
+  Active: Psyduck, Energy: 0, Hand: 9
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PLAY_TRAINER', a=Ultra Ball, b=5, c=0, d=2)
+
+Game 2 vs Random | Turn 12
+  Active: Psyduck, Energy: 0, Hand: 7
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PLAY_TRAINER', a=Boss's Orders, b=2)
+
+Game 2 vs Random | Turn 12
+  Active: Psyduck, Energy: 0, Hand: 6
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PLAY_TRAINER', a=Energy Search, b=5)
+
+Game 2 vs Random | Turn 12
+  Active: Psyduck, Energy: 0, Hand: 6
+  Legal: 0 attacks, 5 attaches, 0 evolves
+  Chose: Action('ATTACH_BENCH', a=Fire Energy, b=1)
+
+Game 2 vs Random | Turn 12
+  Active: Psyduck, Energy: 0, Hand: 5
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PASS')
+
+Game 2 vs Random | Turn 14
+  Active: Pidgey, Energy: 1, Hand: 7
+  Legal: 7 attacks, 4 attaches, 1 evolves
+  Chose: Action('EVOLVE_ACTIVE', a=Pidgeotto)
+
+Game 2 vs Random | Turn 14
+  Active: Pidgeotto, Energy: 1, Hand: 6
+  Legal: 0 attacks, 4 attaches, 0 evolves
+  Chose: Action('PLAY_TRAINER', a=Ultra Ball, b=5, c=1, d=3)
+
+Game 2 vs Random | Turn 14
+  Active: Pidgeotto, Energy: 1, Hand: 4
+  Legal: 0 attacks, 4 attaches, 0 evolves
+  Chose: Action('PLAY_TRAINER', a=Boss's Orders, b=3)
+
+Game 2 vs Random | Turn 14
+  Active: Pidgeotto, Energy: 1, Hand: 3
+  Legal: 0 attacks, 4 attaches, 0 evolves
+  Chose: Action('ATTACH_BENCH', a=Mist Energy, b=2)
+
+Game 2 vs Random | Turn 14
+  Active: Pidgeotto, Energy: 1, Hand: 2
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('RETREAT_TO', b=2)
+
+Game 2 vs Random | Turn 14
+  Active: Fezandipiti ex, Energy: 1, Hand: 2
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('RETREAT_TO', b=3)
+
+Game 2 vs Random | Turn 14
+  Active: Charmander, Energy: 0, Hand: 2
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PASS')
+
+Game 2 vs Random | Turn 16
+  Active: Charmander, Energy: 0, Hand: 3
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PLAY_TRAINER', a=Lillie's Determination, b=6)
+
+Game 2 vs Random | Turn 16
+  Active: Charmander, Energy: 0, Hand: 8
+  Legal: 0 attacks, 8 attaches, 0 evolves
+  Chose: Action('ATTACH_ACTIVE', a=Fire Energy)
+
+Game 2 vs Random | Turn 16
+  Active: Charmander, Energy: 1, Hand: 7
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PLAY_BASIC_TO_BENCH', a=Charmander, b=4)
+
+Game 2 vs Random | Turn 16
+  Active: Charmander, Energy: 1, Hand: 6
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PASS')
+
+Game 2 vs Random | Turn 18
+  Active: Charmander, Energy: 1, Hand: 7
+  Legal: 0 attacks, 10 attaches, 0 evolves
+  Chose: Action('ATTACH_BENCH', a=Jet Energy, b=4)
+
+Game 2 vs Random | Turn 18
+  Active: Charmander, Energy: 1, Hand: 6
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PLAY_TRAINER', a=Super Rod, b=6)
+
+Game 2 vs Random | Turn 18
+  Active: Charmander, Energy: 1, Hand: 5
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('RETREAT_TO', b=4)
+
+Game 2 vs Random | Turn 18
+  Active: Charmander, Energy: 1, Hand: 5
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PLAY_TRAINER', a=Iono, b=6)
+
+Game 2 vs Random | Turn 18
+  Active: Charmander, Energy: 1, Hand: 6
+  Legal: 0 attacks, 0 attaches, 1 evolves
+  Chose: Action('PLAY_BASIC_TO_BENCH', a=Tatsugiri, b=0)
+
+Game 2 vs Random | Turn 18
+  Active: Charmander, Energy: 1, Hand: 5
+  Legal: 0 attacks, 0 attaches, 1 evolves
+  Chose: Action('RETREAT_TO', b=2)
+
+Game 2 vs Random | Turn 18
+  Active: Pidgeotto, Energy: 0, Hand: 5
+  Legal: 0 attacks, 0 attaches, 1 evolves
+  Chose: Action('EVOLVE_ACTIVE', a=Pidgeot ex)
+
+Game 2 vs Random | Turn 18
+  Active: Pidgeot ex, Energy: 0, Hand: 4
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('RETREAT_TO', b=0)
+
+Game 2 vs Random | Turn 18
+  Active: Tatsugiri, Energy: 0, Hand: 4
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('USE_ACTIVE_ABILITY')
+
+Game 2 vs Random | Turn 18
+  Active: Tatsugiri, Energy: 0, Hand: 5
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PASS')
+
+Game 2 vs Random | Turn 20
+  Active: Tatsugiri, Energy: 0, Hand: 6
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('USE_ACTIVE_ABILITY')
+
+Game 2 vs Random | Turn 20
+  Active: Tatsugiri, Energy: 0, Hand: 7
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PLAY_TRAINER', a=Professor Turo's Scenario, b=3)
+
+Game 2 vs Random | Turn 20
+  Active: Tatsugiri, Energy: 0, Hand: 7
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PASS')
+
+Game 2 vs Random | Turn 22
+  Active: Tatsugiri, Energy: 0, Hand: 8
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('USE_ACTIVE_ABILITY')
+
+Game 2 vs Random | Turn 22
+  Active: Tatsugiri, Energy: 0, Hand: 9
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PLAY_TRAINER', a=Lillie's Determination, b=6)
+
+Game 2 vs Random | Turn 22
+  Active: Tatsugiri, Energy: 0, Hand: 8
+  Legal: 0 attacks, 5 attaches, 0 evolves
+  Chose: Action('ATTACH_BENCH', a=Fire Energy, b=1)
+
+Game 2 vs Random | Turn 22
+  Active: Tatsugiri, Energy: 0, Hand: 7
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PASS')
+
+Game 2 vs Random | Turn 24
+  Active: Tatsugiri, Energy: 0, Hand: 8
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('USE_ACTIVE_ABILITY')
+
+Game 2 vs Random | Turn 24
+  Active: Tatsugiri, Energy: 0, Hand: 8
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PLAY_TRAINER', a=Iono, b=6)
+
+Game 2 vs Random | Turn 24
+  Active: Tatsugiri, Energy: 0, Hand: 6
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PASS')
+
+Game 2 vs Random | Turn 26
+  Active: Tatsugiri, Energy: 0, Hand: 7
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PASS')
+
+Game 2 vs Random | Turn 28
+  Active: Tatsugiri, Energy: 0, Hand: 8
+  Legal: 0 attacks, 0 attaches, 2 evolves
+  Chose: Action('USE_ACTIVE_ABILITY')
+
+Game 2 vs Random | Turn 28
+  Active: Tatsugiri, Energy: 0, Hand: 9
+  Legal: 0 attacks, 0 attaches, 2 evolves
+  Chose: Action('PASS')
+
+Game 2 vs Random | Turn 30
+  Active: Tatsugiri, Energy: 0, Hand: 10
+  Legal: 0 attacks, 0 attaches, 2 evolves
+  Chose: Action('PASS')
+
+Game 2 vs Random | Turn 32
+  Active: Tatsugiri, Energy: 0, Hand: 11
+  Legal: 0 attacks, 0 attaches, 2 evolves
+  Chose: Action('USE_ACTIVE_ABILITY')
+
+Game 2 vs Random | Turn 32
+  Active: Tatsugiri, Energy: 0, Hand: 11
+  Legal: 0 attacks, 0 attaches, 2 evolves
+  Chose: Action('PLAY_TRAINER', a=Arven, b=6)
+
+Game 2 vs Random | Turn 32
+  Active: Tatsugiri, Energy: 0, Hand: 10
+  Legal: 0 attacks, 0 attaches, 2 evolves
+  Chose: Action('EVOLVE_BENCH', a=Charmeleon, b=2)
+
+Game 2 vs Random | Turn 32
+  Active: Tatsugiri, Energy: 0, Hand: 9
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PASS')
+
+Game 2 vs Random | Turn 34
+  Active: Tatsugiri, Energy: 0, Hand: 10
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PASS')
+
+Game 2 vs Random | Turn 36
+  Active: Tatsugiri, Energy: 0, Hand: 11
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('USE_ACTIVE_ABILITY')
+
+Game 2 vs Random | Turn 36
+  Active: Tatsugiri, Energy: 0, Hand: 12
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PLAY_TRAINER', a=Arven, b=6)
+
+Game 2 vs Random | Turn 36
+  Active: Tatsugiri, Energy: 0, Hand: 11
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PASS')
+
+Game 2 vs Random | Turn 38
+  Active: Tatsugiri, Energy: 0, Hand: 12
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('USE_ACTIVE_ABILITY')
+
+Game 2 vs Random | Turn 38
+  Active: Tatsugiri, Energy: 0, Hand: 12
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PASS')
+
+Game 2 vs Random | Turn 40
+  Active: Tatsugiri, Energy: 0, Hand: 13
+  Legal: 0 attacks, 0 attaches, 1 evolves
+  Chose: Action('EVOLVE_BENCH', a=Charizard ex, b=2)
+
+Game 2 vs Random | Turn 40
+  Active: Tatsugiri, Energy: 0, Hand: 12
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('USE_ACTIVE_ABILITY')
+
+Game 2 vs Random | Turn 40
+  Active: Tatsugiri, Energy: 0, Hand: 12
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PASS')
+
+Game 2 vs Random | Turn 42
+  Active: Tatsugiri, Energy: 0, Hand: 13
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('USE_ACTIVE_ABILITY')
+
+Game 2 vs Random | Turn 42
+  Active: Tatsugiri, Energy: 0, Hand: 13
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PASS')
+
+Game 3 vs Random | Turn 1
+  Active: Charmander, Energy: 0, Hand: 6
+  Legal: 0 attacks, 2 attaches, 0 evolves
+  Chose: Action('ATTACH_ACTIVE', a=Jet Energy)
+
+Game 3 vs Random | Turn 1
+  Active: Charmander, Energy: 1, Hand: 5
+  Legal: 0 attacks, 1 attaches, 0 evolves
+  Chose: Action('PASS')
+
+Game 3 vs Random | Turn 3
+  Active: Charmander, Energy: 1, Hand: 7
+  Legal: 0 attacks, 2 attaches, 1 evolves
+  Chose: Action('EVOLVE_ACTIVE', a=Charmeleon)
+
+Game 3 vs Random | Turn 3
+  Active: Charmeleon, Energy: 1, Hand: 6
+  Legal: 0 attacks, 2 attaches, 0 evolves
+  Chose: Action('ATTACH_ACTIVE', a=Mist Energy)
+
+Game 3 vs Random | Turn 3
+  Active: Charmeleon, Energy: 2, Hand: 5
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PASS')
+
+Game 3 vs Random | Turn 5
+  Active: Charmeleon, Energy: 2, Hand: 7
+  Legal: 0 attacks, 1 attaches, 0 evolves
+  Chose: Action('ATTACH_TOOL_ACTIVE', a=Technical Machine: Evolution)
+
+Game 3 vs Random | Turn 5
+  Active: Charmeleon, Energy: 2, Hand: 6
+  Legal: 7 attacks, 0 attaches, 0 evolves
+  Chose: Action('ATTACK', b=1, c=0)
+
+Game 3 vs Random | Turn 7
+  Active: Charmeleon, Energy: 2, Hand: 7
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PASS')
+
+Game 3 vs Random | Turn 9
+  Active: Charmeleon, Energy: 2, Hand: 8
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PLAY_TRAINER', a=Ultra Ball, b=1, c=1, d=3)
+
+Game 3 vs Random | Turn 9
+  Active: Charmeleon, Energy: 2, Hand: 6
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PLAY_TRAINER', a=Lillie's Determination, b=6)
+
+Game 3 vs Random | Turn 9
+  Active: Charmeleon, Energy: 2, Hand: 8
+  Legal: 0 attacks, 2 attaches, 1 evolves
+  Chose: Action('ATTACH_ACTIVE', a=Fire Energy)
+
+Game 3 vs Random | Turn 9
+  Active: Charmeleon, Energy: 3, Hand: 7
+  Legal: 0 attacks, 0 attaches, 1 evolves
+  Chose: Action('PLAY_TRAINER', a=Ultra Ball, b=1, c=1, d=3)
+
+Game 3 vs Random | Turn 9
+  Active: Charmeleon, Energy: 3, Hand: 5
+  Legal: 0 attacks, 0 attaches, 1 evolves
+  Chose: Action('EVOLVE_ACTIVE', a=Charizard ex)
+
+Game 3 vs Random | Turn 9
+  Active: Charizard ex, Energy: 6, Hand: 4
+  Legal: 7 attacks, 0 attaches, 0 evolves
+  Chose: Action('ATTACK', b=0, c=2)
+
+Game 3 vs Random | Turn 11
+  Active: Charizard ex, Energy: 6, Hand: 3
+  Legal: 7 attacks, 0 attaches, 0 evolves
+  Chose: Action('ATTACK', b=0)
+
+Game 3 vs Random | Turn 13
+  Active: Charizard ex, Energy: 6, Hand: 4
+  Legal: 7 attacks, 0 attaches, 0 evolves
+  Chose: Action('PASS')
+
+Game 3 vs Random | Turn 15
+  Active: Charizard ex, Energy: 6, Hand: 5
+  Legal: 7 attacks, 0 attaches, 0 evolves
+  Chose: Action('PASS')
+
+Game 3 vs Random | Turn 17
+  Active: Charizard ex, Energy: 6, Hand: 6
+  Legal: 7 attacks, 0 attaches, 0 evolves
+  Chose: Action('PASS')
+
+Game 3 vs Random | Turn 19
+  Active: Charizard ex, Energy: 6, Hand: 7
+  Legal: 7 attacks, 0 attaches, 0 evolves
+  Chose: Action('PASS')
+
+Game 3 vs Random | Turn 21
+  Active: Charizard ex, Energy: 6, Hand: 8
+  Legal: 7 attacks, 0 attaches, 0 evolves
+  Chose: Action('PASS')
+
+Game 3 vs Random | Turn 23
+  Active: Charizard ex, Energy: 6, Hand: 9
+  Legal: 7 attacks, 0 attaches, 0 evolves
+  Chose: Action('PASS')
+
+Game 3 vs Random | Turn 25
+  Active: Charizard ex, Energy: 6, Hand: 10
+  Legal: 7 attacks, 0 attaches, 0 evolves
+  Chose: Action('PASS')
+
+Game 3 vs Random | Turn 27
+  Active: Charizard ex, Energy: 6, Hand: 11
+  Legal: 7 attacks, 0 attaches, 0 evolves
+  Chose: Action('PASS')
+
+Game 3 vs Random | Turn 29
+  Active: Charizard ex, Energy: 6, Hand: 12
+  Legal: 7 attacks, 0 attaches, 0 evolves
+  Chose: Action('PASS')
+
+Game 3 vs Random | Turn 31
+  Active: Charizard ex, Energy: 6, Hand: 13
+  Legal: 7 attacks, 0 attaches, 0 evolves
+  Chose: Action('PASS')
+
+Game 3 vs Random | Turn 33
+  Active: Charizard ex, Energy: 6, Hand: 14
+  Legal: 7 attacks, 0 attaches, 0 evolves
+  Chose: Action('PASS')
+
+Game 3 vs Random | Turn 35
+  Active: Charizard ex, Energy: 6, Hand: 15
+  Legal: 7 attacks, 0 attaches, 0 evolves
+  Chose: Action('PASS')
+
+Game 3 vs Random | Turn 37
+  Active: Charizard ex, Energy: 6, Hand: 16
+  Legal: 7 attacks, 0 attaches, 0 evolves
+  Chose: Action('PASS')
+
+Game 3 vs Random | Turn 39
+  Active: Charizard ex, Energy: 6, Hand: 17
+  Legal: 7 attacks, 0 attaches, 0 evolves
+  Chose: Action('PASS')
+
+Game 3 vs Random | Turn 41
+  Active: Charizard ex, Energy: 6, Hand: 18
+  Legal: 7 attacks, 0 attaches, 0 evolves
+  Chose: Action('PASS')
+
+Game 3 vs Random | Turn 43
+  Active: Charizard ex, Energy: 6, Hand: 19
+  Legal: 7 attacks, 0 attaches, 0 evolves
+  Chose: Action('PASS')
+
+Game 1 vs Aggressive | Turn 2
+  Active: Charmander, Energy: 0, Hand: 7
+  Legal: 0 attacks, 2 attaches, 0 evolves
+  Chose: Action('ATTACH_ACTIVE', a=Jet Energy)
+
+Game 1 vs Aggressive | Turn 2
+  Active: Charmander, Energy: 1, Hand: 6
+  Legal: 0 attacks, 1 attaches, 0 evolves
+  Chose: Action('ATTACH_TOOL_ACTIVE', a=Technical Machine: Evolution)
+
+Game 1 vs Aggressive | Turn 2
+  Active: Charmander, Energy: 1, Hand: 5
+  Legal: 7 attacks, 0 attaches, 0 evolves
+  Chose: Action('ATTACK', b=1, c=0)
+
+Game 1 vs Aggressive | Turn 4
+  Active: Charmander, Energy: 1, Hand: 6
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PLAY_TRAINER', a=Arven, b=6)
+
+Game 1 vs Aggressive | Turn 4
+  Active: Charmander, Energy: 1, Hand: 7
+  Legal: 0 attacks, 1 attaches, 0 evolves
+  Chose: Action('ATTACH_TOOL_ACTIVE', a=Technical Machine: Evolution)
+
+Game 1 vs Aggressive | Turn 4
+  Active: Charmander, Energy: 1, Hand: 6
+  Legal: 7 attacks, 0 attaches, 0 evolves
+  Chose: Action('ATTACK', b=1, c=2)
+
+Game 1 vs Aggressive | Turn 6
+  Active: Charmander, Energy: 1, Hand: 7
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PASS')
+
+Game 1 vs Aggressive | Turn 8
+  Active: Charmander, Energy: 1, Hand: 8
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PLAY_TRAINER', a=Arven, b=6)
+
+Game 1 vs Aggressive | Turn 8
+  Active: Charmander, Energy: 1, Hand: 8
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PLAY_TRAINER', a=Ultra Ball, b=1, c=1, d=3)
+
+Game 1 vs Aggressive | Turn 8
+  Active: Charmander, Energy: 1, Hand: 6
+  Legal: 0 attacks, 0 attaches, 1 evolves
+  Chose: Action('EVOLVE_ACTIVE', a=Charmeleon)
+
+Game 1 vs Aggressive | Turn 8
+  Active: Charmeleon, Energy: 1, Hand: 5
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PLAY_TRAINER', a=Ultra Ball, b=1, c=1, d=3)
+
+Game 1 vs Aggressive | Turn 8
+  Active: Charmeleon, Energy: 1, Hand: 3
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PASS')
+
+Game 1 vs Aggressive | Turn 10
+  Active: Charmeleon, Energy: 1, Hand: 4
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PASS')
+
+Game 1 vs Aggressive | Turn 12
+  Active: Charmeleon, Energy: 1, Hand: 5
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PLAY_TRAINER', a=Boss's Orders, b=0)
+
+Game 1 vs Aggressive | Turn 12
+  Active: Charmeleon, Energy: 1, Hand: 4
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PASS')
+
+Game 1 vs Aggressive | Turn 14
+  Active: Charmeleon, Energy: 1, Hand: 5
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PASS')
+
+Game 1 vs Aggressive | Turn 16
+  Active: Charmeleon, Energy: 1, Hand: 6
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PLAY_TRAINER', a=Boss's Orders, b=2)
+
+Game 1 vs Aggressive | Turn 16
+  Active: Charmeleon, Energy: 1, Hand: 5
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PASS')
+
+Game 2 vs Aggressive | Turn 2
+  Active: Charmander, Energy: 0, Hand: 7
+  Legal: 0 attacks, 1 attaches, 0 evolves
+  Chose: Action('PASS')
+
+Game 2 vs Aggressive | Turn 4
+  Active: Charmander, Energy: 0, Hand: 7
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PLAY_TRAINER', a=Lillie's Determination, b=6)
+
+Game 2 vs Aggressive | Turn 4
+  Active: Charmander, Energy: 0, Hand: 8
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PLAY_BASIC_TO_BENCH', a=Charmander, b=4)
+
+Game 2 vs Aggressive | Turn 4
+  Active: Charmander, Energy: 0, Hand: 7
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PASS')
+
+Game 2 vs Aggressive | Turn 6
+  Active: Charmander, Energy: 0, Hand: 8
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PLAY_TRAINER', a=Arven, b=6)
+
+Game 2 vs Aggressive | Turn 6
+  Active: Charmander, Energy: 0, Hand: 9
+  Legal: 0 attacks, 2 attaches, 0 evolves
+  Chose: Action('ATTACH_TOOL_ACTIVE', a=Technical Machine: Evolution)
+
+Game 2 vs Aggressive | Turn 6
+  Active: Charmander, Energy: 0, Hand: 8
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PASS')
+
+Game 2 vs Aggressive | Turn 8
+  Active: Charmander, Energy: 0, Hand: 9
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PLAY_TRAINER', a=Lillie's Determination, b=6)
+
+Game 2 vs Aggressive | Turn 8
+  Active: Charmander, Energy: 0, Hand: 8
+  Legal: 0 attacks, 2 attaches, 0 evolves
+  Chose: Action('PASS')
+
+Game 2 vs Aggressive | Turn 10
+  Active: Charmander, Energy: 0, Hand: 9
+  Legal: 0 attacks, 2 attaches, 0 evolves
+  Chose: Action('ATTACH_BENCH', a=Fire Energy, b=4)
+
+Game 2 vs Aggressive | Turn 10
+  Active: Charmander, Energy: 0, Hand: 8
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PLAY_TRAINER', a=Arven, b=6)
+
+Game 2 vs Aggressive | Turn 10
+  Active: Charmander, Energy: 0, Hand: 9
+  Legal: 0 attacks, 2 attaches, 0 evolves
+  Chose: Action('PASS')
+
+Game 2 vs Aggressive | Turn 12
+  Active: Charmander, Energy: 0, Hand: 10
+  Legal: 0 attacks, 2 attaches, 0 evolves
+  Chose: Action('ATTACH_TOOL_BENCH', a=Technical Machine: Evolution, b=4)
+
+Game 2 vs Aggressive | Turn 12
+  Active: Charmander, Energy: 0, Hand: 9
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PLAY_TRAINER', a=Lillie's Determination, b=6)
+
+Game 2 vs Aggressive | Turn 12
+  Active: Charmander, Energy: 0, Hand: 8
+  Legal: 0 attacks, 2 attaches, 0 evolves
+  Chose: Action('PASS')
+
+Game 2 vs Aggressive | Turn 14
+  Active: Charmander, Energy: 0, Hand: 9
+  Legal: 0 attacks, 2 attaches, 0 evolves
+  Chose: Action('ATTACH_BENCH', a=Fire Energy, b=4)
+
+Game 2 vs Aggressive | Turn 14
+  Active: Charmander, Energy: 0, Hand: 8
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PLAY_TRAINER', a=Ultra Ball, b=1, c=0, d=4)
+
+Game 2 vs Aggressive | Turn 14
+  Active: Charmander, Energy: 0, Hand: 6
+  Legal: 0 attacks, 0 attaches, 2 evolves
+  Chose: Action('EVOLVE_BENCH', a=Charmeleon, b=4)
+
+Game 2 vs Aggressive | Turn 14
+  Active: Charmander, Energy: 0, Hand: 5
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PASS')
+
+Game 2 vs Aggressive | Turn 16
+  Active: Charmander, Energy: 0, Hand: 6
+  Legal: 0 attacks, 2 attaches, 0 evolves
+  Chose: Action('PASS')
+
+Game 2 vs Aggressive | Turn 18
+  Active: Charmander, Energy: 0, Hand: 7
+  Legal: 0 attacks, 2 attaches, 0 evolves
+  Chose: Action('ATTACH_BENCH', a=Jet Energy, b=4)
+
+Game 2 vs Aggressive | Turn 18
+  Active: Charmeleon, Energy: 3, Hand: 6
+  Legal: 7 attacks, 0 attaches, 0 evolves
+  Chose: Action('ATTACK', b=0)
+
+Game 2 vs Aggressive | Turn 20
+  Active: Charmander, Energy: 0, Hand: 8
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PLAY_BASIC_TO_BENCH', a=Tatsugiri, b=0)
+
+Game 2 vs Aggressive | Turn 20
+  Active: Charmander, Energy: 0, Hand: 7
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PLAY_BASIC_TO_BENCH', a=Pidgey, b=4)
+
+Game 2 vs Aggressive | Turn 20
+  Active: Charmander, Energy: 0, Hand: 6
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PASS')
+
+Game 2 vs Aggressive | Turn 22
+  Active: Tatsugiri, Energy: 0, Hand: 7
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('USE_ACTIVE_ABILITY')
+
+Game 2 vs Aggressive | Turn 22
+  Active: Tatsugiri, Energy: 0, Hand: 8
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PLAY_TRAINER', a=Lillie's Determination, b=6)
+
+Game 2 vs Aggressive | Turn 22
+  Active: Tatsugiri, Energy: 0, Hand: 6
+  Legal: 0 attacks, 0 attaches, 1 evolves
+  Chose: Action('PLAY_TRAINER', a=Super Rod, b=6)
+
+Game 2 vs Aggressive | Turn 22
+  Active: Tatsugiri, Energy: 0, Hand: 5
+  Legal: 0 attacks, 0 attaches, 1 evolves
+  Chose: Action('PLAY_TRAINER', a=Super Rod, b=6, c=9)
+
+Game 2 vs Aggressive | Turn 22
+  Active: Tatsugiri, Energy: 0, Hand: 4
+  Legal: 0 attacks, 0 attaches, 1 evolves
+  Chose: Action('PASS')
+
+Game 2 vs Aggressive | Turn 24
+  Active: Pidgey, Energy: 0, Hand: 5
+  Legal: 0 attacks, 1 attaches, 1 evolves
+  Chose: Action('PASS')
+
+Game 3 vs Aggressive | Turn 2
+  Active: Psyduck, Energy: 0, Hand: 8
+  Legal: 0 attacks, 1 attaches, 0 evolves
+  Chose: Action('PLAY_TRAINER', a=Ultra Ball, b=5, c=1, d=3)
+
+Game 3 vs Aggressive | Turn 2
+  Active: Psyduck, Energy: 0, Hand: 6
+  Legal: 0 attacks, 1 attaches, 0 evolves
+  Chose: Action('ATTACH_TOOL_ACTIVE', a=Technical Machine: Evolution)
+
+Game 3 vs Aggressive | Turn 2
+  Active: Psyduck, Energy: 0, Hand: 5
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PASS')
+
+Game 3 vs Aggressive | Turn 4
+  Active: Psyduck, Energy: 0, Hand: 6
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PLAY_BASIC_TO_BENCH', a=Gouging Fire ex, b=1)
+
+Game 3 vs Aggressive | Turn 4
+  Active: Psyduck, Energy: 0, Hand: 5
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PLAY_TRAINER', a=Boss's Orders, b=2)
+
+Game 3 vs Aggressive | Turn 4
+  Active: Psyduck, Energy: 0, Hand: 4
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PASS')
+
+Game 3 vs Aggressive | Turn 6
+  Active: Psyduck, Energy: 0, Hand: 5
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PLAY_TRAINER', a=Iono, b=6)
+
+Game 3 vs Aggressive | Turn 6
+  Active: Psyduck, Energy: 0, Hand: 6
+  Legal: 0 attacks, 2 attaches, 0 evolves
+  Chose: Action('ATTACH_TOOL_ACTIVE', a=Technical Machine: Evolution)
+
+Game 3 vs Aggressive | Turn 6
+  Active: Psyduck, Energy: 0, Hand: 5
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PASS')
+
+Game 3 vs Aggressive | Turn 8
+  Active: Psyduck, Energy: 0, Hand: 6
+  Legal: 0 attacks, 2 attaches, 0 evolves
+  Chose: Action('ATTACH_BENCH', a=Darkness Energy, b=1)
+
+Game 3 vs Aggressive | Turn 8
+  Active: Psyduck, Energy: 0, Hand: 5
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PLAY_TRAINER', a=Iono, b=6)
+
+Game 3 vs Aggressive | Turn 8
+  Active: Psyduck, Energy: 0, Hand: 6
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PASS')
+
+Game 3 vs Aggressive | Turn 10
+  Active: Psyduck, Energy: 0, Hand: 7
+  Legal: 0 attacks, 4 attaches, 0 evolves
+  Chose: Action('ATTACH_BENCH', a=Mist Energy, b=1)
+
+Game 3 vs Aggressive | Turn 10
+  Active: Psyduck, Energy: 0, Hand: 6
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PLAY_TRAINER', a=Ultra Ball, b=1, c=1, d=4)
+
+Game 3 vs Aggressive | Turn 10
+  Active: Psyduck, Energy: 0, Hand: 4
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PLAY_TRAINER', a=Boss's Orders, b=2)
+
+Game 3 vs Aggressive | Turn 10
+  Active: Psyduck, Energy: 0, Hand: 3
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PASS')
+
+Game 3 vs Aggressive | Turn 12
+  Active: Psyduck, Energy: 0, Hand: 4
+  Legal: 0 attacks, 2 attaches, 0 evolves
+  Chose: Action('PLAY_TRAINER', a=Arven, b=6)
+
+Game 3 vs Aggressive | Turn 12
+  Active: Psyduck, Energy: 0, Hand: 4
+  Legal: 0 attacks, 2 attaches, 0 evolves
+  Chose: Action('ATTACH_ACTIVE', a=Jet Energy)
+
+Game 3 vs Aggressive | Turn 12
+  Active: Psyduck, Energy: 1, Hand: 3
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('RETREAT_TO', b=1)
+
+Game 3 vs Aggressive | Turn 12
+  Active: Gouging Fire ex, Energy: 2, Hand: 3
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('RETREAT_TO', b=1)
+
+Game 3 vs Aggressive | Turn 12
+  Active: Psyduck, Energy: 0, Hand: 3
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PASS')
+
+Game 3 vs Aggressive | Turn 14
+  Active: Gouging Fire ex, Energy: 0, Hand: 4
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PLAY_TRAINER', a=Arven, b=6)
+
+Game 3 vs Aggressive | Turn 14
+  Active: Gouging Fire ex, Energy: 0, Hand: 4
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PASS')
+
+Game 3 vs Aggressive | Turn 16
+  Active: Gouging Fire ex, Energy: 0, Hand: 5
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PLAY_TRAINER', a=Arven, b=6)
+
+Game 3 vs Aggressive | Turn 16
+  Active: Gouging Fire ex, Energy: 0, Hand: 5
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PLAY_TRAINER', a=Counter Catcher, b=1)
+
+Game 3 vs Aggressive | Turn 16
+  Active: Gouging Fire ex, Energy: 0, Hand: 4
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PASS')
+
+Game 3 vs Aggressive | Turn 18
+  Active: Gouging Fire ex, Energy: 0, Hand: 5
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PLAY_BASIC_TO_BENCH', a=Shaymin, b=2)
+
+Game 3 vs Aggressive | Turn 18
+  Active: Gouging Fire ex, Energy: 0, Hand: 4
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PASS')
+
+Game 3 vs Aggressive | Turn 20
+  Active: Shaymin, Energy: 0, Hand: 5
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PASS')
+
+Game 3 vs Aggressive | Turn 22
+  Active: Shaymin, Energy: 0, Hand: 6
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PASS')
+
+Game 1 vs Defensive | Turn 1
+  Active: Fezandipiti ex, Energy: 0, Hand: 6
+  Legal: 0 attacks, 1 attaches, 0 evolves
+  Chose: Action('PLAY_BASIC_TO_BENCH', a=Psyduck, b=3)
+
+Game 1 vs Defensive | Turn 1
+  Active: Fezandipiti ex, Energy: 0, Hand: 5
+  Legal: 0 attacks, 2 attaches, 0 evolves
+  Chose: Action('ATTACH_BENCH', a=Mist Energy, b=3)
+
+Game 1 vs Defensive | Turn 1
+  Active: Fezandipiti ex, Energy: 0, Hand: 4
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PASS')
+
+Game 1 vs Defensive | Turn 3
+  Active: Fezandipiti ex, Energy: 0, Hand: 5
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PLAY_TRAINER', a=Arven, b=6)
+
+Game 1 vs Defensive | Turn 3
+  Active: Fezandipiti ex, Energy: 0, Hand: 6
+  Legal: 0 attacks, 2 attaches, 0 evolves
+  Chose: Action('ATTACH_TOOL_BENCH', a=Technical Machine: Evolution, b=3)
+
+Game 1 vs Defensive | Turn 3
+  Active: Fezandipiti ex, Energy: 0, Hand: 5
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PASS')
+
+Game 1 vs Defensive | Turn 5
+  Active: Fezandipiti ex, Energy: 0, Hand: 6
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PASS')
+
+Game 1 vs Defensive | Turn 7
+  Active: Fezandipiti ex, Energy: 0, Hand: 7
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PASS')
+
+Game 1 vs Defensive | Turn 9
+  Active: Fezandipiti ex, Energy: 0, Hand: 8
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PLAY_TRAINER', a=Energy Search, b=5)
+
+Game 1 vs Defensive | Turn 9
+  Active: Fezandipiti ex, Energy: 0, Hand: 8
+  Legal: 0 attacks, 2 attaches, 0 evolves
+  Chose: Action('PLAY_BASIC_TO_BENCH', a=Tatsugiri, b=0)
+
+Game 1 vs Defensive | Turn 9
+  Active: Fezandipiti ex, Energy: 0, Hand: 7
+  Legal: 0 attacks, 3 attaches, 0 evolves
+  Chose: Action('ATTACH_BENCH', a=Fire Energy, b=3)
+
+Game 1 vs Defensive | Turn 9
+  Active: Fezandipiti ex, Energy: 0, Hand: 6
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PASS')
+
+Game 1 vs Defensive | Turn 11
+  Active: Tatsugiri, Energy: 0, Hand: 7
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PLAY_TRAINER', a=Arven, b=6)
+
+Game 1 vs Defensive | Turn 11
+  Active: Tatsugiri, Energy: 0, Hand: 8
+  Legal: 0 attacks, 2 attaches, 0 evolves
+  Chose: Action('PLAY_TRAINER', a=Technical Machine: Evolution, b=4)
+
+Game 1 vs Defensive | Turn 11
+  Active: Tatsugiri, Energy: 0, Hand: 7
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PLAY_TRAINER', a=Counter Catcher, b=2)
+
+Game 1 vs Defensive | Turn 11
+  Active: Tatsugiri, Energy: 0, Hand: 6
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PLAY_TRAINER', a=Super Rod, b=6)
+
+Game 1 vs Defensive | Turn 11
+  Active: Tatsugiri, Energy: 0, Hand: 5
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('USE_ACTIVE_ABILITY')
+
+Game 1 vs Defensive | Turn 11
+  Active: Tatsugiri, Energy: 0, Hand: 6
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PLAY_BASIC_TO_BENCH', a=Munkidori, b=1)
+
+Game 1 vs Defensive | Turn 11
+  Active: Tatsugiri, Energy: 0, Hand: 5
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PASS')
+
+Game 1 vs Defensive | Turn 13
+  Active: Munkidori, Energy: 0, Hand: 6
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PLAY_TRAINER', a=Boss's Orders, b=3)
+
+Game 1 vs Defensive | Turn 13
+  Active: Munkidori, Energy: 0, Hand: 5
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PASS')
+
+Game 1 vs Defensive | Turn 15
+  Active: Munkidori, Energy: 0, Hand: 6
+  Legal: 0 attacks, 2 attaches, 0 evolves
+  Chose: Action('ATTACH_BENCH', a=Mist Energy, b=3)
+
+Game 1 vs Defensive | Turn 15
+  Active: Munkidori, Energy: 0, Hand: 5
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PLAY_TRAINER', a=Lillie's Determination, b=6)
+
+Game 1 vs Defensive | Turn 15
+  Active: Munkidori, Energy: 0, Hand: 8
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PLAY_TRAINER', a=Ultra Ball, b=5, c=0, d=1)
+
+Game 1 vs Defensive | Turn 15
+  Active: Munkidori, Energy: 0, Hand: 6
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PASS')
+
+Game 1 vs Defensive | Turn 17
+  Active: Munkidori, Energy: 0, Hand: 7
+  Legal: 0 attacks, 4 attaches, 0 evolves
+  Chose: Action('ATTACH_ACTIVE', a=Fire Energy)
+
+Game 1 vs Defensive | Turn 17
+  Active: Munkidori, Energy: 1, Hand: 6
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('RETREAT_TO', b=3)
+
+Game 1 vs Defensive | Turn 17
+  Active: Psyduck, Energy: 3, Hand: 6
+  Legal: 7 attacks, 0 attaches, 0 evolves
+  Chose: Action('ATTACK', b=0, c=0)
+
+Game 1 vs Defensive | Turn 19
+  Active: Psyduck, Energy: 3, Hand: 7
+  Legal: 7 attacks, 2 attaches, 0 evolves
+  Chose: Action('RETREAT_TO', b=3)
+
+Game 1 vs Defensive | Turn 19
+  Active: Munkidori, Energy: 0, Hand: 7
+  Legal: 0 attacks, 2 attaches, 0 evolves
+  Chose: Action('PLAY_BASIC_TO_BENCH', a=Fezandipiti ex, b=2)
+
+Game 1 vs Defensive | Turn 19
+  Active: Munkidori, Energy: 0, Hand: 6
+  Legal: 0 attacks, 3 attaches, 0 evolves
+  Chose: Action('ATTACH_BENCH', a=Jet Energy, b=3)
+
+Game 1 vs Defensive | Turn 19
+  Active: Psyduck, Energy: 3, Hand: 5
+  Legal: 7 attacks, 0 attaches, 0 evolves
+  Chose: Action('ATTACK', b=0)
+
+Game 1 vs Defensive | Turn 21
+  Active: Psyduck, Energy: 3, Hand: 6
+  Legal: 7 attacks, 0 attaches, 0 evolves
+  Chose: Action('ATTACK', b=0, c=0)
+
+Game 1 vs Defensive | Turn 23
+  Active: Psyduck, Energy: 3, Hand: 8
+  Legal: 7 attacks, 3 attaches, 0 evolves
+  Chose: Action('ATTACK', b=0, c=3)
+
+Game 1 vs Defensive | Turn 25
+  Active: Psyduck, Energy: 3, Hand: 9
+  Legal: 7 attacks, 3 attaches, 0 evolves
+  Chose: Action('ATTACK', b=0, c=1)
+
+Game 1 vs Defensive | Turn 27
+  Active: Fezandipiti ex, Energy: 0, Hand: 10
+  Legal: 0 attacks, 2 attaches, 0 evolves
+  Chose: Action('PASS')
+
+Game 2 vs Defensive | Turn 1
+  Active: Psyduck, Energy: 0, Hand: 6
+  Legal: 0 attacks, 1 attaches, 0 evolves
+  Chose: Action('ATTACH_ACTIVE', a=Jet Energy)
+
+Game 2 vs Defensive | Turn 1
+  Active: Psyduck, Energy: 1, Hand: 5
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PASS')
+
+Game 2 vs Defensive | Turn 3
+  Active: Psyduck, Energy: 1, Hand: 6
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PLAY_TRAINER', a=Lillie's Determination, b=6)
+
+Game 2 vs Defensive | Turn 3
+  Active: Psyduck, Energy: 1, Hand: 8
+  Legal: 0 attacks, 3 attaches, 0 evolves
+  Chose: Action('ATTACH_ACTIVE', a=Mist Energy)
+
+Game 2 vs Defensive | Turn 3
+  Active: Psyduck, Energy: 2, Hand: 7
+  Legal: 7 attacks, 1 attaches, 0 evolves
+  Chose: Action('ATTACK', b=0, c=5)
+
+Game 2 vs Defensive | Turn 5
+  Active: Psyduck, Energy: 2, Hand: 7
+  Legal: 7 attacks, 0 attaches, 0 evolves
+  Chose: Action('ATTACK', b=0)
+
+Game 2 vs Defensive | Turn 7
+  Active: Psyduck, Energy: 2, Hand: 8
+  Legal: 7 attacks, 0 attaches, 0 evolves
+  Chose: Action('ATTACK', b=0)
+
+Game 2 vs Defensive | Turn 9
+  Active: Psyduck, Energy: 2, Hand: 9
+  Legal: 7 attacks, 0 attaches, 0 evolves
+  Chose: Action('PASS')
+
+Game 2 vs Defensive | Turn 11
+  Active: Psyduck, Energy: 2, Hand: 10
+  Legal: 7 attacks, 0 attaches, 0 evolves
+  Chose: Action('ATTACK', b=0)
+
+Game 2 vs Defensive | Turn 13
+  Active: Psyduck, Energy: 2, Hand: 11
+  Legal: 7 attacks, 1 attaches, 0 evolves
+  Chose: Action('PASS')
+
+Game 2 vs Defensive | Turn 15
+  Active: Psyduck, Energy: 2, Hand: 12
+  Legal: 7 attacks, 1 attaches, 0 evolves
+  Chose: Action('PASS')
+
+Game 2 vs Defensive | Turn 17
+  Active: Psyduck, Energy: 2, Hand: 13
+  Legal: 7 attacks, 1 attaches, 0 evolves
+  Chose: Action('PASS')
+
+Game 2 vs Defensive | Turn 19
+  Active: Psyduck, Energy: 2, Hand: 14
+  Legal: 7 attacks, 2 attaches, 0 evolves
+  Chose: Action('ATTACK', b=0)
+
+Game 2 vs Defensive | Turn 21
+  Active: Psyduck, Energy: 2, Hand: 15
+  Legal: 7 attacks, 2 attaches, 0 evolves
+  Chose: Action('PASS')
+
+Game 2 vs Defensive | Turn 23
+  Active: Psyduck, Energy: 2, Hand: 16
+  Legal: 7 attacks, 2 attaches, 0 evolves
+  Chose: Action('PASS')
+
+Game 2 vs Defensive | Turn 25
+  Active: Psyduck, Energy: 2, Hand: 17
+  Legal: 7 attacks, 3 attaches, 0 evolves
+  Chose: Action('ATTACK', b=0)
+
+Game 2 vs Defensive | Turn 27
+  Active: Psyduck, Energy: 2, Hand: 18
+  Legal: 7 attacks, 3 attaches, 0 evolves
+  Chose: Action('ATTACK', b=0, c=5)
+
+Game 2 vs Defensive | Turn 29
+  Active: Psyduck, Energy: 2, Hand: 19
+  Legal: 7 attacks, 3 attaches, 0 evolves
+  Chose: Action('PASS')
+
+Game 2 vs Defensive | Turn 31
+  Active: Psyduck, Energy: 2, Hand: 20
+  Legal: 7 attacks, 3 attaches, 0 evolves
+  Chose: Action('PASS')
+
+Game 2 vs Defensive | Turn 33
+  Active: Psyduck, Energy: 2, Hand: 7
+  Legal: 7 attacks, 1 attaches, 0 evolves
+  Chose: Action('PASS')
+
+Game 2 vs Defensive | Turn 35
+  Active: Psyduck, Energy: 2, Hand: 8
+  Legal: 7 attacks, 1 attaches, 0 evolves
+  Chose: Action('PASS')
+
+Game 2 vs Defensive | Turn 37
+  Active: Psyduck, Energy: 2, Hand: 9
+  Legal: 7 attacks, 1 attaches, 0 evolves
+  Chose: Action('PASS')
+
+Game 2 vs Defensive | Turn 39
+  Active: Psyduck, Energy: 2, Hand: 10
+  Legal: 7 attacks, 1 attaches, 0 evolves
+  Chose: Action('PASS')
+
+Game 2 vs Defensive | Turn 41
+  Active: Psyduck, Energy: 2, Hand: 11
+  Legal: 7 attacks, 1 attaches, 0 evolves
+  Chose: Action('PASS')
+
+Game 3 vs Defensive | Turn 2
+  Active: Charmander, Energy: 0, Hand: 7
+  Legal: 0 attacks, 1 attaches, 0 evolves
+  Chose: Action('ATTACH_ACTIVE', a=Mist Energy)
+
+Game 3 vs Defensive | Turn 2
+  Active: Charmander, Energy: 1, Hand: 6
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PASS')
+
+Game 3 vs Defensive | Turn 4
+  Active: Charmander, Energy: 1, Hand: 7
+  Legal: 0 attacks, 1 attaches, 0 evolves
+  Chose: Action('ATTACH_TOOL_ACTIVE', a=Technical Machine: Evolution)
+
+Game 3 vs Defensive | Turn 4
+  Active: Charmander, Energy: 1, Hand: 6
+  Legal: 7 attacks, 0 attaches, 0 evolves
+  Chose: Action('ATTACK', b=1, c=2)
+
+Game 3 vs Defensive | Turn 6
+  Active: Charmander, Energy: 1, Hand: 7
+  Legal: 0 attacks, 1 attaches, 0 evolves
+  Chose: Action('PASS')
+
+Game 3 vs Defensive | Turn 8
+  Active: Charmander, Energy: 1, Hand: 8
+  Legal: 0 attacks, 1 attaches, 0 evolves
+  Chose: Action('ATTACH_TOOL_ACTIVE', a=Technical Machine: Evolution)
+
+Game 3 vs Defensive | Turn 8
+  Active: Charmander, Energy: 1, Hand: 7
+  Legal: 7 attacks, 0 attaches, 0 evolves
+  Chose: Action('ATTACK', b=1, c=0)
+
+Game 3 vs Defensive | Turn 10
+  Active: Charmander, Energy: 1, Hand: 8
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PLAY_TRAINER', a=Arven, b=6)
+
+Game 3 vs Defensive | Turn 10
+  Active: Charmander, Energy: 1, Hand: 8
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PASS')
+
+Game 3 vs Defensive | Turn 12
+  Active: Charmander, Energy: 1, Hand: 9
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PLAY_TRAINER', a=Lillie's Determination, b=6)
+
+Game 3 vs Defensive | Turn 12
+  Active: Charmander, Energy: 1, Hand: 8
+  Legal: 0 attacks, 1 attaches, 1 evolves
+  Chose: Action('ATTACH_ACTIVE', a=Fire Energy)
+
+Game 3 vs Defensive | Turn 12
+  Active: Charmander, Energy: 2, Hand: 7
+  Legal: 7 attacks, 0 attaches, 1 evolves
+  Chose: Action('ATTACK', b=0, c=3)
+
+Game 3 vs Defensive | Turn 14
+  Active: Charmander, Energy: 2, Hand: 8
+  Legal: 7 attacks, 0 attaches, 1 evolves
+  Chose: Action('ATTACK', b=0)
+
+Game 3 vs Defensive | Turn 16
+  Active: Charmander, Energy: 2, Hand: 9
+  Legal: 7 attacks, 1 attaches, 1 evolves
+  Chose: Action('PASS')
+
+Game 3 vs Defensive | Turn 18
+  Active: Charmander, Energy: 2, Hand: 10
+  Legal: 7 attacks, 1 attaches, 1 evolves
+  Chose: Action('ATTACK', b=0)
+
+Game 3 vs Defensive | Turn 20
+  Active: Charmander, Energy: 2, Hand: 11
+  Legal: 7 attacks, 1 attaches, 1 evolves
+  Chose: Action('PASS')
+
+Game 3 vs Defensive | Turn 22
+  Active: Charmander, Energy: 2, Hand: 12
+  Legal: 7 attacks, 1 attaches, 1 evolves
+  Chose: Action('ATTACK', b=0)
+
+Game 3 vs Defensive | Turn 24
+  Active: Charmander, Energy: 2, Hand: 14
+  Legal: 7 attacks, 2 attaches, 1 evolves
+  Chose: Action('ATTACK', b=0)
+
+Game 3 vs Defensive | Turn 26
+  Active: Charmander, Energy: 2, Hand: 15
+  Legal: 7 attacks, 2 attaches, 1 evolves
+  Chose: Action('PASS')
+
+Game 3 vs Defensive | Turn 28
+  Active: Charmander, Energy: 2, Hand: 16
+  Legal: 7 attacks, 2 attaches, 1 evolves
+  Chose: Action('ATTACK', b=0)
+
+Game 3 vs Defensive | Turn 30
+  Active: Charmander, Energy: 2, Hand: 18
+  Legal: 7 attacks, 2 attaches, 1 evolves
+  Chose: Action('PASS')
+
+Game 3 vs Defensive | Turn 32
+  Active: Charmander, Energy: 2, Hand: 5
+  Legal: 7 attacks, 0 attaches, 0 evolves
+  Chose: Action('ATTACK', b=0)
+
+Game 3 vs Defensive | Turn 34
+  Active: Charmander, Energy: 2, Hand: 6
+  Legal: 7 attacks, 0 attaches, 0 evolves
+  Chose: Action('PASS')
+
+Game 3 vs Defensive | Turn 36
+  Active: Charmander, Energy: 2, Hand: 7
+  Legal: 7 attacks, 0 attaches, 0 evolves
+  Chose: Action('PASS')
+
+Game 3 vs Defensive | Turn 38
+  Active: Charmander, Energy: 2, Hand: 8
+  Legal: 7 attacks, 0 attaches, 0 evolves
+  Chose: Action('PASS')
+
+Game 3 vs Defensive | Turn 40
+  Active: Charmander, Energy: 2, Hand: 9
+  Legal: 7 attacks, 0 attaches, 0 evolves
+  Chose: Action('PASS')
+
+Game 3 vs Defensive | Turn 42
+  Active: Charmander, Energy: 2, Hand: 10
+  Legal: 7 attacks, 1 attaches, 0 evolves
+  Chose: Action('PASS')
+
+Game 3 vs Defensive | Turn 44
+  Active: Charmander, Energy: 2, Hand: 11
+  Legal: 7 attacks, 1 attaches, 0 evolves
+  Chose: Action('PASS')
+
+Game 3 vs Defensive | Turn 46
+  Active: Charmander, Energy: 2, Hand: 12
+  Legal: 7 attacks, 1 attaches, 0 evolves
+  Chose: Action('PASS')
+
+Game 3 vs Defensive | Turn 48
+  Active: Charmander, Energy: 2, Hand: 13
+  Legal: 7 attacks, 1 attaches, 0 evolves
+  Chose: Action('PASS')
+
+Game 3 vs Defensive | Turn 50
+  Active: Charmander, Energy: 2, Hand: 14
+  Legal: 7 attacks, 2 attaches, 0 evolves
+  Chose: Action('PASS')
+
+
+=== SUMMARY ===
+Random: 80%, Aggressive: 60%

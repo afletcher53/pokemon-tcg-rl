@@ -1,0 +1,29 @@
+Pokémon: 15
+4 Gimmighoul SSP 97
+3 Gholdengo ex PAR 139
+3 Solrock MEG 75
+2 Lunatone MEG 74
+1 Fezandipiti ex SFA 38
+1 Genesect ex BLK 67
+1 Hop's Cramorant JTG 138
+
+Trainer: 34
+4 Arven OBF 186
+3 Boss's Orders MEG 114
+2 Professor Turo's Scenario PAR 171
+1 Lana's Aid TWM 155
+4 Superior Energy Retrieval PAL 189
+4 Fighting Gong MEG 116
+4 Nest Ball SVI 181
+3 Earthen Vessel PAR 163
+1 Buddy-Buddy Poffin TEF 144
+1 Super Rod PAL 188
+1 Premium Power Pro MEG 124
+1 Prime Catcher TEF 157
+2 Air Balloon BLK 79
+1 Vitality Band SVI 197
+2 Artazon PAL 171
+
+Energy: 11
+8 Fighting Energy MEE 6
+3 Metal Energy MEE 8

@@ -1,0 +1,474 @@
+
+============================================================
+GAME 1
+============================================================
+
+
+--- Turn 1 (Player 0) ---
+Active: Charmander [0 dmg, 0 energy]
+Hand: 6 cards, Prizes: 6 left
+  → ATTACH_ACTIVE: Basic Fire Energy
+  → PASS
+
+--- Turn 3 (Player 0) ---
+Active: Charmander [0 dmg, 1 energy]
+Hand: 6 cards, Prizes: 6 left
+  → PASS
+
+--- Turn 5 (Player 0) ---
+Active: Charmander [30 dmg, 1 energy]
+Hand: 7 cards, Prizes: 6 left
+  → PLAY_TRAINER: Arven
+  → PLAY_TRAINER: Rare Candy
+  → PASS
+
+--- Turn 7 (Player 0) ---
+Active: Charizard ex [60 dmg, 4 energy]
+Hand: 6 cards, Prizes: 6 left
+  → PASS
+
+--- Turn 9 (Player 0) ---
+Active: Charizard ex [90 dmg, 4 energy]
+Hand: 7 cards, Prizes: 6 left
+  → PASS
+
+--- Turn 11 (Player 0) ---
+Active: Charizard ex [120 dmg, 4 energy]
+Hand: 8 cards, Prizes: 6 left
+  → PASS
+
+--- Turn 13 (Player 0) ---
+Active: Charizard ex [150 dmg, 4 energy]
+Hand: 9 cards, Prizes: 6 left
+  → PASS
+
+--- Turn 15 (Player 0) ---
+Active: Charizard ex [180 dmg, 4 energy]
+Hand: 10 cards, Prizes: 6 left
+  → PASS
+
+--- Turn 17 (Player 0) ---
+Active: Charizard ex [210 dmg, 4 energy]
+Hand: 11 cards, Prizes: 6 left
+  → PASS
+
+--- Turn 19 (Player 0) ---
+Active: Charizard ex [240 dmg, 4 energy]
+Hand: 12 cards, Prizes: 6 left
+  → PASS
+
+--- Turn 21 (Player 0) ---
+Active: Charizard ex [270 dmg, 4 energy]
+Hand: 13 cards, Prizes: 6 left
+  → PASS
+
+--- Turn 23 (Player 0) ---
+Active: Charizard ex [300 dmg, 4 energy]
+Hand: 14 cards, Prizes: 6 left
+  → ATTACK
+    (attacking Charmander)
+
+--- Turn 25 (Player 0) ---
+Active: Charizard ex [300 dmg, 4 energy]
+Hand: 16 cards, Prizes: 5 left
+  → ATTACK
+    (attacking Duskull)
+
+--- Turn 27 (Player 0) ---
+Active: Charizard ex [300 dmg, 4 energy]
+Hand: 18 cards, Prizes: 4 left
+  → PASS
+
+--- Turn 29 (Player 0) ---
+Active: Charizard ex [300 dmg, 4 energy]
+Hand: 19 cards, Prizes: 4 left
+  → PASS
+
+--- Turn 31 (Player 0) ---
+Active: Charizard ex [300 dmg, 4 energy]
+Hand: 20 cards, Prizes: 4 left
+  → PASS
+
+--- Turn 33 (Player 0) ---
+Active: Charizard ex [300 dmg, 4 energy]
+Hand: 21 cards, Prizes: 4 left
+  → PASS
+
+--- Turn 35 (Player 0) ---
+Active: Charizard ex [300 dmg, 4 energy]
+Hand: 22 cards, Prizes: 4 left
+  → PASS
+
+--- Turn 37 (Player 0) ---
+Active: Charizard ex [300 dmg, 4 energy]
+Hand: 23 cards, Prizes: 4 left
+  → PASS
+
+--- Turn 39 (Player 0) ---
+Active: Charizard ex [300 dmg, 4 energy]
+Hand: 24 cards, Prizes: 4 left
+  → PASS
+
+--- Turn 41 (Player 0) ---
+Active: Charizard ex [300 dmg, 4 energy]
+Hand: 25 cards, Prizes: 4 left
+  → PASS
+
+--- Turn 43 (Player 0) ---
+Active: Charizard ex [300 dmg, 4 energy]
+Hand: 26 cards, Prizes: 4 left
+  → PASS
+
+--- Turn 45 (Player 0) ---
+Active: Charizard ex [300 dmg, 4 energy]
+Hand: 27 cards, Prizes: 4 left
+  → PASS
+
+--- Turn 47 (Player 0) ---
+Active: Charizard ex [300 dmg, 4 energy]
+Hand: 28 cards, Prizes: 4 left
+  → PASS
+
+--- Turn 49 (Player 0) ---
+Active: Charizard ex [300 dmg, 4 energy]
+Hand: 29 cards, Prizes: 4 left
+  → ATTACK
+    (attacking Fan Rotom)
+    *** KO! ***
+
+========================================
+RESULT: Player 0 WINS!
+Total turns: 49
+P0 prizes taken: 3
+P1 prizes taken: 0
+========================================
+
+============================================================
+GAME 2
+============================================================
+
+
+--- Turn 1 (Player 1) ---
+Active: Duskull [0 dmg, 0 energy]
+Hand: 6 cards, Prizes: 6 left
+  → PASS
+
+--- Turn 2 (Player 0) ---
+Active: Pidgey [0 dmg, 0 energy]
+Hand: 7 cards, Prizes: 6 left
+  → PLAY_BASIC_TO_BENCH: Duskull
+  → PASS
+
+--- Turn 4 (Player 0) ---
+Active: Pidgey [0 dmg, 0 energy]
+Bench: Duskull
+Hand: 7 cards, Prizes: 6 left
+  → PASS
+
+--- Turn 6 (Player 0) ---
+Active: Pidgey [0 dmg, 0 energy]
+Bench: Duskull
+Hand: 8 cards, Prizes: 6 left
+  → ATTACH_BENCH: Basic Fire Energy
+  → EVOLVE_BENCH: Dusclops
+  → PASS
+
+--- Turn 8 (Player 0) ---
+Active: Pidgey [0 dmg, 0 energy]
+Bench: Dusclops
+Hand: 7 cards, Prizes: 6 left
+  → PLAY_TRAINER: Ultra Ball
+  → PLAY_BASIC_TO_BENCH: Fan Rotom
+  → PASS
+
+--- Turn 10 (Player 0) ---
+Active: Pidgey [0 dmg, 0 energy]
+Bench: Dusclops, Fan Rotom
+Hand: 5 cards, Prizes: 6 left
+  → PASS
+
+--- Turn 12 (Player 0) ---
+Active: Pidgey [0 dmg, 0 energy]
+Bench: Dusclops, Fan Rotom
+Hand: 6 cards, Prizes: 6 left
+  → PLAY_TRAINER: Boss's Orders
+  → PASS
+
+--- Turn 14 (Player 0) ---
+Active: Pidgey [0 dmg, 0 energy]
+Bench: Dusclops, Fan Rotom
+Hand: 6 cards, Prizes: 6 left
+  → PLAY_TRAINER: Iono
+  → PASS
+
+--- Turn 16 (Player 0) ---
+Active: Pidgey [0 dmg, 0 energy]
+Bench: Dusclops, Fan Rotom
+Hand: 7 cards, Prizes: 6 left
+  → PLAY_BASIC_TO_BENCH: Charmander
+  → PASS
+
+--- Turn 18 (Player 0) ---
+Active: Pidgey [30 dmg, 0 energy]
+Bench: Charmander, Dusclops, Fan Rotom
+Hand: 7 cards, Prizes: 6 left
+  → PASS
+
+--- Turn 20 (Player 0) ---
+Active: Charmander [0 dmg, 0 energy]
+Bench: Dusclops, Fan Rotom
+Hand: 8 cards, Prizes: 6 left
+  → PASS
+
+--- Turn 22 (Player 0) ---
+Active: Charmander [30 dmg, 0 energy]
+Bench: Dusclops, Fan Rotom
+Hand: 9 cards, Prizes: 6 left
+  → PASS
+
+--- Turn 24 (Player 0) ---
+Active: Charmander [60 dmg, 0 energy]
+Bench: Dusclops, Fan Rotom
+Hand: 10 cards, Prizes: 6 left
+  → PASS
+
+--- Turn 26 (Player 0) ---
+Active: Dusclops [0 dmg, 1 energy]
+Bench: Fan Rotom
+Hand: 11 cards, Prizes: 6 left
+  → PASS
+
+--- Turn 28 (Player 0) ---
+Active: Dusclops [30 dmg, 1 energy]
+Bench: Fan Rotom
+Hand: 12 cards, Prizes: 6 left
+  → PASS
+
+--- Turn 30 (Player 0) ---
+Active: Dusclops [60 dmg, 1 energy]
+Bench: Fan Rotom
+Hand: 13 cards, Prizes: 6 left
+  → PASS
+
+--- Turn 32 (Player 0) ---
+Active: Fan Rotom [0 dmg, 0 energy]
+Hand: 14 cards, Prizes: 6 left
+  → PASS
+
+--- Turn 34 (Player 0) ---
+Active: Fan Rotom [30 dmg, 0 energy]
+Hand: 15 cards, Prizes: 6 left
+  → PASS
+
+--- Turn 36 (Player 0) ---
+Active: Fan Rotom [60 dmg, 0 energy]
+Hand: 16 cards, Prizes: 6 left
+  → PLAY_BASIC_TO_BENCH: Charmander
+  → PASS
+
+--- Turn 38 (Player 0) ---
+Active: Charmander [0 dmg, 0 energy]
+Hand: 16 cards, Prizes: 6 left
+  → PLAY_BASIC_TO_BENCH: Fezandipiti ex
+  → PASS
+
+--- Turn 40 (Player 0) ---
+Active: Charmander [30 dmg, 0 energy]
+Bench: Fezandipiti ex
+Hand: 16 cards, Prizes: 6 left
+  → PASS
+
+--- Turn 42 (Player 0) ---
+Active: Charmander [60 dmg, 0 energy]
+Bench: Fezandipiti ex
+Hand: 17 cards, Prizes: 6 left
+  → PASS
+
+--- Turn 44 (Player 0) ---
+Active: Fezandipiti ex [0 dmg, 0 energy]
+Hand: 18 cards, Prizes: 6 left
+  → PASS
+
+--- Turn 46 (Player 0) ---
+Active: Fezandipiti ex [30 dmg, 0 energy]
+Hand: 19 cards, Prizes: 6 left
+  → PASS
+
+--- Turn 48 (Player 0) ---
+Active: Fezandipiti ex [60 dmg, 0 energy]
+Hand: 20 cards, Prizes: 6 left
+  → PASS
+
+--- Turn 50 (Player 0) ---
+Active: Fezandipiti ex [90 dmg, 0 energy]
+Hand: 21 cards, Prizes: 6 left
+  → PASS
+
+========================================
+RESULT: DRAW (deck-out or max turns)
+Total turns: 52
+P0 prizes taken: 0
+P1 prizes taken: 5
+========================================
+
+============================================================
+GAME 3
+============================================================
+
+
+--- Turn 1 (Player 1) ---
+Active: Charmander [0 dmg, 0 energy]
+Hand: 7 cards, Prizes: 6 left
+  → PASS
+
+--- Turn 2 (Player 0) ---
+Active: Charmander [0 dmg, 0 energy]
+Hand: 8 cards, Prizes: 6 left
+  → PASS
+
+--- Turn 4 (Player 0) ---
+Active: Charmander [0 dmg, 0 energy]
+Hand: 9 cards, Prizes: 6 left
+  → PASS
+
+--- Turn 6 (Player 0) ---
+Active: Charmander [30 dmg, 0 energy]
+Hand: 10 cards, Prizes: 6 left
+  → PASS
+
+--- Turn 8 (Player 0) ---
+Active: Charmander [60 dmg, 0 energy]
+Hand: 11 cards, Prizes: 6 left
+  → PLAY_TRAINER: Ultra Ball
+  → PLAY_TRAINER: Boss's Orders
+  → PASS
+
+--- Turn 10 (Player 0) ---
+Active: Charmander [60 dmg, 0 energy]
+Hand: 9 cards, Prizes: 6 left
+  → PASS
+
+--- Turn 12 (Player 0) ---
+Active: Charmander [60 dmg, 0 energy]
+Hand: 10 cards, Prizes: 6 left
+  → PASS
+
+--- Turn 14 (Player 0) ---
+Active: Charmander [60 dmg, 0 energy]
+Hand: 11 cards, Prizes: 6 left
+  → PASS
+
+--- Turn 16 (Player 0) ---
+Active: Charmander [60 dmg, 0 energy]
+Hand: 12 cards, Prizes: 6 left
+  → PLAY_BASIC_TO_BENCH: Charmander
+  → PASS
+
+--- Turn 18 (Player 0) ---
+Active: Charmander [60 dmg, 0 energy]
+Bench: Charmander
+Hand: 12 cards, Prizes: 6 left
+  → PASS
+
+--- Turn 20 (Player 0) ---
+Active: Charmander [60 dmg, 0 energy]
+Bench: Charmander
+Hand: 13 cards, Prizes: 6 left
+  → PASS
+
+--- Turn 22 (Player 0) ---
+Active: Charmander [60 dmg, 0 energy]
+Bench: Charmander
+Hand: 14 cards, Prizes: 6 left
+  → PASS
+
+--- Turn 24 (Player 0) ---
+Active: Charmander [60 dmg, 0 energy]
+Bench: Charmander
+Hand: 15 cards, Prizes: 6 left
+  → PASS
+
+--- Turn 26 (Player 0) ---
+Active: Charmander [0 dmg, 0 energy]
+Hand: 16 cards, Prizes: 6 left
+  → PLAY_TRAINER: Boss's Orders
+  → ATTACH_ACTIVE: Basic Psychic Energy
+  → PLAY_BASIC_TO_BENCH: Charmander
+  → PASS
+
+--- Turn 28 (Player 0) ---
+Active: Charmander [30 dmg, 1 energy]
+Bench: Charmander
+Hand: 14 cards, Prizes: 6 left
+  → PASS
+
+--- Turn 30 (Player 0) ---
+Active: Charmander [60 dmg, 1 energy]
+Bench: Charmander
+Hand: 15 cards, Prizes: 6 left
+  → PLAY_TRAINER: Ultra Ball
+  → PASS
+
+--- Turn 32 (Player 0) ---
+Active: Charmander [0 dmg, 0 energy]
+Hand: 14 cards, Prizes: 6 left
+  → PASS
+
+--- Turn 34 (Player 0) ---
+Active: Charmander [30 dmg, 0 energy]
+Hand: 15 cards, Prizes: 6 left
+  → PASS
+
+--- Turn 36 (Player 0) ---
+Active: Charmander [60 dmg, 0 energy]
+Hand: 16 cards, Prizes: 6 left
+  → PLAY_TRAINER: Rare Candy
+  → ATTACK
+    (attacking Charmander)
+
+--- Turn 38 (Player 0) ---
+Active: Charizard ex [90 dmg, 3 energy]
+Hand: 16 cards, Prizes: 5 left
+  → PASS
+
+--- Turn 40 (Player 0) ---
+Active: Charizard ex [120 dmg, 3 energy]
+Hand: 17 cards, Prizes: 5 left
+  → ATTACK
+    (attacking Charmander)
+
+--- Turn 42 (Player 0) ---
+Active: Charizard ex [120 dmg, 3 energy]
+Hand: 19 cards, Prizes: 4 left
+  → PASS
+
+--- Turn 44 (Player 0) ---
+Active: Charizard ex [120 dmg, 3 energy]
+Hand: 20 cards, Prizes: 4 left
+  → ATTACK
+    (attacking Duskull)
+
+--- Turn 46 (Player 0) ---
+Active: Charizard ex [120 dmg, 3 energy]
+Hand: 22 cards, Prizes: 3 left
+  → ATTACK
+    (attacking Charmander)
+
+--- Turn 48 (Player 0) ---
+Active: Charizard ex [120 dmg, 3 energy]
+Hand: 24 cards, Prizes: 2 left
+  → ATTACK
+    (attacking Charmander)
+
+--- Turn 50 (Player 0) ---
+Active: Charizard ex [120 dmg, 3 energy]
+Hand: 26 cards, Prizes: 1 left
+  → ATTACK
+    (attacking Duskull)
+
+========================================
+RESULT: Player 0 WINS!
+Total turns: 50
+P0 prizes taken: 6
+P1 prizes taken: 2
+========================================

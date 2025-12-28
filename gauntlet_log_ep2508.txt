@@ -1,0 +1,1280 @@
+=== GAUNTLET LOG Episode 2508 ===
+
+Game 1 vs Random | Turn 1
+  Active: Abra, Energy: 0, Hand: 6
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PASS')
+
+Game 1 vs Random | Turn 3
+  Active: Abra, Energy: 0, Hand: 7
+  Legal: 0 attacks, 1 attaches, 1 evolves
+  Chose: Action('ATTACH_ACTIVE', a=Jet Energy)
+
+Game 1 vs Random | Turn 3
+  Active: Abra, Energy: 1, Hand: 6
+  Legal: 0 attacks, 0 attaches, 1 evolves
+  Chose: Action('EVOLVE_ACTIVE', a=Kadabra)
+
+Game 1 vs Random | Turn 3
+  Active: Kadabra, Energy: 1, Hand: 7
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PLAY_TRAINER', a=Boss's Orders, b=0)
+
+Game 1 vs Random | Turn 3
+  Active: Kadabra, Energy: 1, Hand: 6
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PASS')
+
+Game 1 vs Random | Turn 5
+  Active: Kadabra, Energy: 1, Hand: 7
+  Legal: 0 attacks, 0 attaches, 1 evolves
+  Chose: Action('PLAY_TRAINER', a=Dawn, b=6)
+
+Game 1 vs Random | Turn 5
+  Active: Kadabra, Energy: 1, Hand: 9
+  Legal: 0 attacks, 0 attaches, 1 evolves
+  Chose: Action('PASS')
+
+Game 1 vs Random | Turn 7
+  Active: Kadabra, Energy: 1, Hand: 10
+  Legal: 0 attacks, 0 attaches, 1 evolves
+  Chose: Action('EVOLVE_ACTIVE', a=Alakazam)
+
+Game 1 vs Random | Turn 7
+  Active: Alakazam, Energy: 1, Hand: 12
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PLAY_TRAINER', a=Dawn, b=6)
+
+Game 1 vs Random | Turn 7
+  Active: Alakazam, Energy: 1, Hand: 14
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PLAY_BASIC_TO_BENCH', a=Fezandipiti ex, b=2)
+
+Game 1 vs Random | Turn 7
+  Active: Alakazam, Energy: 1, Hand: 13
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('RETREAT_TO', b=2)
+
+Game 1 vs Random | Turn 7
+  Active: Fezandipiti ex, Energy: 0, Hand: 13
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PLAY_BASIC_TO_BENCH', a=Abra, b=0)
+
+Game 1 vs Random | Turn 7
+  Active: Fezandipiti ex, Energy: 0, Hand: 12
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PASS')
+
+Game 1 vs Random | Turn 9
+  Active: Alakazam, Energy: 0, Hand: 13
+  Legal: 0 attacks, 0 attaches, 1 evolves
+  Chose: Action('PLAY_TRAINER', a=Battle Cage, b=6)
+
+Game 1 vs Random | Turn 9
+  Active: Alakazam, Energy: 0, Hand: 12
+  Legal: 0 attacks, 0 attaches, 1 evolves
+  Chose: Action('PASS')
+
+Game 1 vs Random | Turn 11
+  Active: Alakazam, Energy: 0, Hand: 13
+  Legal: 0 attacks, 0 attaches, 1 evolves
+  Chose: Action('EVOLVE_BENCH', a=Kadabra, b=0)
+
+Game 1 vs Random | Turn 11
+  Active: Alakazam, Energy: 0, Hand: 14
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PASS')
+
+Game 1 vs Random | Turn 13
+  Active: Alakazam, Energy: 0, Hand: 15
+  Legal: 0 attacks, 0 attaches, 1 evolves
+  Chose: Action('EVOLVE_BENCH', a=Alakazam, b=0)
+
+Game 1 vs Random | Turn 13
+  Active: Alakazam, Energy: 0, Hand: 17
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PASS')
+
+Game 1 vs Random | Turn 15
+  Active: Alakazam, Energy: 0, Hand: 18
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PLAY_TRAINER', a=Hilda, b=6)
+
+Game 1 vs Random | Turn 15
+  Active: Alakazam, Energy: 0, Hand: 19
+  Legal: 0 attacks, 3 attaches, 0 evolves
+  Chose: Action('ATTACH_ACTIVE', a=Basic Psychic Energy)
+
+Game 1 vs Random | Turn 15
+  Active: Alakazam, Energy: 1, Hand: 18
+  Legal: 7 attacks, 0 attaches, 0 evolves
+  Chose: Action('PASS')
+
+Game 1 vs Random | Turn 17
+  Active: Alakazam, Energy: 1, Hand: 19
+  Legal: 7 attacks, 0 attaches, 0 evolves
+  Chose: Action('ATTACK', b=0)
+
+Game 1 vs Random | Turn 19
+  Active: Alakazam, Energy: 0, Hand: 21
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PLAY_TRAINER', a=Dawn, b=6)
+
+Game 1 vs Random | Turn 19
+  Active: Alakazam, Energy: 0, Hand: 23
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PLAY_BASIC_TO_BENCH', a=Fan Rotom, b=0)
+
+Game 1 vs Random | Turn 19
+  Active: Alakazam, Energy: 0, Hand: 22
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PLAY_BASIC_TO_BENCH', a=Dunsparce, b=4)
+
+Game 1 vs Random | Turn 19
+  Active: Alakazam, Energy: 0, Hand: 21
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PLAY_BASIC_TO_BENCH', a=Fan Rotom, b=3)
+
+Game 1 vs Random | Turn 19
+  Active: Alakazam, Energy: 0, Hand: 20
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PASS')
+
+Game 1 vs Random | Turn 21
+  Active: Fan Rotom, Energy: 0, Hand: 21
+  Legal: 0 attacks, 0 attaches, 1 evolves
+  Chose: Action('PLAY_TRAINER', a=Boss's Orders, b=2)
+
+Game 1 vs Random | Turn 21
+  Active: Fan Rotom, Energy: 0, Hand: 20
+  Legal: 0 attacks, 0 attaches, 1 evolves
+  Chose: Action('PASS')
+
+Game 1 vs Random | Turn 23
+  Active: Fan Rotom, Energy: 0, Hand: 21
+  Legal: 0 attacks, 4 attaches, 1 evolves
+  Chose: Action('ATTACH_ACTIVE', a=Basic Psychic Energy)
+
+Game 1 vs Random | Turn 23
+  Active: Fan Rotom, Energy: 1, Hand: 20
+  Legal: 7 attacks, 0 attaches, 1 evolves
+  Chose: Action('PASS')
+
+Game 1 vs Random | Turn 25
+  Active: Fan Rotom, Energy: 1, Hand: 21
+  Legal: 7 attacks, 0 attaches, 1 evolves
+  Chose: Action('PASS')
+
+Game 1 vs Random | Turn 27
+  Active: Fan Rotom, Energy: 1, Hand: 22
+  Legal: 7 attacks, 0 attaches, 1 evolves
+  Chose: Action('PASS')
+
+Game 1 vs Random | Turn 29
+  Active: Fan Rotom, Energy: 0, Hand: 23
+  Legal: 0 attacks, 0 attaches, 1 evolves
+  Chose: Action('PLAY_TRAINER', a=Hilda, b=6)
+
+Game 1 vs Random | Turn 29
+  Active: Fan Rotom, Energy: 0, Hand: 23
+  Legal: 0 attacks, 4 attaches, 1 evolves
+  Chose: Action('ATTACH_ACTIVE', a=Basic Psychic Energy)
+
+Game 1 vs Random | Turn 29
+  Active: Fan Rotom, Energy: 1, Hand: 22
+  Legal: 7 attacks, 0 attaches, 1 evolves
+  Chose: Action('PASS')
+
+Game 1 vs Random | Turn 31
+  Active: Dunsparce, Energy: 0, Hand: 23
+  Legal: 0 attacks, 0 attaches, 1 evolves
+  Chose: Action('EVOLVE_ACTIVE', a=Dudunsparce)
+
+Game 1 vs Random | Turn 31
+  Active: Dudunsparce, Energy: 0, Hand: 22
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('USE_ACTIVE_ABILITY')
+
+Game 1 vs Random | Turn 31
+  Active: Dudunsparce, Energy: 0, Hand: 22
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PASS')
+
+Game 1 vs Random | Turn 33
+  Active: Dudunsparce, Energy: 0, Hand: 23
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('USE_ACTIVE_ABILITY')
+
+Game 1 vs Random | Turn 33
+  Active: Dudunsparce, Energy: 0, Hand: 23
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PLAY_TRAINER', a=Lillie's Determination, b=6)
+
+Game 1 vs Random | Turn 33
+  Active: Dudunsparce, Energy: 0, Hand: 6
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PASS')
+
+Game 1 vs Random | Turn 35
+  Active: Dudunsparce, Energy: 0, Hand: 7
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PLAY_TRAINER', a=Dawn, b=6)
+
+Game 1 vs Random | Turn 35
+  Active: Dudunsparce, Energy: 0, Hand: 9
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('USE_ACTIVE_ABILITY')
+
+Game 1 vs Random | Turn 35
+  Active: Dudunsparce, Energy: 0, Hand: 9
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PASS')
+
+Game 1 vs Random | Turn 37
+  Active: Dudunsparce, Energy: 0, Hand: 10
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('USE_ACTIVE_ABILITY')
+
+Game 1 vs Random | Turn 37
+  Active: Dudunsparce, Energy: 0, Hand: 10
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PASS')
+
+Game 1 vs Random | Turn 39
+  Active: Dudunsparce, Energy: 0, Hand: 11
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PASS')
+
+Game 2 vs Random | Turn 1
+  Active: Dunsparce, Energy: 0, Hand: 6
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PLAY_BASIC_TO_BENCH', a=Dunsparce, b=2)
+
+Game 2 vs Random | Turn 1
+  Active: Dunsparce, Energy: 0, Hand: 5
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PASS')
+
+Game 2 vs Random | Turn 3
+  Active: Dunsparce, Energy: 0, Hand: 6
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PLAY_TRAINER', a=Dawn, b=6)
+
+Game 2 vs Random | Turn 3
+  Active: Dunsparce, Energy: 0, Hand: 8
+  Legal: 0 attacks, 0 attaches, 2 evolves
+  Chose: Action('EVOLVE_ACTIVE', a=Dudunsparce)
+
+Game 2 vs Random | Turn 3
+  Active: Dudunsparce, Energy: 0, Hand: 7
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PLAY_BASIC_TO_BENCH', a=Dunsparce, b=3)
+
+Game 2 vs Random | Turn 3
+  Active: Dudunsparce, Energy: 0, Hand: 6
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('USE_ACTIVE_ABILITY')
+
+Game 2 vs Random | Turn 3
+  Active: Dudunsparce, Energy: 0, Hand: 6
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PASS')
+
+Game 2 vs Random | Turn 5
+  Active: Dudunsparce, Energy: 0, Hand: 7
+  Legal: 0 attacks, 3 attaches, 0 evolves
+  Chose: Action('ATTACH_BENCH', a=Enriching Energy, b=3)
+
+Game 2 vs Random | Turn 5
+  Active: Dudunsparce, Energy: 0, Hand: 10
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('USE_ACTIVE_ABILITY')
+
+Game 2 vs Random | Turn 5
+  Active: Dudunsparce, Energy: 0, Hand: 10
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PLAY_TRAINER', a=Battle Cage, b=6)
+
+Game 2 vs Random | Turn 5
+  Active: Dudunsparce, Energy: 0, Hand: 9
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PASS')
+
+Game 2 vs Random | Turn 7
+  Active: Dudunsparce, Energy: 0, Hand: 10
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('USE_ACTIVE_ABILITY')
+
+Game 2 vs Random | Turn 7
+  Active: Dudunsparce, Energy: 0, Hand: 10
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PASS')
+
+Game 2 vs Random | Turn 9
+  Active: Dudunsparce, Energy: 0, Hand: 11
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('USE_ACTIVE_ABILITY')
+
+Game 2 vs Random | Turn 9
+  Active: Dudunsparce, Energy: 0, Hand: 11
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PLAY_TRAINER', a=Boss's Orders, b=2)
+
+Game 2 vs Random | Turn 9
+  Active: Dudunsparce, Energy: 0, Hand: 10
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PASS')
+
+Game 2 vs Random | Turn 11
+  Active: Dunsparce, Energy: 0, Hand: 11
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PLAY_TRAINER', a=Dawn, b=6)
+
+Game 2 vs Random | Turn 11
+  Active: Dunsparce, Energy: 0, Hand: 13
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PLAY_BASIC_TO_BENCH', a=Fan Rotom, b=4)
+
+Game 2 vs Random | Turn 11
+  Active: Dunsparce, Energy: 0, Hand: 12
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PLAY_BASIC_TO_BENCH', a=Abra, b=0)
+
+Game 2 vs Random | Turn 11
+  Active: Dunsparce, Energy: 0, Hand: 11
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PASS')
+
+Game 2 vs Random | Turn 13
+  Active: Dunsparce, Energy: 0, Hand: 12
+  Legal: 0 attacks, 5 attaches, 1 evolves
+  Chose: Action('ATTACH_BENCH', a=Basic Psychic Energy, b=0)
+
+Game 2 vs Random | Turn 13
+  Active: Dunsparce, Energy: 0, Hand: 11
+  Legal: 0 attacks, 0 attaches, 1 evolves
+  Chose: Action('EVOLVE_BENCH', a=Kadabra, b=0)
+
+Game 2 vs Random | Turn 13
+  Active: Dunsparce, Energy: 0, Hand: 12
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PLAY_TRAINER', a=Dawn, b=6)
+
+Game 2 vs Random | Turn 13
+  Active: Dunsparce, Energy: 0, Hand: 14
+  Legal: 0 attacks, 0 attaches, 2 evolves
+  Chose: Action('PASS')
+
+Game 2 vs Random | Turn 15
+  Active: Dunsparce, Energy: 0, Hand: 15
+  Legal: 0 attacks, 0 attaches, 3 evolves
+  Chose: Action('PASS')
+
+Game 2 vs Random | Turn 17
+  Active: Fan Rotom, Energy: 0, Hand: 16
+  Legal: 0 attacks, 0 attaches, 3 evolves
+  Chose: Action('EVOLVE_BENCH', a=Alakazam, b=0)
+
+Game 2 vs Random | Turn 17
+  Active: Fan Rotom, Energy: 0, Hand: 18
+  Legal: 0 attacks, 0 attaches, 2 evolves
+  Chose: Action('EVOLVE_BENCH', a=Dudunsparce, b=3)
+
+Game 2 vs Random | Turn 17
+  Active: Fan Rotom, Energy: 0, Hand: 17
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PLAY_TRAINER', a=Hilda, b=6)
+
+Game 2 vs Random | Turn 17
+  Active: Fan Rotom, Energy: 0, Hand: 18
+  Legal: 0 attacks, 5 attaches, 0 evolves
+  Chose: Action('ATTACH_ACTIVE', a=Basic Psychic Energy)
+
+Game 2 vs Random | Turn 17
+  Active: Fan Rotom, Energy: 1, Hand: 17
+  Legal: 7 attacks, 0 attaches, 0 evolves
+  Chose: Action('ATTACK', b=0)
+
+Game 2 vs Random | Turn 19
+  Active: Fan Rotom, Energy: 1, Hand: 19
+  Legal: 7 attacks, 0 attaches, 1 evolves
+  Chose: Action('ATTACK', b=0)
+
+Game 2 vs Random | Turn 21
+  Active: Fan Rotom, Energy: 1, Hand: 20
+  Legal: 7 attacks, 0 attaches, 1 evolves
+  Chose: Action('PASS')
+
+Game 2 vs Random | Turn 23
+  Active: Fan Rotom, Energy: 1, Hand: 21
+  Legal: 7 attacks, 0 attaches, 1 evolves
+  Chose: Action('PASS')
+
+Game 2 vs Random | Turn 25
+  Active: Fan Rotom, Energy: 1, Hand: 22
+  Legal: 7 attacks, 0 attaches, 1 evolves
+  Chose: Action('PASS')
+
+Game 2 vs Random | Turn 27
+  Active: Fan Rotom, Energy: 1, Hand: 23
+  Legal: 7 attacks, 5 attaches, 1 evolves
+  Chose: Action('PASS')
+
+Game 2 vs Random | Turn 29
+  Active: Fan Rotom, Energy: 1, Hand: 24
+  Legal: 7 attacks, 5 attaches, 1 evolves
+  Chose: Action('ATTACK', b=0, c=1)
+
+Game 2 vs Random | Turn 31
+  Active: Fan Rotom, Energy: 1, Hand: 25
+  Legal: 7 attacks, 10 attaches, 1 evolves
+  Chose: Action('PASS')
+
+Game 2 vs Random | Turn 33
+  Active: Fan Rotom, Energy: 1, Hand: 26
+  Legal: 7 attacks, 10 attaches, 1 evolves
+  Chose: Action('ATTACK', b=0, c=0)
+
+Game 2 vs Random | Turn 35
+  Active: Alakazam, Energy: 1, Hand: 28
+  Legal: 7 attacks, 8 attaches, 1 evolves
+  Chose: Action('ATTACK', b=0)
+
+Game 2 vs Random | Turn 37
+  Active: Alakazam, Energy: 1, Hand: 30
+  Legal: 7 attacks, 8 attaches, 1 evolves
+  Chose: Action('PASS')
+
+Game 2 vs Random | Turn 39
+  Active: Alakazam, Energy: 1, Hand: 31
+  Legal: 7 attacks, 8 attaches, 1 evolves
+  Chose: Action('PASS')
+
+Game 2 vs Random | Turn 41
+  Active: Alakazam, Energy: 1, Hand: 32
+  Legal: 7 attacks, 8 attaches, 1 evolves
+  Chose: Action('PASS')
+
+Game 3 vs Random | Turn 1
+  Active: Abra, Energy: 0, Hand: 6
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PLAY_TRAINER', a=Battle Cage, b=6)
+
+Game 3 vs Random | Turn 1
+  Active: Abra, Energy: 0, Hand: 5
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PLAY_BASIC_TO_BENCH', a=Fan Rotom, b=2)
+
+Game 3 vs Random | Turn 1
+  Active: Abra, Energy: 0, Hand: 4
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('USE_ACTIVE_ABILITY')
+
+Game 3 vs Random | Turn 1
+  Active: Abra, Energy: 0, Hand: 7
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PLAY_BASIC_TO_BENCH', a=Dunsparce, b=1)
+
+Game 3 vs Random | Turn 1
+  Active: Abra, Energy: 0, Hand: 6
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PLAY_BASIC_TO_BENCH', a=Dunsparce, b=4)
+
+Game 3 vs Random | Turn 1
+  Active: Abra, Energy: 0, Hand: 5
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PLAY_BASIC_TO_BENCH', a=Dunsparce, b=3)
+
+Game 3 vs Random | Turn 1
+  Active: Abra, Energy: 0, Hand: 4
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PASS')
+
+Game 3 vs Random | Turn 3
+  Active: Abra, Energy: 0, Hand: 5
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PLAY_TRAINER', a=Hilda, b=6)
+
+Game 3 vs Random | Turn 3
+  Active: Abra, Energy: 0, Hand: 6
+  Legal: 0 attacks, 5 attaches, 3 evolves
+  Chose: Action('ATTACH_BENCH', a=Basic Psychic Energy, b=1)
+
+Game 3 vs Random | Turn 3
+  Active: Abra, Energy: 0, Hand: 5
+  Legal: 0 attacks, 0 attaches, 3 evolves
+  Chose: Action('EVOLVE_BENCH', a=Dudunsparce, b=4)
+
+Game 3 vs Random | Turn 3
+  Active: Abra, Energy: 0, Hand: 4
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PLAY_TRAINER', a=Battle Cage, b=6)
+
+Game 3 vs Random | Turn 3
+  Active: Abra, Energy: 0, Hand: 3
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PASS')
+
+Game 3 vs Random | Turn 5
+  Active: Abra, Energy: 0, Hand: 4
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PASS')
+
+Game 3 vs Random | Turn 7
+  Active: Dunsparce, Energy: 1, Hand: 5
+  Legal: 7 attacks, 0 attaches, 0 evolves
+  Chose: Action('PASS')
+
+Game 3 vs Random | Turn 9
+  Active: Dunsparce, Energy: 1, Hand: 6
+  Legal: 7 attacks, 4 attaches, 0 evolves
+  Chose: Action('ATTACH_ACTIVE', a=Jet Energy)
+
+Game 3 vs Random | Turn 9
+  Active: Dunsparce, Energy: 2, Hand: 5
+  Legal: 7 attacks, 0 attaches, 0 evolves
+  Chose: Action('PASS')
+
+Game 3 vs Random | Turn 11
+  Active: Dunsparce, Energy: 2, Hand: 6
+  Legal: 7 attacks, 0 attaches, 0 evolves
+  Chose: Action('ATTACK', b=0, c=1)
+
+Game 3 vs Random | Turn 13
+  Active: Dudunsparce, Energy: 0, Hand: 7
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PLAY_TRAINER', a=Hilda, b=6)
+
+Game 3 vs Random | Turn 13
+  Active: Dudunsparce, Energy: 0, Hand: 8
+  Legal: 0 attacks, 4 attaches, 0 evolves
+  Chose: Action('USE_ACTIVE_ABILITY')
+
+Game 3 vs Random | Turn 13
+  Active: Dudunsparce, Energy: 0, Hand: 8
+  Legal: 0 attacks, 4 attaches, 0 evolves
+  Chose: Action('ATTACH_ACTIVE', a=Basic Psychic Energy)
+
+Game 3 vs Random | Turn 13
+  Active: Dudunsparce, Energy: 1, Hand: 7
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PASS')
+
+Game 3 vs Random | Turn 15
+  Active: Dudunsparce, Energy: 1, Hand: 8
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PLAY_TRAINER', a=Boss's Orders, b=3)
+
+Game 3 vs Random | Turn 15
+  Active: Dudunsparce, Energy: 1, Hand: 7
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('USE_ACTIVE_ABILITY')
+
+Game 3 vs Random | Turn 15
+  Active: Dudunsparce, Energy: 1, Hand: 7
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PASS')
+
+Game 3 vs Random | Turn 17
+  Active: Dudunsparce, Energy: 1, Hand: 8
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PLAY_TRAINER', a=Boss's Orders, b=2)
+
+Game 3 vs Random | Turn 17
+  Active: Dudunsparce, Energy: 1, Hand: 7
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PASS')
+
+Game 3 vs Random | Turn 19
+  Active: Fan Rotom, Energy: 0, Hand: 8
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PLAY_TRAINER', a=Tulip, b=6)
+
+Game 3 vs Random | Turn 19
+  Active: Fan Rotom, Energy: 0, Hand: 8
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PLAY_BASIC_TO_BENCH', a=Abra, b=0)
+
+Game 3 vs Random | Turn 19
+  Active: Fan Rotom, Energy: 0, Hand: 7
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PASS')
+
+Game 3 vs Random | Turn 21
+  Active: Fan Rotom, Energy: 0, Hand: 8
+  Legal: 0 attacks, 0 attaches, 1 evolves
+  Chose: Action('EVOLVE_BENCH', a=Kadabra, b=0)
+
+Game 3 vs Random | Turn 21
+  Active: Fan Rotom, Energy: 0, Hand: 9
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PASS')
+
+Game 3 vs Random | Turn 23
+  Active: Fan Rotom, Energy: 0, Hand: 10
+  Legal: 0 attacks, 0 attaches, 1 evolves
+  Chose: Action('PLAY_TRAINER', a=Hilda, b=6)
+
+Game 3 vs Random | Turn 23
+  Active: Fan Rotom, Energy: 0, Hand: 11
+  Legal: 0 attacks, 5 attaches, 1 evolves
+  Chose: Action('ATTACH_ACTIVE', a=Enriching Energy)
+
+Game 3 vs Random | Turn 23
+  Active: Fan Rotom, Energy: 1, Hand: 14
+  Legal: 7 attacks, 0 attaches, 1 evolves
+  Chose: Action('PASS')
+
+Game 3 vs Random | Turn 25
+  Active: Fan Rotom, Energy: 1, Hand: 15
+  Legal: 7 attacks, 5 attaches, 3 evolves
+  Chose: Action('PASS')
+
+Game 3 vs Random | Turn 27
+  Active: Fan Rotom, Energy: 1, Hand: 16
+  Legal: 7 attacks, 5 attaches, 3 evolves
+  Chose: Action('PASS')
+
+Game 3 vs Random | Turn 29
+  Active: Fan Rotom, Energy: 1, Hand: 17
+  Legal: 7 attacks, 5 attaches, 3 evolves
+  Chose: Action('PASS')
+
+Game 3 vs Random | Turn 31
+  Active: Fan Rotom, Energy: 1, Hand: 18
+  Legal: 7 attacks, 5 attaches, 3 evolves
+  Chose: Action('PASS')
+
+Game 3 vs Random | Turn 33
+  Active: Fan Rotom, Energy: 1, Hand: 19
+  Legal: 7 attacks, 5 attaches, 3 evolves
+  Chose: Action('PASS')
+
+Game 3 vs Random | Turn 35
+  Active: Fan Rotom, Energy: 1, Hand: 20
+  Legal: 7 attacks, 5 attaches, 3 evolves
+  Chose: Action('ATTACK', b=0)
+
+Game 3 vs Random | Turn 37
+  Active: Dudunsparce, Energy: 1, Hand: 22
+  Legal: 0 attacks, 5 attaches, 3 evolves
+  Chose: Action('ATTACH_ACTIVE', a=Basic Psychic Energy)
+
+Game 3 vs Random | Turn 37
+  Active: Dudunsparce, Energy: 2, Hand: 21
+  Legal: 0 attacks, 0 attaches, 3 evolves
+  Chose: Action('EVOLVE_BENCH', a=Alakazam, b=0)
+
+Game 3 vs Random | Turn 37
+  Active: Dudunsparce, Energy: 2, Hand: 23
+  Legal: 0 attacks, 0 attaches, 2 evolves
+  Chose: Action('EVOLVE_BENCH', a=Dudunsparce, b=3)
+
+Game 3 vs Random | Turn 37
+  Active: Dudunsparce, Energy: 2, Hand: 22
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('USE_ACTIVE_ABILITY')
+
+Game 3 vs Random | Turn 37
+  Active: Dudunsparce, Energy: 2, Hand: 22
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PLAY_TRAINER', a=Dawn, b=6)
+
+Game 3 vs Random | Turn 37
+  Active: Dudunsparce, Energy: 2, Hand: 23
+  Legal: 0 attacks, 0 attaches, 1 evolves
+  Chose: Action('EVOLVE_BENCH', a=Dudunsparce, b=4)
+
+Game 3 vs Random | Turn 37
+  Active: Dudunsparce, Energy: 2, Hand: 22
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PASS')
+
+Game 3 vs Random | Turn 39
+  Active: Dudunsparce, Energy: 2, Hand: 23
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PLAY_TRAINER', a=Dawn, b=6)
+
+Game 3 vs Random | Turn 39
+  Active: Dudunsparce, Energy: 2, Hand: 23
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PASS')
+
+Game 3 vs Random | Turn 41
+  Active: Dudunsparce, Energy: 2, Hand: 24
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PASS')
+
+Game 3 vs Random | Turn 43
+  Active: Dudunsparce, Energy: 2, Hand: 25
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('USE_ACTIVE_ABILITY')
+
+Game 3 vs Random | Turn 43
+  Active: Dudunsparce, Energy: 2, Hand: 25
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PASS')
+
+Game 3 vs Random | Turn 45
+  Active: Dudunsparce, Energy: 2, Hand: 26
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PASS')
+
+Game 3 vs Random | Turn 47
+  Active: Dudunsparce, Energy: 2, Hand: 27
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('USE_ACTIVE_ABILITY')
+
+Game 3 vs Random | Turn 47
+  Active: Dudunsparce, Energy: 2, Hand: 27
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PASS')
+
+Game 3 vs Random | Turn 49
+  Active: Dudunsparce, Energy: 2, Hand: 28
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PASS')
+
+Game 1 vs Aggressive | Turn 2
+  Active: Fan Rotom, Energy: 0, Hand: 7
+  Legal: 0 attacks, 1 attaches, 0 evolves
+  Chose: Action('ATTACH_ACTIVE', a=Jet Energy)
+
+Game 1 vs Aggressive | Turn 2
+  Active: Fan Rotom, Energy: 1, Hand: 6
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PLAY_TRAINER', a=Battle Cage, b=6)
+
+Game 1 vs Aggressive | Turn 2
+  Active: Fan Rotom, Energy: 1, Hand: 5
+  Legal: 7 attacks, 0 attaches, 0 evolves
+  Chose: Action('PASS')
+
+Game 1 vs Aggressive | Turn 4
+  Active: Fan Rotom, Energy: 1, Hand: 6
+  Legal: 7 attacks, 0 attaches, 0 evolves
+  Chose: Action('PASS')
+
+Game 1 vs Aggressive | Turn 6
+  Active: Fan Rotom, Energy: 1, Hand: 7
+  Legal: 7 attacks, 0 attaches, 0 evolves
+  Chose: Action('ATTACK', b=0)
+
+Game 1 vs Aggressive | Turn 8
+  Active: Fan Rotom, Energy: 1, Hand: 8
+  Legal: 7 attacks, 0 attaches, 0 evolves
+  Chose: Action('ATTACK', b=0, c=0)
+
+Game 1 vs Aggressive | Turn 10
+  Active: Fan Rotom, Energy: 1, Hand: 10
+  Legal: 7 attacks, 0 attaches, 0 evolves
+  Chose: Action('ATTACK', b=0)
+
+Game 1 vs Aggressive | Turn 12
+  Active: Fan Rotom, Energy: 1, Hand: 12
+  Legal: 7 attacks, 1 attaches, 0 evolves
+  Chose: Action('ATTACK', b=0, c=0)
+
+Game 2 vs Aggressive | Turn 2
+  Active: Abra, Energy: 0, Hand: 8
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PLAY_TRAINER', a=Battle Cage, b=6)
+
+Game 2 vs Aggressive | Turn 2
+  Active: Abra, Energy: 0, Hand: 7
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PASS')
+
+Game 2 vs Aggressive | Turn 4
+  Active: Abra, Energy: 0, Hand: 8
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PASS')
+
+Game 2 vs Aggressive | Turn 6
+  Active: Abra, Energy: 0, Hand: 9
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PLAY_TRAINER', a=Hilda, b=6)
+
+Game 2 vs Aggressive | Turn 6
+  Active: Abra, Energy: 0, Hand: 10
+  Legal: 0 attacks, 1 attaches, 1 evolves
+  Chose: Action('PASS')
+
+Game 3 vs Aggressive | Turn 1
+  Active: Abra, Energy: 0, Hand: 6
+  Legal: 0 attacks, 1 attaches, 0 evolves
+  Chose: Action('ATTACH_ACTIVE', a=Jet Energy)
+
+Game 3 vs Aggressive | Turn 1
+  Active: Abra, Energy: 1, Hand: 5
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PASS')
+
+Game 3 vs Aggressive | Turn 3
+  Active: Abra, Energy: 1, Hand: 6
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PASS')
+
+Game 3 vs Aggressive | Turn 5
+  Active: Abra, Energy: 1, Hand: 7
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PLAY_BASIC_TO_BENCH', a=Fan Rotom, b=1)
+
+Game 3 vs Aggressive | Turn 5
+  Active: Abra, Energy: 1, Hand: 6
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PASS')
+
+Game 3 vs Aggressive | Turn 7
+  Active: Fan Rotom, Energy: 0, Hand: 7
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PLAY_TRAINER', a=Battle Cage, b=6)
+
+Game 3 vs Aggressive | Turn 7
+  Active: Fan Rotom, Energy: 0, Hand: 6
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PLAY_TRAINER', a=Dawn, b=6)
+
+Game 3 vs Aggressive | Turn 7
+  Active: Fan Rotom, Energy: 0, Hand: 8
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PLAY_BASIC_TO_BENCH', a=Fezandipiti ex, b=0)
+
+Game 3 vs Aggressive | Turn 7
+  Active: Fan Rotom, Energy: 0, Hand: 7
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PASS')
+
+Game 3 vs Aggressive | Turn 9
+  Active: Fezandipiti ex, Energy: 0, Hand: 8
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('USE_ACTIVE_ABILITY')
+
+Game 3 vs Aggressive | Turn 9
+  Active: Fezandipiti ex, Energy: 0, Hand: 11
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PLAY_TRAINER', a=Dawn, b=6)
+
+Game 3 vs Aggressive | Turn 9
+  Active: Fezandipiti ex, Energy: 0, Hand: 13
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PLAY_BASIC_TO_BENCH', a=Dunsparce, b=3)
+
+Game 3 vs Aggressive | Turn 9
+  Active: Fezandipiti ex, Energy: 0, Hand: 12
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PASS')
+
+Game 3 vs Aggressive | Turn 11
+  Active: Fezandipiti ex, Energy: 0, Hand: 13
+  Legal: 0 attacks, 0 attaches, 1 evolves
+  Chose: Action('PLAY_TRAINER', a=Dawn, b=6)
+
+Game 3 vs Aggressive | Turn 11
+  Active: Fezandipiti ex, Energy: 0, Hand: 15
+  Legal: 0 attacks, 0 attaches, 1 evolves
+  Chose: Action('PLAY_BASIC_TO_BENCH', a=Fan Rotom, b=1)
+
+Game 3 vs Aggressive | Turn 11
+  Active: Fezandipiti ex, Energy: 0, Hand: 14
+  Legal: 0 attacks, 0 attaches, 1 evolves
+  Chose: Action('EVOLVE_BENCH', a=Dudunsparce, b=3)
+
+Game 3 vs Aggressive | Turn 11
+  Active: Fezandipiti ex, Energy: 0, Hand: 13
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PASS')
+
+Game 3 vs Aggressive | Turn 13
+  Active: Fezandipiti ex, Energy: 0, Hand: 14
+  Legal: 0 attacks, 3 attaches, 0 evolves
+  Chose: Action('ATTACH_BENCH', a=Basic Psychic Energy, b=3)
+
+Game 3 vs Aggressive | Turn 13
+  Active: Fezandipiti ex, Energy: 0, Hand: 13
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PASS')
+
+Game 3 vs Aggressive | Turn 15
+  Active: Fan Rotom, Energy: 0, Hand: 14
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PASS')
+
+Game 3 vs Aggressive | Turn 17
+  Active: Dudunsparce, Energy: 1, Hand: 15
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PLAY_BASIC_TO_BENCH', a=Dunsparce, b=4)
+
+Game 3 vs Aggressive | Turn 17
+  Active: Dudunsparce, Energy: 1, Hand: 14
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PASS')
+
+Game 3 vs Aggressive | Turn 19
+  Active: Dudunsparce, Energy: 1, Hand: 15
+  Legal: 0 attacks, 2 attaches, 0 evolves
+  Chose: Action('ATTACH_ACTIVE', a=Enriching Energy)
+
+Game 3 vs Aggressive | Turn 19
+  Active: Dudunsparce, Energy: 2, Hand: 18
+  Legal: 0 attacks, 0 attaches, 1 evolves
+  Chose: Action('USE_ACTIVE_ABILITY')
+
+Game 3 vs Aggressive | Turn 19
+  Active: Dudunsparce, Energy: 2, Hand: 18
+  Legal: 0 attacks, 0 attaches, 1 evolves
+  Chose: Action('PLAY_BASIC_TO_BENCH', a=Abra, b=0)
+
+Game 3 vs Aggressive | Turn 19
+  Active: Dudunsparce, Energy: 2, Hand: 17
+  Legal: 0 attacks, 0 attaches, 1 evolves
+  Chose: Action('EVOLVE_BENCH', a=Dudunsparce, b=4)
+
+Game 3 vs Aggressive | Turn 19
+  Active: Dudunsparce, Energy: 2, Hand: 16
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PLAY_TRAINER', a=Hilda, b=6)
+
+Game 3 vs Aggressive | Turn 19
+  Active: Dudunsparce, Energy: 2, Hand: 17
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PASS')
+
+Game 1 vs Defensive | Turn 2
+  Active: Abra, Energy: 0, Hand: 7
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PASS')
+
+Game 1 vs Defensive | Turn 4
+  Active: Abra, Energy: 0, Hand: 8
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PLAY_TRAINER', a=Boss's Orders, b=0)
+
+Game 1 vs Defensive | Turn 4
+  Active: Abra, Energy: 0, Hand: 7
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PASS')
+
+Game 1 vs Defensive | Turn 6
+  Active: Abra, Energy: 0, Hand: 8
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PLAY_TRAINER', a=Rare Candy, b=5)
+
+Game 1 vs Defensive | Turn 6
+  Active: Alakazam, Energy: 0, Hand: 9
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PLAY_BASIC_TO_BENCH', a=Dunsparce, b=0)
+
+Game 1 vs Defensive | Turn 6
+  Active: Alakazam, Energy: 0, Hand: 8
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PLAY_BASIC_TO_BENCH', a=Fezandipiti ex, b=2)
+
+Game 1 vs Defensive | Turn 6
+  Active: Alakazam, Energy: 0, Hand: 7
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PASS')
+
+Game 1 vs Defensive | Turn 8
+  Active: Dunsparce, Energy: 0, Hand: 8
+  Legal: 0 attacks, 0 attaches, 1 evolves
+  Chose: Action('EVOLVE_ACTIVE', a=Dudunsparce)
+
+Game 1 vs Defensive | Turn 8
+  Active: Dudunsparce, Energy: 0, Hand: 7
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('USE_ACTIVE_ABILITY')
+
+Game 1 vs Defensive | Turn 8
+  Active: Dudunsparce, Energy: 0, Hand: 7
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PASS')
+
+Game 1 vs Defensive | Turn 10
+  Active: Fezandipiti ex, Energy: 0, Hand: 8
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PASS')
+
+Game 2 vs Defensive | Turn 1
+  Active: Fan Rotom, Energy: 0, Hand: 6
+  Legal: 0 attacks, 2 attaches, 0 evolves
+  Chose: Action('ATTACH_ACTIVE', a=Enriching Energy)
+
+Game 2 vs Defensive | Turn 1
+  Active: Fan Rotom, Energy: 1, Hand: 9
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PLAY_BASIC_TO_BENCH', a=Abra, b=0)
+
+Game 2 vs Defensive | Turn 1
+  Active: Fan Rotom, Energy: 1, Hand: 8
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PLAY_TRAINER', a=Battle Cage, b=6)
+
+Game 2 vs Defensive | Turn 1
+  Active: Fan Rotom, Energy: 1, Hand: 7
+  Legal: 7 attacks, 0 attaches, 0 evolves
+  Chose: Action('ATTACK', b=0)
+
+Game 3 vs Defensive | Turn 2
+  Active: Abra, Energy: 0, Hand: 7
+  Legal: 0 attacks, 1 attaches, 0 evolves
+  Chose: Action('PLAY_BASIC_TO_BENCH', a=Dunsparce, b=4)
+
+Game 3 vs Defensive | Turn 2
+  Active: Abra, Energy: 0, Hand: 6
+  Legal: 0 attacks, 2 attaches, 0 evolves
+  Chose: Action('PLAY_BASIC_TO_BENCH', a=Fan Rotom, b=3)
+
+Game 3 vs Defensive | Turn 2
+  Active: Abra, Energy: 0, Hand: 5
+  Legal: 0 attacks, 3 attaches, 0 evolves
+  Chose: Action('ATTACH_BENCH', a=Jet Energy, b=4)
+
+Game 3 vs Defensive | Turn 2
+  Active: Dunsparce, Energy: 1, Hand: 4
+  Legal: 7 attacks, 0 attaches, 0 evolves
+  Chose: Action('ATTACK', b=0, c=3)
+
+Game 3 vs Defensive | Turn 4
+  Active: Dunsparce, Energy: 1, Hand: 5
+  Legal: 7 attacks, 0 attaches, 0 evolves
+  Chose: Action('ATTACK', b=0, c=4)
+
+Game 3 vs Defensive | Turn 6
+  Active: Dunsparce, Energy: 1, Hand: 6
+  Legal: 7 attacks, 0 attaches, 0 evolves
+  Chose: Action('ATTACK', b=0, c=1)
+
+Game 3 vs Defensive | Turn 8
+  Active: Dunsparce, Energy: 1, Hand: 7
+  Legal: 7 attacks, 0 attaches, 0 evolves
+  Chose: Action('ATTACK', b=0)
+
+Game 3 vs Defensive | Turn 10
+  Active: Dunsparce, Energy: 1, Hand: 8
+  Legal: 7 attacks, 0 attaches, 0 evolves
+  Chose: Action('ATTACK', b=0, c=5)
+
+Game 3 vs Defensive | Turn 12
+  Active: Dunsparce, Energy: 1, Hand: 9
+  Legal: 7 attacks, 0 attaches, 0 evolves
+  Chose: Action('PASS')
+
+Game 3 vs Defensive | Turn 14
+  Active: Dunsparce, Energy: 1, Hand: 10
+  Legal: 7 attacks, 0 attaches, 0 evolves
+  Chose: Action('ATTACK', b=0, c=2)
+
+Game 3 vs Defensive | Turn 16
+  Active: Dunsparce, Energy: 1, Hand: 11
+  Legal: 7 attacks, 0 attaches, 1 evolves
+  Chose: Action('ATTACK', b=0)
+
+Game 3 vs Defensive | Turn 18
+  Active: Dunsparce, Energy: 1, Hand: 12
+  Legal: 7 attacks, 3 attaches, 1 evolves
+  Chose: Action('ATTACK', b=0, c=3)
+
+Game 3 vs Defensive | Turn 20
+  Active: Abra, Energy: 0, Hand: 13
+  Legal: 0 attacks, 3 attaches, 1 evolves
+  Chose: Action('EVOLVE_ACTIVE', a=Kadabra)
+
+Game 3 vs Defensive | Turn 20
+  Active: Kadabra, Energy: 0, Hand: 14
+  Legal: 0 attacks, 3 attaches, 0 evolves
+  Chose: Action('PLAY_TRAINER', a=Hilda, b=6)
+
+Game 3 vs Defensive | Turn 20
+  Active: Kadabra, Energy: 0, Hand: 15
+  Legal: 0 attacks, 3 attaches, 0 evolves
+  Chose: Action('ATTACH_BENCH', a=Basic Psychic Energy, b=4)
+
+Game 3 vs Defensive | Turn 20
+  Active: Kadabra, Energy: 0, Hand: 14
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PLAY_BASIC_TO_BENCH', a=Fezandipiti ex, b=1)
+
+Game 3 vs Defensive | Turn 20
+  Active: Kadabra, Energy: 0, Hand: 13
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PLAY_BASIC_TO_BENCH', a=Abra, b=0)
+
+Game 3 vs Defensive | Turn 20
+  Active: Kadabra, Energy: 0, Hand: 12
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PLAY_TRAINER', a=Battle Cage, b=6)
+
+Game 3 vs Defensive | Turn 20
+  Active: Kadabra, Energy: 0, Hand: 11
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PASS')
+
+Game 3 vs Defensive | Turn 22
+  Active: Kadabra, Energy: 0, Hand: 12
+  Legal: 0 attacks, 5 attaches, 1 evolves
+  Chose: Action('ATTACH_BENCH', a=Basic Psychic Energy, b=0)
+
+Game 3 vs Defensive | Turn 22
+  Active: Kadabra, Energy: 0, Hand: 11
+  Legal: 0 attacks, 0 attaches, 1 evolves
+  Chose: Action('PLAY_TRAINER', a=Dawn, b=6)
+
+Game 3 vs Defensive | Turn 22
+  Active: Kadabra, Energy: 0, Hand: 13
+  Legal: 0 attacks, 0 attaches, 2 evolves
+  Chose: Action('EVOLVE_BENCH', a=Kadabra, b=0)
+
+Game 3 vs Defensive | Turn 22
+  Active: Kadabra, Energy: 0, Hand: 14
+  Legal: 0 attacks, 0 attaches, 1 evolves
+  Chose: Action('EVOLVE_ACTIVE', a=Alakazam)
+
+Game 3 vs Defensive | Turn 22
+  Active: Alakazam, Energy: 0, Hand: 16
+  Legal: 0 attacks, 0 attaches, 1 evolves
+  Chose: Action('EVOLVE_BENCH', a=Dudunsparce, b=4)
+
+Game 3 vs Defensive | Turn 22
+  Active: Alakazam, Energy: 0, Hand: 15
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PLAY_BASIC_TO_BENCH', a=Abra, b=2)
+
+Game 3 vs Defensive | Turn 22
+  Active: Alakazam, Energy: 0, Hand: 14
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PLAY_TRAINER', a=Battle Cage, b=6)
+
+Game 3 vs Defensive | Turn 22
+  Active: Alakazam, Energy: 0, Hand: 13
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PASS')
+
+Game 3 vs Defensive | Turn 24
+  Active: Alakazam, Energy: 0, Hand: 14
+  Legal: 0 attacks, 0 attaches, 1 evolves
+  Chose: Action('PLAY_TRAINER', a=Boss's Orders, b=2)
+
+Game 3 vs Defensive | Turn 24
+  Active: Alakazam, Energy: 0, Hand: 13
+  Legal: 0 attacks, 0 attaches, 1 evolves
+  Chose: Action('PASS')
+
+Game 3 vs Defensive | Turn 26
+  Active: Alakazam, Energy: 0, Hand: 14
+  Legal: 0 attacks, 0 attaches, 1 evolves
+  Chose: Action('PLAY_TRAINER', a=Dawn, b=6)
+
+Game 3 vs Defensive | Turn 26
+  Active: Alakazam, Energy: 0, Hand: 16
+  Legal: 0 attacks, 0 attaches, 2 evolves
+  Chose: Action('EVOLVE_BENCH', a=Kadabra, b=2)
+
+Game 3 vs Defensive | Turn 26
+  Active: Alakazam, Energy: 0, Hand: 17
+  Legal: 0 attacks, 0 attaches, 1 evolves
+  Chose: Action('PASS')
+
+Game 3 vs Defensive | Turn 28
+  Active: Alakazam, Energy: 0, Hand: 18
+  Legal: 0 attacks, 0 attaches, 2 evolves
+  Chose: Action('PLAY_TRAINER', a=Lillie's Determination, b=6)
+
+Game 3 vs Defensive | Turn 28
+  Active: Alakazam, Energy: 0, Hand: 8
+  Legal: 0 attacks, 6 attaches, 0 evolves
+  Chose: Action('ATTACH_BENCH', a=Enriching Energy, b=1)
+
+Game 3 vs Defensive | Turn 28
+  Active: Alakazam, Energy: 0, Hand: 11
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PASS')
+
+Game 3 vs Defensive | Turn 30
+  Active: Alakazam, Energy: 0, Hand: 12
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PLAY_TRAINER', a=Hilda, b=6)
+
+Game 3 vs Defensive | Turn 30
+  Active: Alakazam, Energy: 0, Hand: 13
+  Legal: 0 attacks, 6 attaches, 2 evolves
+  Chose: Action('ATTACH_BENCH', a=Basic Psychic Energy, b=2)
+
+Game 3 vs Defensive | Turn 30
+  Active: Alakazam, Energy: 0, Hand: 12
+  Legal: 0 attacks, 0 attaches, 2 evolves
+  Chose: Action('EVOLVE_BENCH', a=Alakazam, b=0)
+
+Game 3 vs Defensive | Turn 30
+  Active: Alakazam, Energy: 0, Hand: 14
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PASS')
+
+Game 3 vs Defensive | Turn 32
+  Active: Alakazam, Energy: 1, Hand: 15
+  Legal: 7 attacks, 0 attaches, 0 evolves
+  Chose: Action('ATTACK', b=0, c=1)
+
+Game 3 vs Defensive | Turn 34
+  Active: Alakazam, Energy: 1, Hand: 17
+  Legal: 7 attacks, 0 attaches, 0 evolves
+  Chose: Action('PASS')
+
+Game 3 vs Defensive | Turn 36
+  Active: Alakazam, Energy: 1, Hand: 18
+  Legal: 7 attacks, 0 attaches, 0 evolves
+  Chose: Action('PASS')
+
+Game 3 vs Defensive | Turn 38
+  Active: Alakazam, Energy: 1, Hand: 19
+  Legal: 7 attacks, 0 attaches, 0 evolves
+  Chose: Action('PASS')
+
+Game 3 vs Defensive | Turn 40
+  Active: Alakazam, Energy: 1, Hand: 20
+  Legal: 7 attacks, 0 attaches, 0 evolves
+  Chose: Action('PASS')
+
+Game 3 vs Defensive | Turn 42
+  Active: Alakazam, Energy: 1, Hand: 21
+  Legal: 7 attacks, 0 attaches, 0 evolves
+  Chose: Action('PASS')
+
+Game 3 vs Defensive | Turn 44
+  Active: Alakazam, Energy: 1, Hand: 22
+  Legal: 7 attacks, 0 attaches, 0 evolves
+  Chose: Action('ATTACK', b=0)
+
+Game 3 vs Defensive | Turn 46
+  Active: Fan Rotom, Energy: 0, Hand: 24
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PLAY_TRAINER', a=Hilda, b=6)
+
+Game 3 vs Defensive | Turn 46
+  Active: Fan Rotom, Energy: 0, Hand: 24
+  Legal: 0 attacks, 0 attaches, 1 evolves
+  Chose: Action('EVOLVE_BENCH', a=Alakazam, b=2)
+
+Game 3 vs Defensive | Turn 46
+  Active: Fan Rotom, Energy: 0, Hand: 26
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PASS')
+
+Game 3 vs Defensive | Turn 48
+  Active: Fan Rotom, Energy: 0, Hand: 27
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PLAY_TRAINER', a=Dawn, b=6)
+
+Game 3 vs Defensive | Turn 48
+  Active: Fan Rotom, Energy: 0, Hand: 26
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PASS')
+
+Game 3 vs Defensive | Turn 50
+  Active: Fan Rotom, Energy: 0, Hand: 27
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PASS')
+
+
+=== SUMMARY ===
+Random: 70%, Aggressive: 45%

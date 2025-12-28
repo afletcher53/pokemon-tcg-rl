@@ -1,0 +1,259 @@
+{
+  "general": {
+    "summary": {
+      "total_games": 50,
+      "p0_wins": 13,
+      "p1_wins": 18,
+      "draws": 19,
+      "p0_win_rate": 0.26,
+      "p1_win_rate": 0.36,
+      "avg_game_steps": 64.9,
+      "avg_game_turns": 36.8,
+      "avg_first_attack_p0": 15.210526315789474,
+      "avg_first_attack_p1": 13.605263157894736
+    },
+    "action_frequencies": {
+      "p0": {
+        "PASS": 519,
+        "PLAY_BASIC_TO_BENCH": 72,
+        "PLAY_TRAINER": 58,
+        "ATTACH_ACTIVE": 75,
+        "ATTACK": 388,
+        "EVOLVE_BENCH": 2,
+        "EVOLVE_ACTIVE": 2,
+        "USE_ACTIVE_ABILITY": 3,
+        "RETREAT_TO": 6
+      },
+      "p1": {
+        "PLAY_BASIC_TO_BENCH": 166,
+        "PLAY_TRAINER": 501,
+        "PASS": 649,
+        "ATTACH_ACTIVE": 226,
+        "RETREAT_TO": 88,
+        "ATTACK": 263,
+        "EVOLVE_BENCH": 58,
+        "ATTACH_BENCH": 53,
+        "USE_ACTIVE_ABILITY": 105,
+        "EVOLVE_ACTIVE": 9,
+        "ATTACH_TOOL_BENCH": 2
+      }
+    },
+    "card_play_rates": {
+      "p0": {
+        "Dunsparce": 41,
+        "Rare Candy": 16,
+        "Abra": 23,
+        "Basic Psychic Energy": 70,
+        "Fan Rotom": 3,
+        "Enriching Energy": 4,
+        "Buddy-Buddy Poffin": 8,
+        "Hilda": 3,
+        "Night Stretcher": 11,
+        "Kadabra": 1,
+        "Psyduck": 5,
+        "Dudunsparce": 2,
+        "Alakazam": 1,
+        "Lillie's Determination": 12,
+        "Tulip": 2,
+        "Boss's Orders": 6,
+        "Jet Energy": 1
+      },
+      "p1": {
+        "Charmander": 51,
+        "Professor Turo's Scenario": 30,
+        "Artazon": 23,
+        "Arven": 100,
+        "Technical Machine: Evolution": 74,
+        "Iono": 47,
+        "Fire Energy": 165,
+        "Tatsugiri": 21,
+        "Charmeleon": 38,
+        "Mist Energy": 57,
+        "Energy Search": 32,
+        "Counter Catcher": 7,
+        "Darkness Energy": 30,
+        "Munkidori": 20,
+        "Chi-Yu": 20,
+        "Jet Energy": 27,
+        "Rare Candy": 28,
+        "Ultra Ball": 52,
+        "Super Rod": 20,
+        "Gouging Fire ex": 16,
+        "Charizard ex": 16,
+        "Pidgey": 19,
+        "Lillie's Determination": 38,
+        "Buddy-Buddy Poffin": 38,
+        "Boss's Orders": 11,
+        "Shaymin": 10,
+        "Pidgeotto": 7,
+        "Pidgeot ex": 6,
+        "Psyduck": 7,
+        "Unfair Stamp": 1,
+        "Fezandipiti ex": 2
+      }
+    },
+    "attack_usage": {
+      "p0": {
+        "Alakazam": 55,
+        "Dunsparce": 221,
+        "Abra": 50,
+        "Psyduck": 32,
+        "Fan Rotom": 30
+      },
+      "p1": {
+        "Pidgey": 128,
+        "Charizard ex": 19,
+        "Shaymin": 26,
+        "Gouging Fire ex": 2,
+        "Pidgeot ex": 7,
+        "Psyduck": 9,
+        "Chi-Yu": 9,
+        "Charmander": 63
+      }
+    }
+  },
+  "alakazam_strategy": {
+    "attack_statistics": {
+      "total_alakazam_attacks": 55,
+      "avg_hand_size_at_attack": 13.781818181818181,
+      "avg_damage_per_attack": 275.6363636363636,
+      "hand_size_distribution": {
+        "25": 2,
+        "9": 1,
+        "11": 4,
+        "12": 2,
+        "15": 2,
+        "17": 3,
+        "19": 6,
+        "21": 4,
+        "24": 1,
+        "8": 6,
+        "10": 4,
+        "14": 3,
+        "3": 2,
+        "4": 2,
+        "6": 3,
+        "13": 1,
+        "23": 1,
+        "26": 1,
+        "7": 3,
+        "5": 1,
+        "22": 1,
+        "27": 1,
+        "29": 1
+      },
+      "damage_distribution": {
+        "500": 2,
+        "180": 1,
+        "220": 4,
+        "240": 2,
+        "300": 2,
+        "340": 3,
+        "380": 6,
+        "420": 4,
+        "480": 1,
+        "160": 6,
+        "200": 4,
+        "280": 3,
+        "60": 2,
+        "80": 2,
+        "120": 3,
+        "260": 1,
+        "460": 1,
+        "520": 1,
+        "140": 3,
+        "100": 1,
+        "440": 1,
+        "540": 1,
+        "580": 1
+      },
+      "attacks_by_turn": {
+        "47": 2,
+        "19": 3,
+        "21": 2,
+        "23": 2,
+        "25": 2,
+        "27": 3,
+        "29": 2,
+        "32": 3,
+        "34": 3,
+        "36": 1,
+        "38": 1,
+        "22": 2,
+        "24": 2,
+        "26": 2,
+        "28": 2,
+        "30": 2,
+        "10": 1,
+        "12": 1,
+        "14": 1,
+        "16": 1,
+        "18": 1,
+        "13": 2,
+        "15": 1,
+        "17": 1,
+        "50": 1,
+        "49": 2,
+        "31": 1,
+        "33": 2,
+        "35": 2,
+        "37": 1,
+        "4": 1,
+        "43": 1,
+        "45": 1
+      },
+      "one_hit_ko_rate": 0.8181818181818182
+    },
+    "evolution_patterns": {
+      "total_evolutions": 4,
+      "kadabra_evolutions": 1,
+      "alakazam_evolutions": 1,
+      "avg_turn_kadabra_evolved": 13.0,
+      "avg_turn_alakazam_evolved": 15.0,
+      "hand_size_at_kadabra_evo": [
+        9
+      ],
+      "hand_size_at_alakazam_evo": [
+        12
+      ]
+    },
+    "hand_management": {
+      "avg_hand_size": 11.965333333333334,
+      "max_hand_size_reached": 30,
+      "hand_size_progression": {}
+    },
+    "draw_supporter_usage": {
+      "hilda": 3,
+      "dawn": 0,
+      "lillies_determination": 12,
+      "tulip": 2,
+      "total_draw_supporters": 17
+    },
+    "tech_card_usage": {
+      "enhanced_hammer": 0,
+      "boss_orders": 6,
+      "battle_cage": 0,
+      "rare_candy": 16
+    },
+    "win_correlation": {
+      "wins_with_alakazam_attack": 11,
+      "losses_with_alakazam_attack": 0,
+      "avg_hand_size_in_wins": 11.003846153846155,
+      "avg_hand_size_in_losses": 11.696666666666667
+    }
+  },
+  "strategy_score": {
+    "hand_size_score": 80,
+    "attack_efficiency_score": 87.85454545454546,
+    "evolution_timing_score": 32.5,
+    "draw_support_score": 3.4000000000000004,
+    "tech_usage_score": 2.4,
+    "overall_score": 53.21363636363637,
+    "strategy_assessment": "DEVELOPING - Agent shows some understanding but needs more training",
+    "recommendations": [
+      "Optimize evolution timing - don't rush Alakazam evolution",
+      "Use more draw supporters (Hilda, Dawn, Lillie's Determination)",
+      "Utilize tech cards like Enhanced Hammer more effectively"
+    ]
+  }
+}

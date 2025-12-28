@@ -1,0 +1,734 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pokemon TCG Strategy Visualizer</title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --bg-dark: #0f0f1a;
+            --bg-card: #1a1a2e;
+            --bg-card-hover: #252540;
+            --accent-blue: #4facfe;
+            --accent-purple: #a855f7;
+            --accent-pink: #f472b6;
+            --accent-green: #10b981;
+            --accent-orange: #f97316;
+            --accent-red: #ef4444;
+            --text-primary: #ffffff;
+            --text-secondary: #94a3b8;
+            --border-color: rgba(255, 255, 255, 0.1);
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Inter', sans-serif;
+            background: var(--bg-dark);
+            color: var(--text-primary);
+            min-height: 100vh;
+            overflow-x: hidden;
+        }
+
+        .bg-gradient {
+            position: fixed;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background: 
+                radial-gradient(ellipse at 20% 20%, rgba(79, 172, 254, 0.15) 0%, transparent 50%),
+                radial-gradient(ellipse at 80% 80%, rgba(168, 85, 247, 0.15) 0%, transparent 50%),
+                radial-gradient(ellipse at 50% 50%, rgba(244, 114, 182, 0.08) 0%, transparent 50%);
+            pointer-events: none;
+            z-index: 0;
+        }
+
+        .container {
+            position: relative;
+            z-index: 1;
+            max-width: 1600px;
+            margin: 0 auto;
+            padding: 2rem;
+        }
+
+        header {
+            text-align: center;
+            margin-bottom: 3rem;
+            animation: fadeInDown 0.8s ease-out;
+        }
+
+        @keyframes fadeInDown {
+            from { opacity: 0; transform: translateY(-20px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+
+        h1 {
+            font-size: 3rem;
+            font-weight: 700;
+            background: linear-gradient(135deg, var(--accent-blue), var(--accent-purple), var(--accent-pink));
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+            margin-bottom: 0.5rem;
+        }
+
+        .subtitle {
+            color: var(--text-secondary);
+            font-size: 1.1rem;
+        }
+
+        .stats-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 1.5rem;
+            margin-bottom: 2rem;
+        }
+
+        .stat-card {
+            background: var(--bg-card);
+            border: 1px solid var(--border-color);
+            border-radius: 16px;
+            padding: 1.5rem;
+            text-align: center;
+            transition: all 0.3s ease;
+            animation: fadeInUp 0.6s ease-out backwards;
+        }
+
+        .stat-card:hover {
+            transform: translateY(-5px);
+            background: var(--bg-card-hover);
+            border-color: var(--accent-purple);
+            box-shadow: 0 10px 40px rgba(168, 85, 247, 0.2);
+        }
+
+        @keyframes fadeInUp {
+            from { opacity: 0; transform: translateY(20px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+
+        .stat-card:nth-child(1) { animation-delay: 0.1s; }
+        .stat-card:nth-child(2) { animation-delay: 0.2s; }
+        .stat-card:nth-child(3) { animation-delay: 0.3s; }
+        .stat-card:nth-child(4) { animation-delay: 0.4s; }
+        .stat-card:nth-child(5) { animation-delay: 0.5s; }
+        .stat-card:nth-child(6) { animation-delay: 0.6s; }
+
+        .stat-value {
+            font-size: 2.5rem;
+            font-weight: 700;
+            margin-bottom: 0.5rem;
+        }
+
+        .stat-value.blue { color: var(--accent-blue); }
+        .stat-value.purple { color: var(--accent-purple); }
+        .stat-value.pink { color: var(--accent-pink); }
+        .stat-value.green { color: var(--accent-green); }
+        .stat-value.orange { color: var(--accent-orange); }
+
+        .stat-label {
+            color: var(--text-secondary);
+            font-size: 0.9rem;
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+        }
+
+        .charts-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(500px, 1fr));
+            gap: 2rem;
+            margin-bottom: 2rem;
+        }
+
+        .chart-card {
+            background: var(--bg-card);
+            border: 1px solid var(--border-color);
+            border-radius: 16px;
+            padding: 1.5rem;
+            animation: fadeInUp 0.8s ease-out backwards;
+        }
+
+        .chart-card h3 {
+            font-size: 1.2rem;
+            margin-bottom: 1rem;
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+        }
+
+        .chart-card h3 .emoji {
+            font-size: 1.5rem;
+        }
+
+        .chart-container {
+            position: relative;
+            height: 300px;
+        }
+
+        .player-comparison {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 2rem;
+        }
+
+        .player-section {
+            background: var(--bg-card);
+            border: 1px solid var(--border-color);
+            border-radius: 16px;
+            padding: 1.5rem;
+            animation: fadeInUp 0.8s ease-out backwards;
+        }
+
+        .player-section.p0 {
+            border-color: rgba(79, 172, 254, 0.3);
+        }
+
+        .player-section.p1 {
+            border-color: rgba(249, 115, 22, 0.3);
+        }
+
+        .player-header {
+            display: flex;
+            align-items: center;
+            gap: 1rem;
+            margin-bottom: 1.5rem;
+        }
+
+        .player-icon {
+            width: 50px;
+            height: 50px;
+            border-radius: 12px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 1.5rem;
+        }
+
+        .player-icon.p0 {
+            background: linear-gradient(135deg, var(--accent-blue), var(--accent-purple));
+        }
+
+        .player-icon.p1 {
+            background: linear-gradient(135deg, var(--accent-orange), var(--accent-red));
+        }
+
+        .player-name {
+            font-size: 1.3rem;
+            font-weight: 600;
+        }
+
+        .player-winrate {
+            color: var(--text-secondary);
+            font-size: 0.9rem;
+        }
+
+        .strategy-list {
+            list-style: none;
+        }
+
+        .strategy-list li {
+            padding: 0.75rem;
+            border-radius: 8px;
+            margin-bottom: 0.5rem;
+            background: rgba(255, 255, 255, 0.03);
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            transition: all 0.2s ease;
+        }
+
+        .strategy-list li:hover {
+            background: rgba(255, 255, 255, 0.08);
+        }
+
+        .strategy-name {
+            font-weight: 500;
+        }
+
+        .strategy-count {
+            color: var(--text-secondary);
+            font-size: 0.85rem;
+            background: rgba(255, 255, 255, 0.1);
+            padding: 0.25rem 0.75rem;
+            border-radius: 20px;
+        }
+
+        .opening-flow {
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+            flex-wrap: wrap;
+            padding: 1rem;
+            background: rgba(255, 255, 255, 0.03);
+            border-radius: 12px;
+            margin-bottom: 1rem;
+        }
+
+        .flow-step {
+            background: linear-gradient(135deg, var(--accent-purple), var(--accent-pink));
+            padding: 0.5rem 1rem;
+            border-radius: 8px;
+            font-size: 0.85rem;
+            font-weight: 500;
+            white-space: nowrap;
+        }
+
+        .flow-arrow {
+            color: var(--text-secondary);
+        }
+
+        .flow-count {
+            margin-left: auto;
+            color: var(--text-secondary);
+            font-size: 0.85rem;
+        }
+
+        .replay-viewer {
+            background: var(--bg-card);
+            border: 1px solid var(--border-color);
+            border-radius: 16px;
+            padding: 1.5rem;
+            margin-top: 2rem;
+        }
+
+        .replay-viewer h3 {
+            margin-bottom: 1rem;
+        }
+
+        .replay-selector {
+            display: flex;
+            gap: 1rem;
+            margin-bottom: 1.5rem;
+            flex-wrap: wrap;
+        }
+
+        .replay-btn {
+            padding: 0.5rem 1rem;
+            border: 1px solid var(--border-color);
+            border-radius: 8px;
+            background: transparent;
+            color: var(--text-primary);
+            cursor: pointer;
+            transition: all 0.2s ease;
+            font-family: inherit;
+        }
+
+        .replay-btn:hover, .replay-btn.active {
+            background: var(--accent-purple);
+            border-color: var(--accent-purple);
+        }
+
+        .replay-btn.win {
+            border-color: var(--accent-green);
+        }
+
+        .replay-btn.loss {
+            border-color: var(--accent-red);
+        }
+
+        .replay-timeline {
+            display: flex;
+            flex-direction: column;
+            gap: 0.5rem;
+            max-height: 400px;
+            overflow-y: auto;
+            padding-right: 0.5rem;
+        }
+
+        .replay-timeline::-webkit-scrollbar {
+            width: 6px;
+        }
+
+        .replay-timeline::-webkit-scrollbar-track {
+            background: var(--bg-dark);
+            border-radius: 3px;
+        }
+
+        .replay-timeline::-webkit-scrollbar-thumb {
+            background: var(--accent-purple);
+            border-radius: 3px;
+        }
+
+        .timeline-action {
+            display: grid;
+            grid-template-columns: 60px 80px 1fr;
+            gap: 1rem;
+            padding: 0.75rem;
+            border-radius: 8px;
+            background: rgba(255, 255, 255, 0.03);
+            align-items: center;
+        }
+
+        .timeline-action.p0 {
+            border-left: 3px solid var(--accent-blue);
+        }
+
+        .timeline-action.p1 {
+            border-left: 3px solid var(--accent-orange);
+        }
+
+        .timeline-turn {
+            color: var(--text-secondary);
+            font-size: 0.85rem;
+        }
+
+        .timeline-kind {
+            font-weight: 500;
+            font-size: 0.9rem;
+        }
+
+        .timeline-details {
+            color: var(--text-secondary);
+            font-size: 0.85rem;
+        }
+
+        .loading {
+            text-align: center;
+            padding: 4rem;
+            color: var(--text-secondary);
+        }
+
+        .loading-spinner {
+            width: 50px;
+            height: 50px;
+            border: 3px solid var(--border-color);
+            border-top-color: var(--accent-purple);
+            border-radius: 50%;
+            animation: spin 1s linear infinite;
+            margin: 0 auto 1rem;
+        }
+
+        @keyframes spin {
+            to { transform: rotate(360deg); }
+        }
+
+        .error-msg {
+            background: rgba(239, 68, 68, 0.1);
+            border: 1px solid var(--accent-red);
+            border-radius: 12px;
+            padding: 1.5rem;
+            text-align: center;
+            color: var(--accent-red);
+        }
+
+        @media (max-width: 1100px) {
+            .player-comparison {
+                grid-template-columns: 1fr;
+            }
+            
+            .charts-grid {
+                grid-template-columns: 1fr;
+            }
+        }
+
+        @media (max-width: 600px) {
+            h1 {
+                font-size: 2rem;
+            }
+            
+            .stats-grid {
+                grid-template-columns: 1fr 1fr;
+            }
+            
+            .container {
+                padding: 1rem;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="bg-gradient"></div>
+    
+    <div class="container">
+        <header>
+            <h1>🎴 Strategy Visualizer</h1>
+            <p class="subtitle">Analyzing learned Pokemon TCG strategies from RL training</p>
+        </header>
+
+        <div id="app">
+            <div class="loading">
+                <div class="loading-spinner"></div>
+                <p>Loading analysis data...</p>
+                <p style="margin-top: 1rem; font-size: 0.9rem;">
+                    Run <code>python analyze_strategies.py</code> first to generate data
+                </p>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        let analysisData = null;
+        let replaysData = null;
+
+        async function loadData() {
+            try {
+                const [analysisRes, replaysRes] = await Promise.all([
+                    fetch('strategy_analysis.json'),
+                    fetch('sample_replays.json')
+                ]);
+                
+                if (!analysisRes.ok) throw new Error('Analysis data not found');
+                
+                analysisData = await analysisRes.json();
+                replaysData = await replaysRes.json();
+                
+                renderDashboard();
+            } catch (error) {
+                document.getElementById('app').innerHTML = `
+                    <div class="error-msg">
+                        <h3>📊 No Analysis Data Found</h3>
+                        <p style="margin-top: 1rem;">Run the analysis script first:</p>
+                        <code style="display: block; margin-top: 0.5rem; color: white;">python analyze_strategies.py --games 100</code>
+                    </div>
+                `;
+            }
+        }
+
+        function renderDashboard() {
+            const s = analysisData.summary;
+            
+            document.getElementById('app').innerHTML = `
+                <!-- Summary Stats -->
+                <div class="stats-grid">
+                    <div class="stat-card">
+                        <div class="stat-value blue">${s.total_games}</div>
+                        <div class="stat-label">Games Analyzed</div>
+                    </div>
+                    <div class="stat-card">
+                        <div class="stat-value purple">${(s.p0_win_rate * 100).toFixed(1)}%</div>
+                        <div class="stat-label">Alakazam Win Rate</div>
+                    </div>
+                    <div class="stat-card">
+                        <div class="stat-value orange">${(s.p1_win_rate * 100).toFixed(1)}%</div>
+                        <div class="stat-label">Charizard Win Rate</div>
+                    </div>
+                    <div class="stat-card">
+                        <div class="stat-value green">${s.avg_game_turns.toFixed(1)}</div>
+                        <div class="stat-label">Avg Game Length (turns)</div>
+                    </div>
+                    <div class="stat-card">
+                        <div class="stat-value pink">${s.avg_first_attack_p0.toFixed(1)}</div>
+                        <div class="stat-label">P0 First Attack (turn)</div>
+                    </div>
+                    <div class="stat-card">
+                        <div class="stat-value blue">${s.avg_first_attack_p1.toFixed(1)}</div>
+                        <div class="stat-label">P1 First Attack (turn)</div>
+                    </div>
+                </div>
+
+                <!-- Charts -->
+                <div class="charts-grid">
+                    <div class="chart-card">
+                        <h3><span class="emoji">📊</span> Action Distribution - Alakazam (P0)</h3>
+                        <div class="chart-container">
+                            <canvas id="actionChartP0"></canvas>
+                        </div>
+                    </div>
+                    <div class="chart-card">
+                        <h3><span class="emoji">📊</span> Action Distribution - Charizard (P1)</h3>
+                        <div class="chart-container">
+                            <canvas id="actionChartP1"></canvas>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Player Comparison -->
+                <div class="player-comparison">
+                    <div class="player-section p0">
+                        <div class="player-header">
+                            <div class="player-icon p0">🔮</div>
+                            <div>
+                                <div class="player-name">Alakazam Deck (P0)</div>
+                                <div class="player-winrate">${s.p0_wins} wins / ${s.total_games} games</div>
+                            </div>
+                        </div>
+                        
+                        <h4 style="margin-bottom: 0.75rem; color: var(--text-secondary);">Top Cards Played</h4>
+                        <ul class="strategy-list">
+                            ${renderTopItems(analysisData.card_play_rates.p0, 8)}
+                        </ul>
+                        
+                        <h4 style="margin: 1.5rem 0 0.75rem; color: var(--text-secondary);">Attack Usage</h4>
+                        <ul class="strategy-list">
+                            ${renderTopItems(analysisData.attack_usage.p0, 5)}
+                        </ul>
+                    </div>
+                    
+                    <div class="player-section p1">
+                        <div class="player-header">
+                            <div class="player-icon p1">🔥</div>
+                            <div>
+                                <div class="player-name">Charizard Deck (P1)</div>
+                                <div class="player-winrate">${s.p1_wins} wins / ${s.total_games} games</div>
+                            </div>
+                        </div>
+                        
+                        <h4 style="margin-bottom: 0.75rem; color: var(--text-secondary);">Top Cards Played</h4>
+                        <ul class="strategy-list">
+                            ${renderTopItems(analysisData.card_play_rates.p1, 8)}
+                        </ul>
+                        
+                        <h4 style="margin: 1.5rem 0 0.75rem; color: var(--text-secondary);">Attack Usage</h4>
+                        <ul class="strategy-list">
+                            ${renderTopItems(analysisData.attack_usage.p1, 5)}
+                        </ul>
+                    </div>
+                </div>
+
+                <!-- Opening Strategies -->
+                <div class="chart-card" style="margin-top: 2rem;">
+                    <h3><span class="emoji">🚀</span> Common Opening Strategies</h3>
+                    
+                    <h4 style="margin: 1rem 0 0.5rem; color: var(--accent-blue);">Alakazam (P0) Openings</h4>
+                    ${renderOpenings(analysisData.top_openings.p0)}
+                    
+                    <h4 style="margin: 1.5rem 0 0.5rem; color: var(--accent-orange);">Charizard (P1) Openings</h4>
+                    ${renderOpenings(analysisData.top_openings.p1)}
+                </div>
+
+                <!-- Replay Viewer -->
+                <div class="replay-viewer">
+                    <h3><span class="emoji">🎬</span> Game Replay Viewer</h3>
+                    <div class="replay-selector" id="replaySelector">
+                        ${renderReplayButtons()}
+                    </div>
+                    <div class="replay-timeline" id="replayTimeline">
+                        <p style="color: var(--text-secondary); text-align: center;">Select a game to view the replay</p>
+                    </div>
+                </div>
+            `;
+
+            renderCharts();
+            setupReplayButtons();
+        }
+
+        function renderTopItems(data, limit) {
+            const sorted = Object.entries(data).sort((a, b) => b[1] - a[1]).slice(0, limit);
+            return sorted.map(([name, count]) => `
+                <li>
+                    <span class="strategy-name">${name}</span>
+                    <span class="strategy-count">${count}x</span>
+                </li>
+            `).join('');
+        }
+
+        function renderOpenings(openings) {
+            if (!openings || openings.length === 0) {
+                return '<p style="color: var(--text-secondary);">No opening data available</p>';
+            }
+            
+            return openings.slice(0, 3).map(([pattern, count]) => `
+                <div class="opening-flow">
+                    ${pattern.slice(0, 5).map(step => `<span class="flow-step">${step}</span>`).join('<span class="flow-arrow">→</span>')}
+                    <span class="flow-count">(${count}x)</span>
+                </div>
+            `).join('');
+        }
+
+        function renderReplayButtons() {
+            if (!replaysData || replaysData.length === 0) {
+                return '<p style="color: var(--text-secondary);">No replays available</p>';
+            }
+            
+            return replaysData.slice(0, 10).map((replay, idx) => {
+                const winClass = replay.winner === 0 ? 'win' : (replay.winner === 1 ? 'loss' : '');
+                const label = replay.winner === 0 ? '🔮 Win' : (replay.winner === 1 ? '🔥 Win' : 'Draw');
+                return `<button class="replay-btn ${winClass}" data-idx="${idx}">Game ${idx + 1} - ${label}</button>`;
+            }).join('');
+        }
+
+        function setupReplayButtons() {
+            document.querySelectorAll('.replay-btn').forEach(btn => {
+                btn.addEventListener('click', (e) => {
+                    document.querySelectorAll('.replay-btn').forEach(b => b.classList.remove('active'));
+                    e.target.classList.add('active');
+                    const idx = parseInt(e.target.dataset.idx);
+                    renderReplay(idx);
+                });
+            });
+        }
+
+        function renderReplay(idx) {
+            const replay = replaysData[idx];
+            const timeline = document.getElementById('replayTimeline');
+            
+            timeline.innerHTML = replay.actions.map(action => `
+                <div class="timeline-action p${action.player}">
+                    <span class="timeline-turn">Turn ${action.turn}</span>
+                    <span class="timeline-kind">${action.action_kind}</span>
+                    <span class="timeline-details">
+                        ${action.card_a ? `Card: ${action.card_a}` : ''}
+                        ${action.active_pokemon ? `| Active: ${action.active_pokemon}` : ''}
+                    </span>
+                </div>
+            `).join('');
+        }
+
+        function renderCharts() {
+            const colors = {
+                p0: ['rgba(79, 172, 254, 0.8)', 'rgba(168, 85, 247, 0.8)', 'rgba(244, 114, 182, 0.8)', 
+                     'rgba(16, 185, 129, 0.8)', 'rgba(251, 191, 36, 0.8)', 'rgba(156, 163, 175, 0.8)'],
+                p1: ['rgba(249, 115, 22, 0.8)', 'rgba(239, 68, 68, 0.8)', 'rgba(244, 114, 182, 0.8)',
+                     'rgba(16, 185, 129, 0.8)', 'rgba(251, 191, 36, 0.8)', 'rgba(156, 163, 175, 0.8)']
+            };
+
+            // P0 Action Chart
+            const p0Actions = analysisData.action_frequencies.p0;
+            new Chart(document.getElementById('actionChartP0'), {
+                type: 'doughnut',
+                data: {
+                    labels: Object.keys(p0Actions),
+                    datasets: [{
+                        data: Object.values(p0Actions),
+                        backgroundColor: colors.p0,
+                        borderWidth: 0
+                    }]
+                },
+                options: {
+                    responsive: true,
+                    maintainAspectRatio: false,
+                    plugins: {
+                        legend: {
+                            position: 'right',
+                            labels: { color: '#94a3b8', font: { size: 11 } }
+                        }
+                    }
+                }
+            });
+
+            // P1 Action Chart
+            const p1Actions = analysisData.action_frequencies.p1;
+            new Chart(document.getElementById('actionChartP1'), {
+                type: 'doughnut',
+                data: {
+                    labels: Object.keys(p1Actions),
+                    datasets: [{
+                        data: Object.values(p1Actions),
+                        backgroundColor: colors.p1,
+                        borderWidth: 0
+                    }]
+                },
+                options: {
+                    responsive: true,
+                    maintainAspectRatio: false,
+                    plugins: {
+                        legend: {
+                            position: 'right',
+                            labels: { color: '#94a3b8', font: { size: 11 } }
+                        }
+                    }
+                }
+            });
+        }
+
+        // Load data on page load
+        loadData();
+    </script>
+</body>
+</html>

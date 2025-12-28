@@ -1,0 +1,1215 @@
+=== GAUNTLET LOG Episode 1008 ===
+
+Game 1 vs Random | Turn 2
+  Active: Solrock, Energy: 0, Hand: 7
+  Legal: 0 attacks, 2 attaches, 0 evolves
+  Chose: Action('PLAY_TRAINER', a=Earthen Vessel, b=0)
+
+Game 1 vs Random | Turn 2
+  Active: Solrock, Energy: 0, Hand: 7
+  Legal: 0 attacks, 2 attaches, 0 evolves
+  Chose: Action('ATTACH_ACTIVE', a=Fighting Energy)
+
+Game 1 vs Random | Turn 2
+  Active: Solrock, Energy: 1, Hand: 6
+  Legal: 7 attacks, 0 attaches, 0 evolves
+  Chose: Action('ATTACK', b=0, c=3)
+
+Game 1 vs Random | Turn 4
+  Active: Solrock, Energy: 1, Hand: 7
+  Legal: 7 attacks, 2 attaches, 0 evolves
+  Chose: Action('ATTACK', b=0, c=5)
+
+Game 1 vs Random | Turn 6
+  Active: Solrock, Energy: 1, Hand: 8
+  Legal: 7 attacks, 2 attaches, 0 evolves
+  Chose: Action('PASS')
+
+Game 1 vs Random | Turn 8
+  Active: Solrock, Energy: 1, Hand: 9
+  Legal: 7 attacks, 2 attaches, 0 evolves
+  Chose: Action('PASS')
+
+Game 1 vs Random | Turn 10
+  Active: Solrock, Energy: 1, Hand: 10
+  Legal: 7 attacks, 2 attaches, 0 evolves
+  Chose: Action('ATTACK', b=0)
+
+Game 1 vs Random | Turn 12
+  Active: Solrock, Energy: 1, Hand: 11
+  Legal: 7 attacks, 2 attaches, 0 evolves
+  Chose: Action('ATTACK', b=0)
+
+Game 1 vs Random | Turn 14
+  Active: Solrock, Energy: 1, Hand: 12
+  Legal: 7 attacks, 2 attaches, 0 evolves
+  Chose: Action('ATTACK', b=0, c=2)
+
+Game 1 vs Random | Turn 16
+  Active: Solrock, Energy: 1, Hand: 13
+  Legal: 7 attacks, 2 attaches, 0 evolves
+  Chose: Action('ATTACK', b=0, c=3)
+
+Game 1 vs Random | Turn 18
+  Active: Solrock, Energy: 1, Hand: 14
+  Legal: 7 attacks, 2 attaches, 0 evolves
+  Chose: Action('ATTACK', b=0, c=3)
+
+Game 1 vs Random | Turn 20
+  Active: Solrock, Energy: 1, Hand: 15
+  Legal: 7 attacks, 2 attaches, 0 evolves
+  Chose: Action('ATTACK', b=0)
+
+Game 1 vs Random | Turn 22
+  Active: Solrock, Energy: 1, Hand: 16
+  Legal: 7 attacks, 2 attaches, 0 evolves
+  Chose: Action('ATTACK', b=0, c=3)
+
+Game 1 vs Random | Turn 24
+  Active: Solrock, Energy: 1, Hand: 17
+  Legal: 7 attacks, 2 attaches, 0 evolves
+  Chose: Action('ATTACK', b=0, c=0)
+
+Game 1 vs Random | Turn 26
+  Active: Solrock, Energy: 1, Hand: 18
+  Legal: 7 attacks, 2 attaches, 0 evolves
+  Chose: Action('ATTACK', b=0, c=2)
+
+Game 1 vs Random | Turn 28
+  Active: Solrock, Energy: 1, Hand: 19
+  Legal: 7 attacks, 2 attaches, 0 evolves
+  Chose: Action('PASS')
+
+Game 1 vs Random | Turn 30
+  Active: Solrock, Energy: 1, Hand: 20
+  Legal: 7 attacks, 2 attaches, 0 evolves
+  Chose: Action('ATTACK', b=0, c=0)
+
+Game 1 vs Random | Turn 32
+  Active: Solrock, Energy: 1, Hand: 21
+  Legal: 7 attacks, 2 attaches, 0 evolves
+  Chose: Action('ATTACK', b=0)
+
+Game 1 vs Random | Turn 34
+  Active: Solrock, Energy: 1, Hand: 22
+  Legal: 7 attacks, 2 attaches, 0 evolves
+  Chose: Action('ATTACK', b=0, c=2)
+
+Game 1 vs Random | Turn 36
+  Active: Solrock, Energy: 1, Hand: 23
+  Legal: 7 attacks, 2 attaches, 0 evolves
+  Chose: Action('ATTACK', b=0, c=3)
+
+Game 1 vs Random | Turn 38
+  Active: Solrock, Energy: 1, Hand: 24
+  Legal: 7 attacks, 2 attaches, 0 evolves
+  Chose: Action('PASS')
+
+Game 1 vs Random | Turn 40
+  Active: Solrock, Energy: 1, Hand: 25
+  Legal: 7 attacks, 2 attaches, 0 evolves
+  Chose: Action('ATTACK', b=0, c=0)
+
+Game 2 vs Random | Turn 2
+  Active: Lunatone, Energy: 0, Hand: 7
+  Legal: 0 attacks, 1 attaches, 0 evolves
+  Chose: Action('ATTACH_ACTIVE', a=Fighting Energy)
+
+Game 2 vs Random | Turn 2
+  Active: Lunatone, Energy: 1, Hand: 6
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PASS')
+
+Game 2 vs Random | Turn 4
+  Active: Lunatone, Energy: 1, Hand: 7
+  Legal: 0 attacks, 1 attaches, 0 evolves
+  Chose: Action('ATTACH_ACTIVE', a=Fighting Energy)
+
+Game 2 vs Random | Turn 4
+  Active: Lunatone, Energy: 2, Hand: 6
+  Legal: 7 attacks, 0 attaches, 0 evolves
+  Chose: Action('ATTACK', b=0)
+
+Game 2 vs Random | Turn 6
+  Active: Lunatone, Energy: 2, Hand: 7
+  Legal: 7 attacks, 1 attaches, 0 evolves
+  Chose: Action('PASS')
+
+Game 2 vs Random | Turn 8
+  Active: Lunatone, Energy: 2, Hand: 8
+  Legal: 7 attacks, 1 attaches, 0 evolves
+  Chose: Action('ATTACK', b=0, c=0)
+
+Game 2 vs Random | Turn 10
+  Active: Lunatone, Energy: 2, Hand: 9
+  Legal: 7 attacks, 1 attaches, 0 evolves
+  Chose: Action('ATTACK', b=0, c=0)
+
+Game 2 vs Random | Turn 12
+  Active: Lunatone, Energy: 2, Hand: 11
+  Legal: 7 attacks, 1 attaches, 0 evolves
+  Chose: Action('PASS')
+
+Game 2 vs Random | Turn 14
+  Active: Lunatone, Energy: 2, Hand: 12
+  Legal: 7 attacks, 1 attaches, 0 evolves
+  Chose: Action('PASS')
+
+Game 2 vs Random | Turn 16
+  Active: Lunatone, Energy: 2, Hand: 13
+  Legal: 7 attacks, 1 attaches, 0 evolves
+  Chose: Action('PASS')
+
+Game 2 vs Random | Turn 18
+  Active: Lunatone, Energy: 2, Hand: 14
+  Legal: 7 attacks, 2 attaches, 0 evolves
+  Chose: Action('PASS')
+
+Game 2 vs Random | Turn 20
+  Active: Lunatone, Energy: 2, Hand: 15
+  Legal: 7 attacks, 2 attaches, 0 evolves
+  Chose: Action('ATTACK', b=0, c=1)
+
+Game 2 vs Random | Turn 22
+  Active: Lunatone, Energy: 2, Hand: 16
+  Legal: 7 attacks, 2 attaches, 0 evolves
+  Chose: Action('PASS')
+
+Game 2 vs Random | Turn 24
+  Active: Lunatone, Energy: 2, Hand: 17
+  Legal: 7 attacks, 2 attaches, 0 evolves
+  Chose: Action('ATTACK', b=0, c=2)
+
+Game 2 vs Random | Turn 26
+  Active: Lunatone, Energy: 2, Hand: 18
+  Legal: 7 attacks, 2 attaches, 0 evolves
+  Chose: Action('ATTACK', b=0, c=0)
+
+Game 2 vs Random | Turn 28
+  Active: Lunatone, Energy: 2, Hand: 19
+  Legal: 7 attacks, 2 attaches, 0 evolves
+  Chose: Action('ATTACK', b=0, c=3)
+
+Game 3 vs Random | Turn 2
+  Active: Solrock, Energy: 0, Hand: 9
+  Legal: 0 attacks, 1 attaches, 0 evolves
+  Chose: Action('PLAY_TRAINER', a=Professor Turo's Scenario, b=5)
+
+Game 3 vs Random | Turn 2
+  Active: None, Energy: 0, Hand: 9
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PASS')
+
+Game 3 vs Random | Turn 4
+  Active: None, Energy: 0, Hand: 10
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PLAY_TRAINER', a=Earthen Vessel, b=2)
+
+Game 3 vs Random | Turn 4
+  Active: None, Energy: 0, Hand: 10
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PLAY_BASIC_TO_BENCH', a=Fezandipiti ex, b=0)
+
+Game 3 vs Random | Turn 4
+  Active: None, Energy: 0, Hand: 9
+  Legal: 0 attacks, 2 attaches, 0 evolves
+  Chose: Action('ATTACH_BENCH', a=Metal Energy, b=0)
+
+Game 3 vs Random | Turn 4
+  Active: None, Energy: 0, Hand: 8
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PASS')
+
+Game 3 vs Random | Turn 6
+  Active: None, Energy: 0, Hand: 9
+  Legal: 0 attacks, 1 attaches, 0 evolves
+  Chose: Action('ATTACH_BENCH', a=Fighting Energy, b=0)
+
+Game 3 vs Random | Turn 6
+  Active: None, Energy: 0, Hand: 8
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PLAY_TRAINER', a=Arven, b=6)
+
+Game 3 vs Random | Turn 6
+  Active: None, Energy: 0, Hand: 9
+  Legal: 0 attacks, 1 attaches, 0 evolves
+  Chose: Action('PASS')
+
+Game 3 vs Random | Turn 8
+  Active: None, Energy: 0, Hand: 10
+  Legal: 0 attacks, 2 attaches, 0 evolves
+  Chose: Action('ATTACH_TOOL_BENCH', a=Vitality Band, b=0)
+
+Game 3 vs Random | Turn 8
+  Active: None, Energy: 0, Hand: 9
+  Legal: 0 attacks, 1 attaches, 0 evolves
+  Chose: Action('ATTACH_BENCH', a=Fighting Energy, b=0)
+
+Game 3 vs Random | Turn 8
+  Active: None, Energy: 0, Hand: 8
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PASS')
+
+Game 3 vs Random | Turn 10
+  Active: None, Energy: 0, Hand: 9
+  Legal: 0 attacks, 1 attaches, 0 evolves
+  Chose: Action('ATTACH_BENCH', a=Fighting Energy, b=0)
+
+Game 3 vs Random | Turn 10
+  Active: None, Energy: 0, Hand: 8
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PASS')
+
+Game 3 vs Random | Turn 12
+  Active: None, Energy: 0, Hand: 9
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PLAY_TRAINER', a=Superior Energy Retrieval, b=0, c=1)
+
+Game 3 vs Random | Turn 12
+  Active: None, Energy: 0, Hand: 7
+  Legal: 0 attacks, 1 attaches, 0 evolves
+  Chose: Action('PASS')
+
+Game 3 vs Random | Turn 14
+  Active: None, Energy: 0, Hand: 8
+  Legal: 0 attacks, 2 attaches, 0 evolves
+  Chose: Action('ATTACH_BENCH', a=Metal Energy, b=0)
+
+Game 3 vs Random | Turn 14
+  Active: None, Energy: 0, Hand: 7
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PASS')
+
+Game 3 vs Random | Turn 16
+  Active: None, Energy: 0, Hand: 8
+  Legal: 0 attacks, 1 attaches, 0 evolves
+  Chose: Action('ATTACH_BENCH', a=Fighting Energy, b=0)
+
+Game 3 vs Random | Turn 16
+  Active: None, Energy: 0, Hand: 7
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PASS')
+
+Game 3 vs Random | Turn 18
+  Active: None, Energy: 0, Hand: 8
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PASS')
+
+Game 3 vs Random | Turn 20
+  Active: None, Energy: 0, Hand: 9
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PASS')
+
+Game 3 vs Random | Turn 22
+  Active: None, Energy: 0, Hand: 10
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PASS')
+
+Game 3 vs Random | Turn 24
+  Active: None, Energy: 0, Hand: 11
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PASS')
+
+Game 3 vs Random | Turn 26
+  Active: None, Energy: 0, Hand: 12
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PASS')
+
+Game 3 vs Random | Turn 28
+  Active: None, Energy: 0, Hand: 13
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PASS')
+
+Game 3 vs Random | Turn 30
+  Active: None, Energy: 0, Hand: 14
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PASS')
+
+Game 3 vs Random | Turn 32
+  Active: None, Energy: 0, Hand: 15
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PASS')
+
+Game 3 vs Random | Turn 34
+  Active: None, Energy: 0, Hand: 16
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PASS')
+
+Game 3 vs Random | Turn 36
+  Active: None, Energy: 0, Hand: 17
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PASS')
+
+Game 3 vs Random | Turn 38
+  Active: None, Energy: 0, Hand: 18
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PASS')
+
+Game 3 vs Random | Turn 40
+  Active: Fezandipiti ex, Energy: 6, Hand: 19
+  Legal: 7 attacks, 0 attaches, 0 evolves
+  Chose: Action('PASS')
+
+Game 3 vs Random | Turn 42
+  Active: Fezandipiti ex, Energy: 6, Hand: 20
+  Legal: 7 attacks, 0 attaches, 0 evolves
+  Chose: Action('ATTACK', b=0)
+
+Game 3 vs Random | Turn 44
+  Active: Fezandipiti ex, Energy: 6, Hand: 22
+  Legal: 7 attacks, 0 attaches, 0 evolves
+  Chose: Action('PASS')
+
+Game 3 vs Random | Turn 46
+  Active: Fezandipiti ex, Energy: 6, Hand: 23
+  Legal: 7 attacks, 0 attaches, 0 evolves
+  Chose: Action('PASS')
+
+Game 3 vs Random | Turn 48
+  Active: Fezandipiti ex, Energy: 6, Hand: 24
+  Legal: 7 attacks, 0 attaches, 0 evolves
+  Chose: Action('PASS')
+
+Game 3 vs Random | Turn 50
+  Active: Fezandipiti ex, Energy: 6, Hand: 25
+  Legal: 7 attacks, 0 attaches, 0 evolves
+  Chose: Action('PASS')
+
+Game 1 vs Aggressive | Turn 2
+  Active: Gimmighoul, Energy: 0, Hand: 7
+  Legal: 0 attacks, 1 attaches, 0 evolves
+  Chose: Action('ATTACH_ACTIVE', a=Metal Energy)
+
+Game 1 vs Aggressive | Turn 2
+  Active: Gimmighoul, Energy: 1, Hand: 6
+  Legal: 7 attacks, 0 attaches, 0 evolves
+  Chose: Action('ATTACK', b=0, c=4)
+
+Game 1 vs Aggressive | Turn 4
+  Active: Gimmighoul, Energy: 1, Hand: 9
+  Legal: 7 attacks, 3 attaches, 0 evolves
+  Chose: Action('ATTACK', b=0, c=0)
+
+Game 1 vs Aggressive | Turn 6
+  Active: Gimmighoul, Energy: 1, Hand: 12
+  Legal: 7 attacks, 3 attaches, 0 evolves
+  Chose: Action('ATTACK', b=0, c=2)
+
+Game 1 vs Aggressive | Turn 8
+  Active: Gimmighoul, Energy: 1, Hand: 15
+  Legal: 7 attacks, 3 attaches, 0 evolves
+  Chose: Action('ATTACK', b=0, c=3)
+
+Game 1 vs Aggressive | Turn 10
+  Active: Gimmighoul, Energy: 1, Hand: 18
+  Legal: 7 attacks, 3 attaches, 0 evolves
+  Chose: Action('ATTACK', b=0, c=1)
+
+Game 1 vs Aggressive | Turn 12
+  Active: Gimmighoul, Energy: 1, Hand: 20
+  Legal: 7 attacks, 3 attaches, 0 evolves
+  Chose: Action('ATTACK', b=0, c=5)
+
+Game 1 vs Aggressive | Turn 14
+  Active: Gimmighoul, Energy: 1, Hand: 21
+  Legal: 7 attacks, 3 attaches, 0 evolves
+  Chose: Action('ATTACK', b=0)
+
+Game 1 vs Aggressive | Turn 16
+  Active: Gimmighoul, Energy: 1, Hand: 22
+  Legal: 7 attacks, 3 attaches, 0 evolves
+  Chose: Action('ATTACK', b=0, c=1)
+
+Game 1 vs Aggressive | Turn 18
+  Active: Gimmighoul, Energy: 1, Hand: 23
+  Legal: 7 attacks, 3 attaches, 0 evolves
+  Chose: Action('ATTACK', b=0, c=5)
+
+Game 1 vs Aggressive | Turn 20
+  Active: Gimmighoul, Energy: 1, Hand: 24
+  Legal: 7 attacks, 3 attaches, 1 evolves
+  Chose: Action('ATTACK', b=0, c=3)
+
+Game 1 vs Aggressive | Turn 22
+  Active: Gimmighoul, Energy: 1, Hand: 25
+  Legal: 7 attacks, 3 attaches, 1 evolves
+  Chose: Action('ATTACK', b=0, c=2)
+
+Game 1 vs Aggressive | Turn 24
+  Active: Gimmighoul, Energy: 1, Hand: 26
+  Legal: 7 attacks, 3 attaches, 1 evolves
+  Chose: Action('ATTACK', b=0, c=0)
+
+Game 1 vs Aggressive | Turn 26
+  Active: Gimmighoul, Energy: 1, Hand: 27
+  Legal: 7 attacks, 3 attaches, 1 evolves
+  Chose: Action('ATTACK', b=0)
+
+Game 1 vs Aggressive | Turn 28
+  Active: Gimmighoul, Energy: 1, Hand: 28
+  Legal: 7 attacks, 3 attaches, 1 evolves
+  Chose: Action('ATTACK', b=0, c=0)
+
+Game 1 vs Aggressive | Turn 30
+  Active: Gimmighoul, Energy: 1, Hand: 29
+  Legal: 7 attacks, 3 attaches, 1 evolves
+  Chose: Action('PASS')
+
+Game 1 vs Aggressive | Turn 32
+  Active: Gimmighoul, Energy: 1, Hand: 30
+  Legal: 7 attacks, 3 attaches, 1 evolves
+  Chose: Action('ATTACK', b=0, c=4)
+
+Game 1 vs Aggressive | Turn 34
+  Active: Gimmighoul, Energy: 1, Hand: 31
+  Legal: 7 attacks, 4 attaches, 1 evolves
+  Chose: Action('ATTACK', b=0)
+
+Game 1 vs Aggressive | Turn 36
+  Active: Gimmighoul, Energy: 1, Hand: 32
+  Legal: 7 attacks, 4 attaches, 1 evolves
+  Chose: Action('ATTACK', b=0, c=2)
+
+Game 1 vs Aggressive | Turn 38
+  Active: Gimmighoul, Energy: 1, Hand: 33
+  Legal: 7 attacks, 4 attaches, 1 evolves
+  Chose: Action('ATTACH_ACTIVE', a=Metal Energy)
+
+Game 1 vs Aggressive | Turn 38
+  Active: Gimmighoul, Energy: 2, Hand: 32
+  Legal: 7 attacks, 2 attaches, 1 evolves
+  Chose: Action('ATTACK', b=0, c=4)
+
+Game 1 vs Aggressive | Turn 40
+  Active: Gimmighoul, Energy: 2, Hand: 33
+  Legal: 7 attacks, 4 attaches, 1 evolves
+  Chose: Action('ATTACH_ACTIVE', a=Metal Energy)
+
+Game 1 vs Aggressive | Turn 40
+  Active: Gimmighoul, Energy: 3, Hand: 32
+  Legal: 14 attacks, 2 attaches, 1 evolves
+  Chose: Action('ATTACK', b=1, c=2)
+
+Game 1 vs Aggressive | Turn 42
+  Active: Gimmighoul, Energy: 3, Hand: 33
+  Legal: 14 attacks, 3 attaches, 1 evolves
+  Chose: Action('ATTACK', b=1, c=3)
+
+Game 1 vs Aggressive | Turn 44
+  Active: Gimmighoul, Energy: 3, Hand: 34
+  Legal: 14 attacks, 3 attaches, 1 evolves
+  Chose: Action('ATTACK', b=1)
+
+Game 2 vs Aggressive | Turn 1
+  Active: Solrock, Energy: 0, Hand: 6
+  Legal: 0 attacks, 2 attaches, 0 evolves
+  Chose: Action('ATTACH_TOOL_ACTIVE', a=Air Balloon)
+
+Game 2 vs Aggressive | Turn 1
+  Active: Solrock, Energy: 0, Hand: 5
+  Legal: 0 attacks, 1 attaches, 0 evolves
+  Chose: Action('ATTACH_ACTIVE', a=Fighting Energy)
+
+Game 2 vs Aggressive | Turn 1
+  Active: Solrock, Energy: 1, Hand: 4
+  Legal: 7 attacks, 0 attaches, 0 evolves
+  Chose: Action('ATTACK', b=0, c=5)
+
+Game 2 vs Aggressive | Turn 3
+  Active: Solrock, Energy: 1, Hand: 5
+  Legal: 7 attacks, 1 attaches, 0 evolves
+  Chose: Action('ATTACK', b=0, c=2)
+
+Game 2 vs Aggressive | Turn 5
+  Active: Solrock, Energy: 1, Hand: 6
+  Legal: 7 attacks, 1 attaches, 0 evolves
+  Chose: Action('ATTACK', b=0, c=4)
+
+Game 2 vs Aggressive | Turn 7
+  Active: Solrock, Energy: 1, Hand: 7
+  Legal: 7 attacks, 1 attaches, 0 evolves
+  Chose: Action('ATTACK', b=0, c=3)
+
+Game 2 vs Aggressive | Turn 9
+  Active: Solrock, Energy: 1, Hand: 8
+  Legal: 7 attacks, 1 attaches, 0 evolves
+  Chose: Action('ATTACK', b=0, c=3)
+
+Game 2 vs Aggressive | Turn 11
+  Active: Solrock, Energy: 1, Hand: 9
+  Legal: 7 attacks, 1 attaches, 0 evolves
+  Chose: Action('ATTACK', b=0)
+
+Game 2 vs Aggressive | Turn 13
+  Active: Solrock, Energy: 1, Hand: 10
+  Legal: 7 attacks, 2 attaches, 0 evolves
+  Chose: Action('ATTACK', b=0, c=5)
+
+Game 2 vs Aggressive | Turn 15
+  Active: Solrock, Energy: 1, Hand: 11
+  Legal: 7 attacks, 2 attaches, 0 evolves
+  Chose: Action('ATTACK', b=0, c=5)
+
+Game 2 vs Aggressive | Turn 17
+  Active: Solrock, Energy: 1, Hand: 12
+  Legal: 7 attacks, 2 attaches, 0 evolves
+  Chose: Action('PASS')
+
+Game 2 vs Aggressive | Turn 19
+  Active: Solrock, Energy: 1, Hand: 13
+  Legal: 7 attacks, 2 attaches, 0 evolves
+  Chose: Action('ATTACK', b=0, c=3)
+
+Game 2 vs Aggressive | Turn 21
+  Active: Solrock, Energy: 1, Hand: 14
+  Legal: 7 attacks, 2 attaches, 0 evolves
+  Chose: Action('ATTACK', b=0, c=4)
+
+Game 2 vs Aggressive | Turn 23
+  Active: Solrock, Energy: 1, Hand: 15
+  Legal: 7 attacks, 2 attaches, 0 evolves
+  Chose: Action('ATTACK', b=0)
+
+Game 2 vs Aggressive | Turn 25
+  Active: Solrock, Energy: 1, Hand: 16
+  Legal: 7 attacks, 2 attaches, 0 evolves
+  Chose: Action('ATTACH_ACTIVE', a=Metal Energy)
+
+Game 2 vs Aggressive | Turn 25
+  Active: Solrock, Energy: 2, Hand: 15
+  Legal: 7 attacks, 0 attaches, 0 evolves
+  Chose: Action('ATTACK', b=0, c=2)
+
+Game 2 vs Aggressive | Turn 27
+  Active: Solrock, Energy: 2, Hand: 16
+  Legal: 7 attacks, 1 attaches, 0 evolves
+  Chose: Action('ATTACK', b=0, c=1)
+
+Game 2 vs Aggressive | Turn 29
+  Active: Solrock, Energy: 2, Hand: 17
+  Legal: 7 attacks, 1 attaches, 0 evolves
+  Chose: Action('ATTACK', b=0, c=0)
+
+Game 2 vs Aggressive | Turn 31
+  Active: Solrock, Energy: 2, Hand: 18
+  Legal: 7 attacks, 1 attaches, 0 evolves
+  Chose: Action('ATTACK', b=0, c=1)
+
+Game 2 vs Aggressive | Turn 33
+  Active: Solrock, Energy: 2, Hand: 19
+  Legal: 7 attacks, 1 attaches, 0 evolves
+  Chose: Action('ATTACK', b=0, c=2)
+
+Game 2 vs Aggressive | Turn 35
+  Active: Solrock, Energy: 2, Hand: 20
+  Legal: 7 attacks, 1 attaches, 0 evolves
+  Chose: Action('PASS')
+
+Game 2 vs Aggressive | Turn 37
+  Active: Solrock, Energy: 2, Hand: 21
+  Legal: 7 attacks, 1 attaches, 0 evolves
+  Chose: Action('ATTACK', b=0, c=2)
+
+Game 2 vs Aggressive | Turn 39
+  Active: Solrock, Energy: 2, Hand: 22
+  Legal: 7 attacks, 1 attaches, 0 evolves
+  Chose: Action('ATTACK', b=0, c=0)
+
+Game 2 vs Aggressive | Turn 41
+  Active: Solrock, Energy: 2, Hand: 23
+  Legal: 7 attacks, 1 attaches, 0 evolves
+  Chose: Action('ATTACK', b=0, c=5)
+
+Game 2 vs Aggressive | Turn 43
+  Active: Solrock, Energy: 2, Hand: 24
+  Legal: 7 attacks, 1 attaches, 0 evolves
+  Chose: Action('ATTACK', b=0, c=3)
+
+Game 2 vs Aggressive | Turn 45
+  Active: Solrock, Energy: 2, Hand: 25
+  Legal: 7 attacks, 1 attaches, 0 evolves
+  Chose: Action('ATTACK', b=0, c=5)
+
+Game 2 vs Aggressive | Turn 47
+  Active: Solrock, Energy: 2, Hand: 26
+  Legal: 7 attacks, 1 attaches, 0 evolves
+  Chose: Action('ATTACK', b=0, c=3)
+
+Game 2 vs Aggressive | Turn 49
+  Active: Solrock, Energy: 2, Hand: 27
+  Legal: 7 attacks, 1 attaches, 0 evolves
+  Chose: Action('ATTACK', b=0, c=3)
+
+Game 3 vs Aggressive | Turn 2
+  Active: Lunatone, Energy: 0, Hand: 7
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PLAY_TRAINER', a=Arven, b=6)
+
+Game 3 vs Aggressive | Turn 2
+  Active: Lunatone, Energy: 0, Hand: 8
+  Legal: 0 attacks, 1 attaches, 0 evolves
+  Chose: Action('PLAY_TRAINER', a=Fighting Gong, b=1)
+
+Game 3 vs Aggressive | Turn 2
+  Active: Lunatone, Energy: 0, Hand: 8
+  Legal: 0 attacks, 1 attaches, 0 evolves
+  Chose: Action('PLAY_TRAINER', a=Fighting Gong, b=0)
+
+Game 3 vs Aggressive | Turn 2
+  Active: Lunatone, Energy: 0, Hand: 8
+  Legal: 0 attacks, 2 attaches, 0 evolves
+  Chose: Action('ATTACH_TOOL_ACTIVE', a=Vitality Band)
+
+Game 3 vs Aggressive | Turn 2
+  Active: Lunatone, Energy: 0, Hand: 7
+  Legal: 0 attacks, 1 attaches, 0 evolves
+  Chose: Action('ATTACH_ACTIVE', a=Fighting Energy)
+
+Game 3 vs Aggressive | Turn 2
+  Active: Lunatone, Energy: 1, Hand: 6
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PLAY_TRAINER', a=Earthen Vessel, b=1)
+
+Game 3 vs Aggressive | Turn 2
+  Active: Lunatone, Energy: 1, Hand: 6
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PLAY_BASIC_TO_BENCH', a=Solrock, b=4)
+
+Game 3 vs Aggressive | Turn 2
+  Active: Lunatone, Energy: 1, Hand: 5
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('USE_ACTIVE_ABILITY')
+
+Game 3 vs Aggressive | Turn 2
+  Active: Lunatone, Energy: 1, Hand: 7
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('RETREAT_TO', b=4)
+
+Game 3 vs Aggressive | Turn 2
+  Active: Solrock, Energy: 0, Hand: 7
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PLAY_TRAINER', a=Superior Energy Retrieval, b=1, c=2)
+
+Game 3 vs Aggressive | Turn 2
+  Active: Solrock, Energy: 0, Hand: 6
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PASS')
+
+Game 3 vs Aggressive | Turn 4
+  Active: Solrock, Energy: 0, Hand: 7
+  Legal: 0 attacks, 2 attaches, 0 evolves
+  Chose: Action('ATTACH_ACTIVE', a=Fighting Energy)
+
+Game 3 vs Aggressive | Turn 4
+  Active: Solrock, Energy: 1, Hand: 6
+  Legal: 7 attacks, 0 attaches, 0 evolves
+  Chose: Action('ATTACK', b=0, c=5)
+
+Game 3 vs Aggressive | Turn 6
+  Active: Lunatone, Energy: 0, Hand: 7
+  Legal: 0 attacks, 1 attaches, 0 evolves
+  Chose: Action('PLAY_TRAINER', a=Arven, b=6)
+
+Game 3 vs Aggressive | Turn 6
+  Active: Lunatone, Energy: 0, Hand: 8
+  Legal: 0 attacks, 1 attaches, 0 evolves
+  Chose: Action('ATTACH_ACTIVE', a=Fighting Energy)
+
+Game 3 vs Aggressive | Turn 6
+  Active: Lunatone, Energy: 1, Hand: 7
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PLAY_TRAINER', a=Air Balloon, b=6)
+
+Game 3 vs Aggressive | Turn 6
+  Active: Lunatone, Energy: 1, Hand: 6
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PASS')
+
+Game 3 vs Aggressive | Turn 8
+  Active: Lunatone, Energy: 1, Hand: 7
+  Legal: 0 attacks, 1 attaches, 0 evolves
+  Chose: Action('PLAY_TRAINER', a=Professor Turo's Scenario, b=5)
+
+Game 3 vs Aggressive | Turn 8
+  Active: None, Energy: 0, Hand: 7
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PLAY_BASIC_TO_BENCH', a=Lunatone, b=1)
+
+Game 3 vs Aggressive | Turn 8
+  Active: None, Energy: 0, Hand: 6
+  Legal: 0 attacks, 1 attaches, 0 evolves
+  Chose: Action('ATTACH_BENCH', a=Fighting Energy, b=1)
+
+Game 3 vs Aggressive | Turn 8
+  Active: None, Energy: 0, Hand: 5
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PASS')
+
+Game 3 vs Aggressive | Turn 10
+  Active: None, Energy: 0, Hand: 6
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PLAY_BASIC_TO_BENCH', a=Gimmighoul, b=3)
+
+Game 3 vs Aggressive | Turn 10
+  Active: None, Energy: 0, Hand: 5
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PLAY_TRAINER', a=Lana's Aid, b=6, c=4, d=13)
+
+Game 3 vs Aggressive | Turn 10
+  Active: None, Energy: 0, Hand: 5
+  Legal: 0 attacks, 2 attaches, 0 evolves
+  Chose: Action('PLAY_TRAINER', a=Premium Power Pro, b=3)
+
+Game 3 vs Aggressive | Turn 10
+  Active: None, Energy: 0, Hand: 4
+  Legal: 0 attacks, 2 attaches, 0 evolves
+  Chose: Action('ATTACH_BENCH', a=Fighting Energy, b=1)
+
+Game 3 vs Aggressive | Turn 10
+  Active: None, Energy: 0, Hand: 3
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PASS')
+
+Game 3 vs Aggressive | Turn 12
+  Active: None, Energy: 0, Hand: 4
+  Legal: 0 attacks, 2 attaches, 0 evolves
+  Chose: Action('ATTACH_BENCH', a=Metal Energy, b=1)
+
+Game 3 vs Aggressive | Turn 12
+  Active: None, Energy: 0, Hand: 3
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PASS')
+
+Game 3 vs Aggressive | Turn 14
+  Active: None, Energy: 0, Hand: 4
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PLAY_TRAINER', a=Artazon, b=6)
+
+Game 3 vs Aggressive | Turn 14
+  Active: None, Energy: 0, Hand: 3
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PASS')
+
+Game 3 vs Aggressive | Turn 16
+  Active: None, Energy: 0, Hand: 4
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PASS')
+
+Game 3 vs Aggressive | Turn 18
+  Active: None, Energy: 0, Hand: 5
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PLAY_TRAINER', a=Superior Energy Retrieval, b=1, c=4)
+
+Game 3 vs Aggressive | Turn 18
+  Active: None, Energy: 0, Hand: 3
+  Legal: 0 attacks, 3 attaches, 0 evolves
+  Chose: Action('PASS')
+
+Game 3 vs Aggressive | Turn 20
+  Active: None, Energy: 0, Hand: 4
+  Legal: 0 attacks, 3 attaches, 0 evolves
+  Chose: Action('ATTACH_BENCH', a=Fighting Energy, b=1)
+
+Game 3 vs Aggressive | Turn 20
+  Active: None, Energy: 0, Hand: 3
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PLAY_TRAINER', a=Arven, b=6)
+
+Game 3 vs Aggressive | Turn 20
+  Active: None, Energy: 0, Hand: 3
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PLAY_TRAINER', a=Earthen Vessel, b=1)
+
+Game 3 vs Aggressive | Turn 20
+  Active: None, Energy: 0, Hand: 3
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PASS')
+
+Game 3 vs Aggressive | Turn 22
+  Active: None, Energy: 0, Hand: 4
+  Legal: 0 attacks, 6 attaches, 0 evolves
+  Chose: Action('ATTACH_BENCH', a=Fighting Energy, b=1)
+
+Game 3 vs Aggressive | Turn 22
+  Active: None, Energy: 0, Hand: 3
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PASS')
+
+Game 3 vs Aggressive | Turn 24
+  Active: None, Energy: 0, Hand: 4
+  Legal: 0 attacks, 6 attaches, 0 evolves
+  Chose: Action('ATTACH_BENCH', a=Metal Energy, b=0)
+
+Game 3 vs Aggressive | Turn 24
+  Active: None, Energy: 0, Hand: 3
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PASS')
+
+Game 3 vs Aggressive | Turn 26
+  Active: None, Energy: 0, Hand: 4
+  Legal: 0 attacks, 3 attaches, 0 evolves
+  Chose: Action('PLAY_TRAINER', a=Superior Energy Retrieval, b=0, c=4)
+
+Game 3 vs Aggressive | Turn 26
+  Active: None, Energy: 0, Hand: 2
+  Legal: 0 attacks, 3 attaches, 0 evolves
+  Chose: Action('ATTACH_BENCH', a=Fighting Energy, b=1)
+
+Game 3 vs Aggressive | Turn 26
+  Active: None, Energy: 0, Hand: 1
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PASS')
+
+Game 3 vs Aggressive | Turn 28
+  Active: None, Energy: 0, Hand: 2
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PLAY_TRAINER', a=Professor Turo's Scenario, b=3)
+
+Game 3 vs Aggressive | Turn 28
+  Active: None, Energy: 0, Hand: 2
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PASS')
+
+Game 3 vs Aggressive | Turn 30
+  Active: None, Energy: 0, Hand: 3
+  Legal: 0 attacks, 1 attaches, 0 evolves
+  Chose: Action('ATTACH_BENCH', a=Fighting Energy, b=0)
+
+Game 3 vs Aggressive | Turn 30
+  Active: None, Energy: 0, Hand: 2
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PASS')
+
+Game 3 vs Aggressive | Turn 32
+  Active: None, Energy: 0, Hand: 3
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PLAY_TRAINER', a=Arven, b=6)
+
+Game 3 vs Aggressive | Turn 32
+  Active: None, Energy: 0, Hand: 3
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PASS')
+
+Game 3 vs Aggressive | Turn 34
+  Active: None, Energy: 0, Hand: 4
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PLAY_BASIC_TO_BENCH', a=Fezandipiti ex, b=4)
+
+Game 3 vs Aggressive | Turn 34
+  Active: None, Energy: 0, Hand: 3
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PASS')
+
+Game 3 vs Aggressive | Turn 36
+  Active: None, Energy: 0, Hand: 4
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PLAY_BASIC_TO_BENCH', a=Gimmighoul, b=2)
+
+Game 3 vs Aggressive | Turn 36
+  Active: None, Energy: 0, Hand: 3
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PASS')
+
+Game 3 vs Aggressive | Turn 38
+  Active: None, Energy: 0, Hand: 4
+  Legal: 0 attacks, 0 attaches, 1 evolves
+  Chose: Action('PASS')
+
+Game 3 vs Aggressive | Turn 40
+  Active: None, Energy: 0, Hand: 5
+  Legal: 0 attacks, 3 attaches, 1 evolves
+  Chose: Action('ATTACH_BENCH', a=Fighting Energy, b=4)
+
+Game 3 vs Aggressive | Turn 40
+  Active: None, Energy: 0, Hand: 4
+  Legal: 0 attacks, 0 attaches, 1 evolves
+  Chose: Action('EVOLVE_BENCH', a=Gholdengo ex, b=2)
+
+Game 3 vs Aggressive | Turn 40
+  Active: None, Energy: 0, Hand: 3
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PLAY_TRAINER', a=Prime Catcher, b=6)
+
+Game 3 vs Aggressive | Turn 40
+  Active: Hop's Cramorant, Energy: 2, Hand: 2
+  Legal: 7 attacks, 0 attaches, 0 evolves
+  Chose: Action('ATTACK', b=0)
+
+Game 3 vs Aggressive | Turn 42
+  Active: Hop's Cramorant, Energy: 2, Hand: 3
+  Legal: 7 attacks, 0 attaches, 0 evolves
+  Chose: Action('ATTACK', b=0, c=2)
+
+Game 3 vs Aggressive | Turn 44
+  Active: Hop's Cramorant, Energy: 2, Hand: 4
+  Legal: 7 attacks, 3 attaches, 0 evolves
+  Chose: Action('ATTACK', b=0, c=5)
+
+Game 3 vs Aggressive | Turn 46
+  Active: Hop's Cramorant, Energy: 2, Hand: 5
+  Legal: 7 attacks, 3 attaches, 0 evolves
+  Chose: Action('ATTACK', b=0, c=1)
+
+Game 3 vs Aggressive | Turn 48
+  Active: Hop's Cramorant, Energy: 2, Hand: 6
+  Legal: 7 attacks, 3 attaches, 0 evolves
+  Chose: Action('ATTACH_ACTIVE', a=Fighting Energy)
+
+Game 3 vs Aggressive | Turn 48
+  Active: Hop's Cramorant, Energy: 3, Hand: 5
+  Legal: 7 attacks, 0 attaches, 0 evolves
+  Chose: Action('PLAY_TRAINER', a=Fighting Gong, b=2)
+
+Game 3 vs Aggressive | Turn 48
+  Active: Hop's Cramorant, Energy: 3, Hand: 5
+  Legal: 7 attacks, 0 attaches, 0 evolves
+  Chose: Action('ATTACK', b=0, c=5)
+
+Game 3 vs Aggressive | Turn 50
+  Active: Hop's Cramorant, Energy: 3, Hand: 6
+  Legal: 7 attacks, 0 attaches, 0 evolves
+  Chose: Action('PLAY_TRAINER', a=Fighting Gong, b=0)
+
+Game 3 vs Aggressive | Turn 50
+  Active: Hop's Cramorant, Energy: 3, Hand: 5
+  Legal: 7 attacks, 0 attaches, 0 evolves
+  Chose: Action('ATTACK', b=0, c=4)
+
+Game 1 vs Defensive | Turn 2
+  Active: Hop's Cramorant, Energy: 0, Hand: 9
+  Legal: 0 attacks, 2 attaches, 0 evolves
+  Chose: Action('PLAY_TRAINER', a=Air Balloon, b=3)
+
+Game 1 vs Defensive | Turn 2
+  Active: Hop's Cramorant, Energy: 0, Hand: 8
+  Legal: 0 attacks, 1 attaches, 0 evolves
+  Chose: Action('PLAY_TRAINER', a=Earthen Vessel, b=0)
+
+Game 1 vs Defensive | Turn 2
+  Active: Hop's Cramorant, Energy: 0, Hand: 8
+  Legal: 0 attacks, 2 attaches, 0 evolves
+  Chose: Action('ATTACH_ACTIVE', a=Fighting Energy)
+
+Game 1 vs Defensive | Turn 2
+  Active: Hop's Cramorant, Energy: 1, Hand: 7
+  Legal: 7 attacks, 0 attaches, 0 evolves
+  Chose: Action('PASS')
+
+Game 1 vs Defensive | Turn 4
+  Active: Hop's Cramorant, Energy: 1, Hand: 8
+  Legal: 7 attacks, 2 attaches, 0 evolves
+  Chose: Action('ATTACK', b=0)
+
+Game 1 vs Defensive | Turn 6
+  Active: Hop's Cramorant, Energy: 1, Hand: 9
+  Legal: 7 attacks, 2 attaches, 0 evolves
+  Chose: Action('ATTACH_ACTIVE', a=Metal Energy)
+
+Game 1 vs Defensive | Turn 6
+  Active: Hop's Cramorant, Energy: 2, Hand: 8
+  Legal: 7 attacks, 0 attaches, 0 evolves
+  Chose: Action('ATTACK', b=0, c=3)
+
+Game 1 vs Defensive | Turn 8
+  Active: Hop's Cramorant, Energy: 2, Hand: 9
+  Legal: 7 attacks, 1 attaches, 0 evolves
+  Chose: Action('ATTACK', b=0, c=4)
+
+Game 1 vs Defensive | Turn 10
+  Active: Hop's Cramorant, Energy: 2, Hand: 10
+  Legal: 7 attacks, 1 attaches, 0 evolves
+  Chose: Action('ATTACK', b=0, c=5)
+
+Game 1 vs Defensive | Turn 12
+  Active: Hop's Cramorant, Energy: 2, Hand: 11
+  Legal: 7 attacks, 1 attaches, 0 evolves
+  Chose: Action('ATTACK', b=0)
+
+Game 1 vs Defensive | Turn 14
+  Active: Hop's Cramorant, Energy: 2, Hand: 12
+  Legal: 7 attacks, 1 attaches, 0 evolves
+  Chose: Action('PASS')
+
+Game 1 vs Defensive | Turn 16
+  Active: Hop's Cramorant, Energy: 2, Hand: 13
+  Legal: 7 attacks, 2 attaches, 0 evolves
+  Chose: Action('ATTACK', b=0, c=3)
+
+Game 1 vs Defensive | Turn 18
+  Active: Hop's Cramorant, Energy: 2, Hand: 14
+  Legal: 7 attacks, 2 attaches, 0 evolves
+  Chose: Action('ATTACK', b=0, c=2)
+
+Game 1 vs Defensive | Turn 20
+  Active: Hop's Cramorant, Energy: 2, Hand: 15
+  Legal: 7 attacks, 2 attaches, 0 evolves
+  Chose: Action('ATTACK', b=0, c=3)
+
+Game 1 vs Defensive | Turn 22
+  Active: Hop's Cramorant, Energy: 2, Hand: 16
+  Legal: 7 attacks, 2 attaches, 0 evolves
+  Chose: Action('ATTACK', b=0, c=0)
+
+Game 1 vs Defensive | Turn 24
+  Active: Hop's Cramorant, Energy: 2, Hand: 17
+  Legal: 7 attacks, 2 attaches, 0 evolves
+  Chose: Action('ATTACK', b=0, c=0)
+
+Game 1 vs Defensive | Turn 26
+  Active: Hop's Cramorant, Energy: 2, Hand: 18
+  Legal: 7 attacks, 2 attaches, 0 evolves
+  Chose: Action('ATTACK', b=0, c=0)
+
+Game 1 vs Defensive | Turn 28
+  Active: Hop's Cramorant, Energy: 2, Hand: 19
+  Legal: 7 attacks, 2 attaches, 0 evolves
+  Chose: Action('ATTACK', b=0, c=2)
+
+Game 1 vs Defensive | Turn 30
+  Active: Hop's Cramorant, Energy: 2, Hand: 20
+  Legal: 7 attacks, 2 attaches, 0 evolves
+  Chose: Action('PASS')
+
+Game 1 vs Defensive | Turn 32
+  Active: Hop's Cramorant, Energy: 2, Hand: 21
+  Legal: 7 attacks, 2 attaches, 0 evolves
+  Chose: Action('ATTACK', b=0, c=0)
+
+Game 1 vs Defensive | Turn 34
+  Active: Hop's Cramorant, Energy: 2, Hand: 22
+  Legal: 7 attacks, 2 attaches, 0 evolves
+  Chose: Action('ATTACK', b=0)
+
+Game 1 vs Defensive | Turn 36
+  Active: Hop's Cramorant, Energy: 2, Hand: 23
+  Legal: 7 attacks, 2 attaches, 0 evolves
+  Chose: Action('PASS')
+
+Game 1 vs Defensive | Turn 38
+  Active: Hop's Cramorant, Energy: 2, Hand: 24
+  Legal: 7 attacks, 2 attaches, 0 evolves
+  Chose: Action('ATTACK', b=0)
+
+Game 1 vs Defensive | Turn 40
+  Active: Hop's Cramorant, Energy: 2, Hand: 25
+  Legal: 7 attacks, 2 attaches, 0 evolves
+  Chose: Action('ATTACK', b=0, c=3)
+
+Game 1 vs Defensive | Turn 42
+  Active: Hop's Cramorant, Energy: 2, Hand: 26
+  Legal: 7 attacks, 2 attaches, 0 evolves
+  Chose: Action('PASS')
+
+Game 1 vs Defensive | Turn 44
+  Active: Hop's Cramorant, Energy: 2, Hand: 27
+  Legal: 7 attacks, 2 attaches, 0 evolves
+  Chose: Action('ATTACK', b=0)
+
+Game 1 vs Defensive | Turn 46
+  Active: Hop's Cramorant, Energy: 2, Hand: 28
+  Legal: 7 attacks, 2 attaches, 0 evolves
+  Chose: Action('PASS')
+
+Game 1 vs Defensive | Turn 48
+  Active: Hop's Cramorant, Energy: 2, Hand: 29
+  Legal: 7 attacks, 2 attaches, 0 evolves
+  Chose: Action('ATTACK', b=0, c=3)
+
+Game 1 vs Defensive | Turn 50
+  Active: Hop's Cramorant, Energy: 2, Hand: 30
+  Legal: 7 attacks, 2 attaches, 0 evolves
+  Chose: Action('PASS')
+
+Game 2 vs Defensive | Turn 2
+  Active: Gimmighoul, Energy: 0, Hand: 7
+  Legal: 0 attacks, 2 attaches, 0 evolves
+  Chose: Action('ATTACH_TOOL_ACTIVE', a=Air Balloon)
+
+Game 2 vs Defensive | Turn 2
+  Active: Gimmighoul, Energy: 0, Hand: 6
+  Legal: 0 attacks, 1 attaches, 0 evolves
+  Chose: Action('PASS')
+
+Game 2 vs Defensive | Turn 4
+  Active: Gimmighoul, Energy: 0, Hand: 7
+  Legal: 0 attacks, 1 attaches, 0 evolves
+  Chose: Action('ATTACH_ACTIVE', a=Fighting Energy)
+
+Game 2 vs Defensive | Turn 4
+  Active: Gimmighoul, Energy: 1, Hand: 6
+  Legal: 7 attacks, 0 attaches, 0 evolves
+  Chose: Action('ATTACK', b=0)
+
+Game 2 vs Defensive | Turn 6
+  Active: Gimmighoul, Energy: 1, Hand: 9
+  Legal: 7 attacks, 2 attaches, 0 evolves
+  Chose: Action('ATTACK', b=0)
+
+Game 2 vs Defensive | Turn 8
+  Active: Gimmighoul, Energy: 1, Hand: 12
+  Legal: 7 attacks, 2 attaches, 0 evolves
+  Chose: Action('ATTACK', b=0, c=4)
+
+Game 3 vs Defensive | Turn 1
+  Active: Lunatone, Energy: 0, Hand: 6
+  Legal: 0 attacks, 2 attaches, 0 evolves
+  Chose: Action('PASS')
+
+Game 3 vs Defensive | Turn 3
+  Active: Lunatone, Energy: 0, Hand: 7
+  Legal: 0 attacks, 2 attaches, 0 evolves
+  Chose: Action('PASS')
+
+Game 3 vs Defensive | Turn 5
+  Active: Lunatone, Energy: 0, Hand: 8
+  Legal: 0 attacks, 2 attaches, 0 evolves
+  Chose: Action('PLAY_TRAINER', a=Fighting Gong, b=2)
+
+Game 3 vs Defensive | Turn 5
+  Active: Lunatone, Energy: 0, Hand: 8
+  Legal: 0 attacks, 3 attaches, 0 evolves
+  Chose: Action('ATTACH_TOOL_ACTIVE', a=Air Balloon)
+
+Game 3 vs Defensive | Turn 5
+  Active: Lunatone, Energy: 0, Hand: 7
+  Legal: 0 attacks, 2 attaches, 0 evolves
+  Chose: Action('ATTACH_ACTIVE', a=Fighting Energy)
+
+Game 3 vs Defensive | Turn 5
+  Active: Lunatone, Energy: 1, Hand: 6
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PASS')
+
+Game 3 vs Defensive | Turn 7
+  Active: Lunatone, Energy: 1, Hand: 7
+  Legal: 0 attacks, 1 attaches, 0 evolves
+  Chose: Action('PLAY_TRAINER', a=Superior Energy Retrieval, b=0, c=1)
+
+Game 3 vs Defensive | Turn 7
+  Active: Lunatone, Energy: 1, Hand: 4
+  Legal: 0 attacks, 1 attaches, 0 evolves
+  Chose: Action('PLAY_TRAINER', a=Fighting Gong, b=1)
+
+Game 3 vs Defensive | Turn 7
+  Active: Lunatone, Energy: 1, Hand: 4
+  Legal: 0 attacks, 1 attaches, 0 evolves
+  Chose: Action('ATTACH_ACTIVE', a=Metal Energy)
+
+Game 3 vs Defensive | Turn 7
+  Active: Lunatone, Energy: 2, Hand: 3
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PASS')
+
+Game 3 vs Defensive | Turn 9
+  Active: Lunatone, Energy: 2, Hand: 4
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PASS')
+
+Game 3 vs Defensive | Turn 11
+  Active: Lunatone, Energy: 2, Hand: 5
+  Legal: 0 attacks, 0 attaches, 0 evolves
+  Chose: Action('PASS')
+
+
+=== SUMMARY ===
+Random: 30%, Aggressive: 30%

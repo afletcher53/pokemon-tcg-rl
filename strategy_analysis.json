@@ -1,0 +1,528 @@
+{
+  "summary": {
+    "total_games": 200,
+    "p0_wins": 81,
+    "p1_wins": 24,
+    "draws": 95,
+    "p0_win_rate": 0.405,
+    "p1_win_rate": 0.12,
+    "avg_game_steps": 95.445,
+    "avg_game_turns": 22.73,
+    "avg_first_attack_p0": 5.01010101010101,
+    "avg_first_attack_p1": 8.982035928143713
+  },
+  "action_frequencies": {
+    "p0": {
+      "ATTACH_ACTIVE": 851,
+      "PLAY_TRAINER": 3975,
+      "PLAY_BASIC_TO_BENCH": 752,
+      "PASS": 805,
+      "EVOLVE_BENCH": 770,
+      "ATTACK": 1499,
+      "ATTACH_BENCH": 199,
+      "USE_ACTIVE_ABILITY": 304,
+      "EVOLVE_ACTIVE": 327,
+      "RETREAT_TO": 56
+    },
+    "p1": {
+      "ATTACH_ACTIVE": 556,
+      "PLAY_BASIC_TO_BENCH": 824,
+      "PLAY_TRAINER": 3721,
+      "PASS": 1511,
+      "ATTACK": 617,
+      "RETREAT_TO": 791,
+      "EVOLVE_BENCH": 392,
+      "ATTACH_BENCH": 564,
+      "USE_ACTIVE_ABILITY": 448,
+      "EVOLVE_ACTIVE": 127
+    }
+  },
+  "card_play_rates": {
+    "p0": {
+      "Enriching Energy": 179,
+      "Buddy-Buddy Poffin": 593,
+      "Abra": 213,
+      "Wondrous Patch": 273,
+      "Hilda": 554,
+      "Basic Psychic Energy": 698,
+      "Dudunsparce": 457,
+      "Boss's Orders": 207,
+      "Dunsparce": 283,
+      "Kadabra": 343,
+      "Enhanced Hammer": 293,
+      "Dawn": 460,
+      "Night Stretcher": 281,
+      "Nest Ball": 274,
+      "Alakazam": 297,
+      "Rare Candy": 448,
+      "Tulip": 93,
+      "Battle Cage": 384,
+      "Jet Energy": 173,
+      "Fan Rotom": 127,
+      "Lillie's Determination": 115,
+      "Fezandipiti ex": 72,
+      "Psyduck": 57
+    },
+    "p1": {
+      "Darkness Energy": 135,
+      "Shaymin": 106,
+      "Buddy-Buddy Poffin": 540,
+      "Unfair Stamp": 143,
+      "Boss's Orders": 283,
+      "Lillie's Determination": 332,
+      "Rare Candy": 280,
+      "Artazon": 148,
+      "Fire Energy": 628,
+      "Charmander": 178,
+      "Arven": 483,
+      "Technical Machine: Evolution": 265,
+      "Iono": 178,
+      "Ultra Ball": 431,
+      "Charmeleon": 195,
+      "Pidgeotto": 141,
+      "Pidgey": 91,
+      "Pidgeot ex": 84,
+      "Counter Catcher": 134,
+      "Energy Search": 133,
+      "Super Rod": 273,
+      "Tatsugiri": 67,
+      "Mist Energy": 246,
+      "Professor Turo's Scenario": 98,
+      "Gouging Fire ex": 79,
+      "Jet Energy": 111,
+      "Munkidori": 84,
+      "Psyduck": 49,
+      "Fezandipiti ex": 79,
+      "Chi-Yu": 91,
+      "Charizard ex": 99
+    }
+  },
+  "attack_usage": {
+    "p0": {
+      "Psyduck": 68,
+      "Alakazam": 603,
+      "Abra": 142,
+      "Kadabra": 85,
+      "Fan Rotom": 434,
+      "Fezandipiti ex": 16,
+      "Dunsparce": 150,
+      "Dudunsparce": 1
+    },
+    "p1": {
+      "Charmander": 58,
+      "Pidgey": 142,
+      "Tatsugiri": 55,
+      "Psyduck": 33,
+      "Munkidori": 22,
+      "Fezandipiti ex": 22,
+      "Charizard ex": 107,
+      "Shaymin": 41,
+      "Pidgeotto": 32,
+      "Gouging Fire ex": 23,
+      "Pidgeot ex": 55,
+      "Chi-Yu": 25,
+      "Charmeleon": 2
+    }
+  },
+  "turn_action_breakdown": {
+    "1": {
+      "ATTACH_ACTIVE": 93,
+      "PLAY_TRAINER": 407,
+      "PLAY_BASIC_TO_BENCH": 190,
+      "PASS": 200,
+      "USE_ACTIVE_ABILITY": 34,
+      "ATTACH_BENCH": 9
+    },
+    "2": {
+      "ATTACH_ACTIVE": 108,
+      "PLAY_BASIC_TO_BENCH": 256,
+      "PLAY_TRAINER": 697,
+      "PASS": 176,
+      "ATTACH_BENCH": 45,
+      "USE_ACTIVE_ABILITY": 38,
+      "EVOLVE_ACTIVE": 17,
+      "ATTACK": 24
+    },
+    "3": {
+      "PLAY_TRAINER": 314,
+      "ATTACH_ACTIVE": 107,
+      "EVOLVE_BENCH": 87,
+      "PASS": 86,
+      "ATTACK": 114,
+      "PLAY_BASIC_TO_BENCH": 100,
+      "EVOLVE_ACTIVE": 69,
+      "USE_ACTIVE_ABILITY": 37,
+      "ATTACH_BENCH": 18,
+      "RETREAT_TO": 1
+    },
+    "4": {
+      "PLAY_TRAINER": 354,
+      "ATTACH_ACTIVE": 62,
+      "PLAY_BASIC_TO_BENCH": 93,
+      "ATTACK": 43,
+      "EVOLVE_BENCH": 55,
+      "PASS": 157,
+      "ATTACH_BENCH": 55,
+      "RETREAT_TO": 22,
+      "EVOLVE_ACTIVE": 18,
+      "USE_ACTIVE_ABILITY": 36
+    },
+    "5": {
+      "PLAY_TRAINER": 343,
+      "PASS": 69,
+      "ATTACH_ACTIVE": 97,
+      "EVOLVE_BENCH": 92,
+      "ATTACK": 131,
+      "PLAY_BASIC_TO_BENCH": 83,
+      "EVOLVE_ACTIVE": 54,
+      "ATTACH_BENCH": 15,
+      "USE_ACTIVE_ABILITY": 23,
+      "RETREAT_TO": 5
+    },
+    "6": {
+      "PLAY_TRAINER": 298,
+      "PASS": 136,
+      "ATTACH_ACTIVE": 43,
+      "ATTACK": 61,
+      "ATTACH_BENCH": 53,
+      "RETREAT_TO": 22,
+      "USE_ACTIVE_ABILITY": 27,
+      "PLAY_BASIC_TO_BENCH": 70,
+      "EVOLVE_BENCH": 44,
+      "EVOLVE_ACTIVE": 11
+    },
+    "7": {
+      "PLAY_TRAINER": 351,
+      "PASS": 55,
+      "PLAY_BASIC_TO_BENCH": 70,
+      "ATTACH_ACTIVE": 86,
+      "EVOLVE_ACTIVE": 32,
+      "ATTACK": 142,
+      "EVOLVE_BENCH": 103,
+      "USE_ACTIVE_ABILITY": 23,
+      "ATTACH_BENCH": 28,
+      "RETREAT_TO": 5
+    },
+    "8": {
+      "PLAY_TRAINER": 329,
+      "ATTACK": 67,
+      "ATTACH_BENCH": 47,
+      "PASS": 129,
+      "ATTACH_ACTIVE": 53,
+      "USE_ACTIVE_ABILITY": 41,
+      "EVOLVE_BENCH": 42,
+      "PLAY_BASIC_TO_BENCH": 68,
+      "RETREAT_TO": 29,
+      "EVOLVE_ACTIVE": 7
+    },
+    "9": {
+      "PLAY_TRAINER": 372,
+      "PASS": 43,
+      "EVOLVE_ACTIVE": 24,
+      "ATTACH_ACTIVE": 89,
+      "EVOLVE_BENCH": 85,
+      "ATTACK": 152,
+      "RETREAT_TO": 5,
+      "USE_ACTIVE_ABILITY": 28,
+      "PLAY_BASIC_TO_BENCH": 55,
+      "ATTACH_BENCH": 22
+    },
+    "10": {
+      "ATTACH_ACTIVE": 45,
+      "PLAY_TRAINER": 322,
+      "RETREAT_TO": 44,
+      "PASS": 144,
+      "USE_ACTIVE_ABILITY": 40,
+      "PLAY_BASIC_TO_BENCH": 59,
+      "ATTACK": 50,
+      "ATTACH_BENCH": 49,
+      "EVOLVE_BENCH": 34,
+      "EVOLVE_ACTIVE": 9
+    },
+    "11": {
+      "ATTACH_ACTIVE": 78,
+      "PLAY_BASIC_TO_BENCH": 37,
+      "EVOLVE_BENCH": 87,
+      "PLAY_TRAINER": 330,
+      "ATTACK": 155,
+      "ATTACH_BENCH": 27,
+      "USE_ACTIVE_ABILITY": 26,
+      "PASS": 38,
+      "RETREAT_TO": 7,
+      "EVOLVE_ACTIVE": 29
+    },
+    "12": {
+      "PLAY_TRAINER": 334,
+      "EVOLVE_BENCH": 33,
+      "PASS": 138,
+      "USE_ACTIVE_ABILITY": 43,
+      "PLAY_BASIC_TO_BENCH": 57,
+      "ATTACH_ACTIVE": 50,
+      "ATTACH_BENCH": 47,
+      "RETREAT_TO": 40,
+      "ATTACK": 55,
+      "EVOLVE_ACTIVE": 12
+    },
+    "13": {
+      "EVOLVE_BENCH": 80,
+      "PLAY_TRAINER": 357,
+      "ATTACK": 149,
+      "EVOLVE_ACTIVE": 26,
+      "USE_ACTIVE_ABILITY": 22,
+      "ATTACH_ACTIVE": 67,
+      "PLAY_BASIC_TO_BENCH": 41,
+      "ATTACH_BENCH": 23,
+      "RETREAT_TO": 6,
+      "PASS": 43
+    },
+    "14": {
+      "PLAY_TRAINER": 307,
+      "PLAY_BASIC_TO_BENCH": 48,
+      "EVOLVE_BENCH": 55,
+      "RETREAT_TO": 51,
+      "PASS": 134,
+      "ATTACH_BENCH": 59,
+      "USE_ACTIVE_ABILITY": 46,
+      "ATTACH_ACTIVE": 44,
+      "ATTACK": 56,
+      "EVOLVE_ACTIVE": 10
+    },
+    "15": {
+      "PLAY_TRAINER": 326,
+      "ATTACK": 150,
+      "EVOLVE_ACTIVE": 21,
+      "ATTACH_ACTIVE": 63,
+      "PLAY_BASIC_TO_BENCH": 28,
+      "EVOLVE_BENCH": 63,
+      "ATTACH_BENCH": 13,
+      "RETREAT_TO": 6,
+      "USE_ACTIVE_ABILITY": 17,
+      "PASS": 40
+    },
+    "16": {
+      "ATTACH_ACTIVE": 40,
+      "PLAY_TRAINER": 283,
+      "RETREAT_TO": 51,
+      "PASS": 129,
+      "ATTACK": 54,
+      "USE_ACTIVE_ABILITY": 49,
+      "ATTACH_BENCH": 49,
+      "PLAY_BASIC_TO_BENCH": 38,
+      "EVOLVE_ACTIVE": 11,
+      "EVOLVE_BENCH": 28
+    },
+    "17": {
+      "PLAY_TRAINER": 327,
+      "ATTACK": 133,
+      "EVOLVE_BENCH": 56,
+      "USE_ACTIVE_ABILITY": 29,
+      "ATTACH_ACTIVE": 56,
+      "PLAY_BASIC_TO_BENCH": 44,
+      "PASS": 50,
+      "EVOLVE_ACTIVE": 20,
+      "ATTACH_BENCH": 13,
+      "RETREAT_TO": 6
+    },
+    "18": {
+      "ATTACH_ACTIVE": 35,
+      "ATTACK": 57,
+      "PLAY_TRAINER": 225,
+      "PLAY_BASIC_TO_BENCH": 46,
+      "PASS": 115,
+      "EVOLVE_BENCH": 28,
+      "EVOLVE_ACTIVE": 11,
+      "USE_ACTIVE_ABILITY": 38,
+      "ATTACH_BENCH": 45,
+      "RETREAT_TO": 39
+    },
+    "19": {
+      "PLAY_TRAINER": 296,
+      "ATTACH_BENCH": 9,
+      "USE_ACTIVE_ABILITY": 27,
+      "PLAY_BASIC_TO_BENCH": 32,
+      "ATTACK": 122,
+      "ATTACH_ACTIVE": 46,
+      "EVOLVE_ACTIVE": 21,
+      "PASS": 47,
+      "EVOLVE_BENCH": 44,
+      "RETREAT_TO": 5
+    },
+    "20": {
+      "PLAY_BASIC_TO_BENCH": 36,
+      "PLAY_TRAINER": 219,
+      "ATTACH_BENCH": 47,
+      "PASS": 102,
+      "USE_ACTIVE_ABILITY": 31,
+      "RETREAT_TO": 445,
+      "ATTACK": 53,
+      "EVOLVE_ACTIVE": 13,
+      "ATTACH_ACTIVE": 34,
+      "EVOLVE_BENCH": 20
+    },
+    "21": {
+      "PLAY_TRAINER": 230,
+      "ATTACH_ACTIVE": 31,
+      "EVOLVE_BENCH": 31,
+      "ATTACK": 104,
+      "PASS": 47,
+      "USE_ACTIVE_ABILITY": 24,
+      "PLAY_BASIC_TO_BENCH": 29,
+      "EVOLVE_ACTIVE": 11,
+      "RETREAT_TO": 8,
+      "ATTACH_BENCH": 8
+    },
+    "22": {
+      "PLAY_TRAINER": 197,
+      "PASS": 83,
+      "ATTACH_ACTIVE": 27,
+      "PLAY_BASIC_TO_BENCH": 33,
+      "RETREAT_TO": 22,
+      "USE_ACTIVE_ABILITY": 32,
+      "EVOLVE_ACTIVE": 4,
+      "ATTACK": 52,
+      "ATTACH_BENCH": 39,
+      "EVOLVE_BENCH": 29
+    },
+    "23": {
+      "PLAY_TRAINER": 176,
+      "PASS": 45,
+      "ATTACK": 81,
+      "EVOLVE_ACTIVE": 11,
+      "ATTACH_ACTIVE": 21,
+      "PLAY_BASIC_TO_BENCH": 21,
+      "EVOLVE_BENCH": 26,
+      "USE_ACTIVE_ABILITY": 7,
+      "ATTACH_BENCH": 7
+    },
+    "24": {
+      "PLAY_TRAINER": 156,
+      "PASS": 68,
+      "ATTACH_BENCH": 29,
+      "EVOLVE_BENCH": 24,
+      "ATTACH_ACTIVE": 15,
+      "USE_ACTIVE_ABILITY": 27,
+      "ATTACK": 45,
+      "PLAY_BASIC_TO_BENCH": 20,
+      "RETREAT_TO": 26,
+      "EVOLVE_ACTIVE": 4
+    },
+    "25": {
+      "PLAY_TRAINER": 146,
+      "ATTACH_ACTIVE": 17,
+      "ATTACK": 66,
+      "EVOLVE_ACTIVE": 9,
+      "PASS": 42,
+      "ATTACH_BENCH": 7,
+      "PLAY_BASIC_TO_BENCH": 22,
+      "RETREAT_TO": 2,
+      "USE_ACTIVE_ABILITY": 7,
+      "EVOLVE_BENCH": 16
+    }
+  },
+  "top_openings": {
+    "p0": [
+      [
+        [
+          "PLAY_TRAINER:Enhanced Hammer",
+          "PLAY_BASIC_TO_BENCH:Dunsparce",
+          "PLAY_BASIC_TO_BENCH:Fan Rotom",
+          "PLAY_TRAINER:Buddy-Buddy Poffin",
+          "PASS"
+        ],
+        2
+      ],
+      [
+        [
+          "ATTACH_ACTIVE:Enriching Energy",
+          "PLAY_TRAINER:Buddy-Buddy Poffin",
+          "PLAY_BASIC_TO_BENCH:Abra",
+          "PLAY_TRAINER:Wondrous Patch",
+          "PASS"
+        ],
+        1
+      ],
+      [
+        [
+          "PLAY_TRAINER:Night Stretcher",
+          "PLAY_TRAINER:Wondrous Patch",
+          "PLAY_TRAINER:Wondrous Patch",
+          "PLAY_TRAINER:Battle Cage",
+          "PASS"
+        ],
+        1
+      ],
+      [
+        [
+          "PLAY_TRAINER:Rare Candy",
+          "PLAY_BASIC_TO_BENCH:Abra",
+          "PLAY_BASIC_TO_BENCH:Abra",
+          "PASS",
+          "PLAY_TRAINER:Hilda"
+        ],
+        1
+      ],
+      [
+        [
+          "USE_ACTIVE_ABILITY",
+          "PLAY_BASIC_TO_BENCH:Dunsparce",
+          "PLAY_TRAINER:Night Stretcher",
+          "PLAY_BASIC_TO_BENCH:Abra",
+          "PLAY_BASIC_TO_BENCH:Abra"
+        ],
+        1
+      ]
+    ],
+    "p1": [
+      [
+        [
+          "ATTACH_ACTIVE:Darkness Energy",
+          "PLAY_BASIC_TO_BENCH:Shaymin",
+          "PLAY_TRAINER:Buddy-Buddy Poffin",
+          "PLAY_TRAINER:Unfair Stamp",
+          "PLAY_TRAINER:Boss's Orders"
+        ],
+        1
+      ],
+      [
+        [
+          "PLAY_TRAINER:Buddy-Buddy Poffin",
+          "ATTACH_BENCH:Mist Energy",
+          "USE_ACTIVE_ABILITY",
+          "PLAY_TRAINER:Energy Search",
+          "PLAY_TRAINER:Technical Machine: Evolution"
+        ],
+        1
+      ],
+      [
+        [
+          "PLAY_TRAINER:Buddy-Buddy Poffin",
+          "PLAY_BASIC_TO_BENCH:Tatsugiri",
+          "PLAY_TRAINER:Arven",
+          "PLAY_TRAINER:Super Rod",
+          "PLAY_TRAINER:Unfair Stamp"
+        ],
+        1
+      ],
+      [
+        [
+          "PLAY_TRAINER:Energy Search",
+          "ATTACH_ACTIVE:Fire Energy",
+          "PLAY_TRAINER:Technical Machine: Evolution",
+          "PLAY_TRAINER:Arven",
+          "PLAY_TRAINER:Buddy-Buddy Poffin"
+        ],
+        1
+      ],
+      [
+        [
+          "PLAY_TRAINER:Buddy-Buddy Poffin",
+          "PLAY_BASIC_TO_BENCH:Chi-Yu",
+          "PLAY_BASIC_TO_BENCH:Tatsugiri",
+          "PLAY_TRAINER:Iono",
+          "ATTACH_BENCH:Mist Energy"
+        ],
+        1
+      ]
+    ]
+  }
+}
